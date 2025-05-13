@@ -62,6 +62,18 @@ export default function RootLayout({
             gtag('config', 'G-X85K71DQ7R');
           `}
         </Script>
+        
+        {/* Bing Clarity */}
+        <Script id="bing-clarity" strategy="afterInteractive">
+          {`
+            (function(c,l,a,r,i,t,y){
+                c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+                t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+                y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+            })(window, document, "clarity", "script", "riu9rb6rqa");
+          `}
+        </Script>
+        
         {/* Tailwind loading to ensure styles are applied correctly */}
       </head>
       <body className={`${inter.variable} ${robotoMono.variable} bg-gray-900 text-white antialiased`}>

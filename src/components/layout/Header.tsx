@@ -6,12 +6,10 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { usePathname } from 'next/navigation';
 
 const navItems = [
-  { name: '首页', path: '/' },
-  { name: '角色收藏', path: '/characters' },
-  { name: '开始游戏', path: '/game' },
-  { name: '玩法指南', path: '/guides' },
-  { name: '游戏特色', path: '/features' },
-  { name: '常见问题', path: '/faq' },
+  { name: 'Home', path: '/' },
+  { name: 'Features', path: '/#features' },
+  { name: 'Guides', path: '/#guides' },
+  { name: 'FAQ', path: '/#faq' },
 ];
 
 export default function Header() {
@@ -19,7 +17,7 @@ export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const pathname = usePathname();
 
-  // 处理滚动事件改变导航栏样式
+  // Handle scroll event to change navigation bar style
   useEffect(() => {
     const handleScroll = () => {
       if (window.scrollY > 10) {
@@ -47,11 +45,11 @@ export default function Header() {
         {/* Logo */}
         <Link href="/" className="flex items-center">
           <div className="text-2xl font-bold text-purple-500">
-            BrainrotClicker
+            Italian Brainrot Clicker
           </div>
         </Link>
 
-        {/* 桌面端导航 */}
+        {/* Desktop Navigation */}
         <nav className="hidden md:flex space-x-8">
           {navItems.map((item) => (
             <Link
@@ -66,7 +64,7 @@ export default function Header() {
           ))}
         </nav>
 
-        {/* 移动端菜单按钮 */}
+        {/* Mobile Menu Button */}
         <button
           className="md:hidden text-white"
           onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
@@ -86,7 +84,7 @@ export default function Header() {
         </button>
       </div>
 
-      {/* 移动端导航菜单 */}
+      {/* Mobile Navigation Menu */}
       <AnimatePresence>
         {mobileMenuOpen && (
           <motion.div

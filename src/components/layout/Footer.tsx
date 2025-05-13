@@ -7,13 +7,13 @@ export default function Footer() {
     <footer className="bg-gray-800 py-12 border-t border-gray-700">
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
-          {/* Logo & 描述 */}
+          {/* Logo & Description */}
           <div className="col-span-1 md:col-span-2">
             <Link href="/" className="block mb-4">
-              <h2 className="text-xl font-bold text-purple-500">BrainrotClicker</h2>
+              <h2 className="text-xl font-bold text-purple-500">Italian Brainrot Clicker</h2>
             </Link>
             <p className="text-gray-400 text-sm mb-4">
-              探索奇幻互联网世界的点击游戏，收集脑腐值，解锁稀奇古怪的角色和故事。
+              A clicking game exploring the fantastic internet world, collect brainrot points, unlock stories and more.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="text-gray-400 hover:text-purple-500 transition-colors">
@@ -42,32 +42,31 @@ export default function Footer() {
             </div>
           </div>
 
-          {/* 导航链接 */}
+          {/* Navigation Links */}
           <div>
-            <h3 className="text-base font-bold mb-4 text-white">导航</h3>
+            <h3 className="text-base font-bold mb-4 text-white">Navigation</h3>
             <ul className="space-y-2 text-sm">
-              <li><Link href="/" className="text-gray-400 hover:text-purple-500 transition-colors">首页</Link></li>
-              <li><Link href="/characters" className="text-gray-400 hover:text-purple-500 transition-colors">角色收藏</Link></li>
-              <li><Link href="/game" className="text-gray-400 hover:text-purple-500 transition-colors">开始游戏</Link></li>
-              <li><Link href="/guides" className="text-gray-400 hover:text-purple-500 transition-colors">玩法指南</Link></li>
-              <li><Link href="/features" className="text-gray-400 hover:text-purple-500 transition-colors">游戏特色</Link></li>
-              <li><Link href="/faq" className="text-gray-400 hover:text-purple-500 transition-colors">常见问题</Link></li>
+              <li><Link href="/" className="text-gray-400 hover:text-purple-500 transition-colors">Home</Link></li>
+              <li><Link href="/" className="text-gray-400 hover:text-purple-500 transition-colors">Play Game</Link></li>
+              <li><Link href="/#guides" className="text-gray-400 hover:text-purple-500 transition-colors">Guides</Link></li>
+              <li><Link href="/#features" className="text-gray-400 hover:text-purple-500 transition-colors">Features</Link></li>
+              <li><Link href="/#faq" className="text-gray-400 hover:text-purple-500 transition-colors">FAQ</Link></li>
             </ul>
           </div>
 
-          {/* 法律信息 */}
+          {/* Legal Information */}
           <div>
-            <h3 className="text-base font-bold mb-4 text-white">法律信息</h3>
+            <h3 className="text-base font-bold mb-4 text-white">Legal</h3>
             <ul className="space-y-2 text-sm">
-              <li><Link href="#" className="text-gray-400 hover:text-purple-500 transition-colors">隐私政策</Link></li>
-              <li><Link href="#" className="text-gray-400 hover:text-purple-500 transition-colors">使用条款</Link></li>
-              <li><Link href="#" className="text-gray-400 hover:text-purple-500 transition-colors">Cookie政策</Link></li>
+              <li><Link href="#" className="text-gray-400 hover:text-purple-500 transition-colors">Privacy Policy</Link></li>
+              <li><Link href="#" className="text-gray-400 hover:text-purple-500 transition-colors">Terms of Use</Link></li>
+              <li><Link href="#" className="text-gray-400 hover:text-purple-500 transition-colors">Cookie Policy</Link></li>
             </ul>
           </div>
         </div>
         
         <div className="mt-12 pt-8 border-t border-gray-700 text-center text-gray-400 text-xs">
-          <p>© {currentYear} BrainrotClicker. 保留所有权利。</p>
+          <p>© {currentYear} Italian Brainrot Clicker. All rights reserved.</p>
         </div>
       </div>
     </footer>

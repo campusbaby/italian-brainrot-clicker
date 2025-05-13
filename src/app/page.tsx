@@ -1,11 +1,13 @@
 import Link from "next/link";
 import Layout from "@/components/layout/Layout";
 import { motion } from "framer-motion";
+import GameFrame from "@/components/game/GameFrame";
+import ScrollToTopButton from "@/components/ScrollToTopButton";
 
 export default function Home() {
   return (
     <Layout>
-      {/* 英雄区 */}
+      {/* Hero Section */}
       <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 bg-gray-900 z-0">
           <div className="absolute inset-0 bg-gradient-to-b from-gray-900 via-gray-900/70 to-gray-900/90" />
@@ -13,25 +15,14 @@ export default function Home() {
         
         <div className="container mx-auto px-4 relative z-10 py-20 flex flex-col items-center">
           <h1 className="text-4xl md:text-7xl font-bold text-center mb-6 bg-gradient-to-r from-purple-500 to-pink-500 bg-clip-text text-transparent">
-            Brainrot Clicker
+            Italian Brainrot Clicker
           </h1>
-          <p className="text-lg md:text-xl text-center text-gray-400 max-w-2xl mb-10">
-            探索奇幻互联网世界，收集脑腐值，解锁稀奇古怪的角色和故事
+          <p className="text-lg md:text-xl text-center text-gray-400 max-w-3xl mb-10">
+            Dive into this addictive incremental clicker game where you tap through the viral Italian Brainrot universe! Collect unique characters like Bombardino Crocodilo, Cappuccino Assasino, and many more as you progress.
           </p>
           
-          <div className="flex flex-col sm:flex-row gap-4 mb-16">
-            <Link href="/game" className="bg-purple-600 hover:bg-purple-700 px-6 py-3 rounded-lg font-medium text-white">
-              立即开始
-            </Link>
-            <Link href="/characters" className="border-2 border-purple-600 hover:bg-purple-600 text-purple-500 hover:text-white px-6 py-3 rounded-lg font-medium">
-              探索角色
-            </Link>
-          </div>
-          
-          <div className="relative w-full max-w-4xl aspect-video rounded-2xl overflow-hidden border-2 border-purple-500 shadow-lg">
-            <div className="absolute inset-0 bg-gray-800 flex items-center justify-center">
-              <p className="text-lg text-gray-400">游戏画面载入中...</p>
-            </div>
+          <div className="relative w-full max-w-7xl aspect-[16/9] rounded-2xl overflow-hidden border-2 border-purple-500 shadow-lg">
+            <GameFrame />
           </div>
           
           <div className="absolute bottom-10 left-1/2 transform -translate-x-1/2 animate-bounce">
@@ -42,13 +33,13 @@ export default function Home() {
         </div>
       </section>
 
-      {/* 游戏特点 */}
-      <section className="py-20 bg-gray-800">
+      {/* Game Features */}
+      <section id="features" className="py-20 bg-gray-800">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-purple-500 to-pink-500 bg-clip-text text-transparent">游戏特点</h2>
+            <h2 className="text-3xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-purple-500 to-pink-500 bg-clip-text text-transparent">Game Features</h2>
             <p className="text-gray-400 max-w-2xl mx-auto">
-              Brainrot Clicker 带你进入一个奇幻的互联网世界，点击收集脑腐值，解锁稀奇古怪的互联网角色
+              Explore the fascinating world of Italian Brainrot Clicker! Click your way through an immersive experience featuring unique characters and exciting upgrades that boost your gameplay experience.
             </p>
           </div>
           
@@ -59,9 +50,9 @@ export default function Home() {
                   <polygon points="5 3 19 12 5 21 5 3"></polygon>
                 </svg>
               </div>
-              <h3 className="text-xl font-bold mb-3">即点即玩</h3>
+              <h3 className="text-xl font-bold mb-3">Addictive Gameplay</h3>
               <p className="text-gray-400">
-                无需下载安装，直接在浏览器中享受点击游戏的乐趣，随时随地开始你的脑腐之旅。
+                Start playing instantly in your browser! Begin with Tralalero Tralala, a shark in Nike shoes, and click your way to fame and fortune through this addictive incremental adventure.
               </p>
             </div>
             
@@ -77,9 +68,9 @@ export default function Home() {
                   <line x1="16.62" y1="12" x2="10.88" y2="21.94"></line>
                 </svg>
               </div>
-              <h3 className="text-xl font-bold mb-3">奇特角色</h3>
+              <h3 className="text-xl font-bold mb-3">Unlock Viral Characters</h3>
               <p className="text-gray-400">
-                收集脑腐值解锁十多个稀奇古怪的互联网角色，每个角色都有独特的能力和背景故事。
+                Collect over 10 unique characters from Bombardino Crocodilo to Cappuccino Assassino. Each character has its own personality and meme-worthy traits in the Italian Brainrot universe.
               </p>
             </div>
             
@@ -90,70 +81,97 @@ export default function Home() {
                   <path d="M13.73 21a2 2 0 0 1-3.46 0"></path>
                 </svg>
               </div>
-              <h3 className="text-xl font-bold mb-3">本地进度</h3>
+              <h3 className="text-xl font-bold mb-3">Dynamic Weather System</h3>
               <p className="text-gray-400">
-                游戏进度自动保存在本地，无需担心刷新页面或关闭浏览器导致进度丢失。
+                Experience multiple weather effects including rain, sunny, star rain, windy and snow as you progress. Each weather creates a unique atmosphere for your clicking adventure.
               </p>
             </div>
           </div>
           
           <div className="mt-16 text-center">
-            <Link href="/features" className="btn btn-primary">
-              了解更多特点
-            </Link>
+            {/* 删除了Learn More Features按钮 */}
           </div>
         </div>
       </section>
       
-      {/* 角色预览 */}
-      <section className="py-20">
-        <div className="container-custom">
+      {/* Game Guides */}
+      <section id="guides" className="py-20 bg-gray-900">
+        <div className="container mx-auto px-4">
           <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-5xl font-bold mb-4 gradient-text">角色预览</h2>
-            <p className="text-text-muted max-w-2xl mx-auto">
-              收集脑腐值解锁这些稀奇古怪的互联网角色，每个角色都有独特的能力和背景故事
+            <h2 className="text-3xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-purple-500 to-pink-500 bg-clip-text text-transparent">Game Guides</h2>
+            <p className="text-gray-400 max-w-2xl mx-auto">
+              Learn how to master Italian Brainrot Clicker with our comprehensive guides and strategies
             </p>
           </div>
           
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-            {Array.from({ length: 3 }).map((_, index) => (
-              <div key={index} className="card overflow-hidden">
-                <div className="relative h-64 mb-4 bg-background rounded-lg overflow-hidden flex items-center justify-center">
-                  <p className="text-text-muted">角色图片 {index + 1}</p>
-                </div>
-                <h3 className="text-xl font-bold mb-2">神秘角色 {index + 1}</h3>
-                <p className="text-text-muted mb-4">
-                  解锁这个神秘角色以了解其独特能力和背景故事。需要收集一定数量的脑腐值。
-                </p>
-                <Link 
-                  href="/characters" 
-                  className="text-primary hover:text-primary-dark transition-colors inline-flex items-center"
-                >
-                  <span>了解更多</span>
-                  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="ml-1">
-                    <line x1="5" y1="12" x2="19" y2="12"></line>
-                    <polyline points="12 5 19 12 12 19"></polyline>
-                  </svg>
-                </Link>
-              </div>
-            ))}
-          </div>
-          
-          <div className="mt-16 text-center">
-            <Link href="/characters" className="btn btn-primary">
-              查看全部角色
-            </Link>
+          <div className="max-w-4xl mx-auto">
+            <div className="card mb-12">
+              <h3 className="text-xl font-bold mb-3">How to Play</h3>
+              <p className="text-gray-400 mb-4">
+                The goal of Italian Brainrot Clicker is simple: click as much as possible to earn coins and unlock exciting upgrades. You begin with Tralalero Tralala and normal weather, then progress through clicking to unlock more characters and weather effects.
+              </p>
+              
+              <h3 className="text-xl font-bold mb-3">Strategic Upgrades</h3>
+              <p className="text-gray-400 mb-4">
+                Use your coins wisely to purchase powerful upgrades:
+                <br/>• 50 coins: Cursor (+1 Brainrot per click)
+                <br/>• 125 coins: Auto Click (+1 Brainrot per second)
+                <br/>• 500 coins: Mr Clicker (+5 Brainrot per click)
+                <br/>• 1,100 coins: Trallero Trallala Farm (+6 Brainrot per second)
+                <br/>• 12,000 coins: Unlock a special mystery reward!
+              </p>
+              
+              <h3 className="text-xl font-bold mb-3">Character Collection</h3>
+              <p className="text-gray-400">
+                Unlock unique characters through persistent clicking. After reaching 200 clicks, you'll unlock Bombardino Crocodilo. Around 1,000 coins, you'll unlock the rain weather effect. Continue collecting to discover all characters including Tung Tung Tung Sahur, Brr Brr Patapim, Lirili Larila, and the lightning-fast Cappuccino Assassino!
+              </p>
+            </div>
           </div>
         </div>
       </section>
       
-      {/* 测评区域 */}
+      {/* FAQ */}
+      <section id="faq" className="py-20 bg-gray-800">
+        <div className="container mx-auto px-4">
+          <div className="text-center mb-16">
+            <h2 className="text-3xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-purple-500 to-pink-500 bg-clip-text text-transparent">FAQ</h2>
+            <p className="text-gray-400 max-w-2xl mx-auto">
+              Common questions about Italian Brainrot Clicker answered
+            </p>
+          </div>
+          
+          <div className="max-w-3xl mx-auto space-y-6">
+            <div className="card">
+              <h3 className="text-xl font-bold mb-2">What is a brainrot meme?</h3>
+              <p className="text-gray-400">
+                Brainrot memes are viral content that have captured widespread attention on platforms like TikTok. Italian Brainrot Clicker brings these memes to life as playable characters you can collect and enjoy.
+              </p>
+            </div>
+            
+            <div className="card">
+              <h3 className="text-xl font-bold mb-2">What does brainrot mean?</h3>
+              <p className="text-gray-400">
+                In internet culture, brainrot refers to when someone becomes obsessed with or repeatedly engages with a viral trend without fully understanding why. It's the perfect description for the addictive nature of our clicker game!
+              </p>
+            </div>
+            
+            <div className="card">
+              <h3 className="text-xl font-bold mb-2">Can I play Italian Brainrot Clicker on mobile devices?</h3>
+              <p className="text-gray-400">
+                Absolutely! Italian Brainrot Clicker is fully optimized for mobile phones, tablets, and desktop computers. Play anywhere, anytime through your web browser with no downloads required.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+      
+      {/* Reviews Section */}
       <section className="py-20 bg-background-light">
         <div className="container-custom">
           <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-5xl font-bold mb-4 gradient-text">玩家评价</h2>
+            <h2 className="text-3xl md:text-5xl font-bold mb-4 gradient-text">Player Reviews</h2>
             <p className="text-text-muted max-w-2xl mx-auto">
-              看看其他玩家对 Brainrot Clicker 的评价和体验分享
+              See what other players are saying about Italian Brainrot Clicker and their shared experiences
             </p>
           </div>
           
@@ -164,7 +182,7 @@ export default function Home() {
                   <span className="text-primary font-bold">JD</span>
                 </div>
                 <div>
-                  <h4 className="font-bold">脑腐爱好者</h4>
+                  <h4 className="font-bold">Brainrot Enthusiast</h4>
                   <div className="flex">
                     {Array.from({ length: 5 }).map((_, i) => (
                       <svg key={i} xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" className="text-primary">
@@ -175,7 +193,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-text-muted">
-                "这游戏简直太上瘾了！每天睡前都要点击收集脑腐值，解锁新角色的成就感太爽了。推荐给所有喜欢点击游戏的朋友！"
+                "This game is so addictive! I love collecting all the Italian Brainrot characters. Unlocking Bombardino Crocodilo and Cappuccino Assasino was such a thrill! Can't wait to get Tralalero Tralala next!"
               </p>
             </div>
             
@@ -185,7 +203,7 @@ export default function Home() {
                   <span className="text-secondary font-bold">LM</span>
                 </div>
                 <div>
-                  <h4 className="font-bold">资深玩家</h4>
+                  <h4 className="font-bold">Veteran Player</h4>
                   <div className="flex">
                     {Array.from({ length: 5 }).map((_, i) => (
                       <svg key={i} xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill={i < 4 ? "currentColor" : "none"} stroke={i < 4 ? "none" : "currentColor"} strokeWidth="2" className="text-primary">
@@ -196,30 +214,9 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-text-muted">
-                "角色的设计很有创意，背景故事也很有趣。但是后期升级有点慢，希望能增加更多获取脑腐值的途径。总体来说还是很棒的游戏！"
+                "The chaotic meme characters are hilarious! Burbaloni Luliloli and Brr Brr Patapim make me laugh every time I see them. Italian Brainrot Clicker is the perfect game to decompress after a long day. Still trying to collect Bobritto Bandito!"
               </p>
             </div>
-          </div>
-        </div>
-      </section>
-      
-      {/* 行动召唤 */}
-      <section className="py-32 relative overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-secondary/20 z-0" />
-        <div className="absolute inset-0 bg-[url(/noise.png)] opacity-5 z-0" />
-        
-        <div className="container-custom relative z-10">
-          <div className="text-center">
-            <h2 className="text-3xl md:text-5xl font-bold mb-6 gradient-text">
-              准备好开始你的脑腐之旅了吗？
-            </h2>
-            <p className="text-lg text-text-muted max-w-2xl mx-auto mb-10">
-              点击收集脑腐值，解锁稀奇古怪的角色，探索奇幻互联网世界
-            </p>
-            
-            <Link href="/game" className="btn btn-primary text-lg px-8 py-3">
-              立即开始游戏
-            </Link>
           </div>
         </div>
       </section>

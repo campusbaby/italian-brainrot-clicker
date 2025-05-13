@@ -25,7 +25,7 @@ Italian Brainrot Clicker是一个沉浸式网页游戏，玩家通过点击收�
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/yourusername/italian-brainrot-clicker.git
+git clone https://github.com/campusbaby/italian-brainrot-clicker.git
 cd italian-brainrot-clicker
 ```
 

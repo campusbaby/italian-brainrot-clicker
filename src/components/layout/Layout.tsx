@@ -4,15 +4,17 @@ import { ReactNode } from 'react';
 import Header from './Header';
 import Footer from './Footer';
 import { motion, AnimatePresence } from 'framer-motion';
+import { Dictionary } from '@/app/i18n/types';
 
 interface LayoutProps {
   children: ReactNode;
+  dict?: Dictionary;
 }
 
-export default function Layout({ children }: LayoutProps) {
+export default function Layout({ children, dict }: LayoutProps) {
   return (
     <div className="flex flex-col min-h-screen">
-      <Header />
+      <Header dict={dict} />
       <main className="flex-grow pt-20">
         <AnimatePresence>
           <motion.div
@@ -26,7 +28,7 @@ export default function Layout({ children }: LayoutProps) {
           </motion.div>
         </AnimatePresence>
       </main>
-      <Footer />
+      <Footer dict={dict} />
     </div>
   );
 } 

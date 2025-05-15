@@ -18,6 +18,7 @@ const robotoMono = Roboto_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://brainrotclicker.co'),
   title: "Italian Brainrot Clicker - Fantastic Internet Clicking Game",
   description: "Immerse yourself in a fantastic internet world, collect brainrot points, unlock quirky characters and stories",
   keywords: "Italian Brainrot Clicker, clicker games, idle games, clicking games, brainrot games",
@@ -39,6 +40,13 @@ export const metadata: Metadata = {
     description: "Immerse yourself in a fantastic internet world, collect brainrot points, unlock quirky characters and stories",
     images: ["https://brainrotclicker.co/og-image.png"],
   },
+  alternates: {
+    canonical: 'https://brainrotclicker.co',
+    languages: {
+      'en': 'https://brainrotclicker.co',
+      'sv': 'https://brainrotclicker.co/sv'
+    }
+  }
 };
 
 export default function RootLayout({

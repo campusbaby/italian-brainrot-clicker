@@ -1,0 +1,82 @@
+{
+  "site": {
+    "title": "Italian Brainrot Clicker - Fantastisk internetklikspil",
+    "description": "Fordyb dig i en fantastisk internetverden, saml hjerneråddenpunkter, lås op for skøre karakterer og historier"
+  },
+  "hero": {
+    "title": "Italian Brainrot Clicker",
+    "description": "Dyk ned i dette vanedannende trinvise klikspil, hvor du klikker dig gennem det virale italienske Brainrot-univers! Saml unikke karakterer som Bombardino Crocodilo, Cappuccino Assasino og mange flere, når du avancerer."
+  },
+  "header": {
+    "home": "Hjem",
+    "features": "Funktioner",
+    "guides": "Vejledninger",
+    "faq": "FAQ",
+    "logo": "Italian Brainrot Clicker"
+  },
+  "footer": {
+    "description": "Et klikspil der udforsker den fantastiske internetverden, saml hjerneråddenpunkter, lås op for historier og mere.",
+    "navigation": "Navigation",
+    "legal": "Juridisk",
+    "privacyPolicy": "Privatlivspolitik",
+    "termsOfUse": "Brugsvilkår",
+    "cookiePolicy": "Cookiepolitik",
+    "rights": "Alle rettigheder forbeholdes."
+  },
+  "features": {
+    "title": "Spilfunktioner",
+    "description": "Udforsk den fascinerende verden af Italian Brainrot Clicker! Klik dig gennem en fordybende oplevelse med unikke karakterer og spændende opgraderinger, der forbedrer din spiloplevelse.",
+    "gameplay": {
+      "title": "Vanedannende Gameplay",
+      "description": "Begynd at spille øjeblikkeligt i din browser! Start med Tralalero Tralala, en haj i Nike-sko, og klik dig til berømmelse og formue gennem dette vanedannende trinvise eventyr."
+    },
+    "characters": {
+      "title": "Lås op for virale karakterer",
+      "description": "Saml over 10 unikke karakterer fra Bombardino Crocodilo til Cappuccino Assassino. Hver karakter har sin egen personlighed og memeværdige træk i det italienske Brainrot-univers."
+    },
+    "weather": {
+      "title": "Dynamisk vejrsystem",
+      "description": "Oplev flere vejreffekter, herunder regn, solskin, stjerneregn, vind og sne, når du skrider frem. Hvert vejr skaber en unik atmosfære for dit klikeventyr."
+    }
+  },
+  "guides": {
+    "title": "Spilvejledninger",
+    "description": "Lær at mestre Italian Brainrot Clicker med vores omfattende vejledninger og strategier",
+    "howToPlay": {
+      "title": "Sådan spiller du",
+      "description": "Målet med Italian Brainrot Clicker er enkelt: klik så meget som muligt for at tjene mønter og låse op for spændende opgraderinger. Du begynder med Tralalero Tralala og normalt vejr, derefter fortsætter du med at klikke for at låse op for flere karakterer og vejreffekter."
+    },
+    "upgrades": {
+      "title": "Strategiske opgraderinger",
+      "description": "Brug dine mønter klogt til at købe kraftfulde opgraderinger:"
+    },
+    "characters": {
+      "title": "Karaktersamling",
+      "description": "Lås op for unikke karakterer gennem vedvarende klikning. Efter at have nået 200 klik, låser du op for Bombardino Crocodilo. Ved omkring 1.000 mønter låser du op for regnvejreffekten. Fortsæt med at samle for at opdage alle karakterer, herunder Tung Tung Tung Sahur, Brr Brr Patapim, Lirili Larila og den lynhurtige Cappuccino Assassino!"
+    }
+  },
+  "faq": {
+    "title": "Ofte stillede spørgsmål",
+    "description": "Almindelige spørgsmål om Italian Brainrot Clicker besvaret",
+    "what": {
+      "title": "Hvad er et brainrot-meme?",
+      "description": "Brainrot-memes er viralt indhold, der har fanget udbredt opmærksomhed på platforme som TikTok. Italian Brainrot Clicker bringer disse memes til live som spilbare karakterer, du kan samle og nyde."
+    },
+    "mean": {
+      "title": "Hvad betyder brainrot?",
+      "description": "I internetkultur refererer brainrot til, når nogen bliver besat af eller gentagne gange engagerer sig i en viral trend uden fuldt ud at forstå hvorfor. Det er den perfekte beskrivelse af den vanedannende natur af vores klikspil!"
+    },
+    "mobile": {
+      "title": "Kan jeg spille Italian Brainrot Clicker på mobile enheder?",
+      "description": "Absolut! Italian Brainrot Clicker er fuldt optimeret til mobiltelefoner, tablets og stationære computere. Spil hvor som helst, når som helst gennem din webbrowser uden downloads påkrævet."
+    }
+  },
+  "language": {
+    "select": "Vælg sprog",
+    "en": "Engelsk",
+    "sv": "Svensk",
+    "no": "Norsk",
+    "da": "Dansk",
+    "fr": "Fransk"
+  }
+} 

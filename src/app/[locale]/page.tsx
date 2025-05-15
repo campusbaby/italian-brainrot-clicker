@@ -4,19 +4,27 @@ import { motion } from "framer-motion";
 import GameFrame from "@/components/game/GameFrame";
 import ScrollToTopButton from "@/components/ScrollToTopButton";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
-import { getDictionary } from "./i18n";
-import { defaultLocale } from "./i18n/settings";
+import { getDictionary } from "../i18n";
+import { defaultLocale, locales } from "../i18n/settings";
 
-// 根路径页面，显示默认语言(英语)内容
-export default async function Home() {
-  // 获取默认语言(英语)的翻译
-  const dict = await getDictionary(defaultLocale);
+// 生成静态页面参数
+export function generateStaticParams() {
+  // 只为非默认语言生成静态参数，默认语言(英语)使用根路径
+  return locales
+    .filter(locale => locale !== defaultLocale)
+    .map(locale => ({ locale }));
+}
+
+// 服务器组件获取翻译
+async function HomePage({ params }: { params: { locale: string } }) {
+  const locale = params.locale || defaultLocale;
+  const dict = await getDictionary(locale);
 
   return (
     <Layout dict={dict}>
       {/* 语言切换器 */}
       <div className="fixed top-4 right-4 z-50">
-        <LanguageSwitcher currentLocale={defaultLocale} />
+        <LanguageSwitcher currentLocale={locale} />
       </div>
 
       {/* Hero Section */}
@@ -184,3 +192,5 @@ export default async function Home() {
     </Layout>
   );
 }
+
+export default HomePage; 

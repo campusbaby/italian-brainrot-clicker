@@ -2,6 +2,6 @@
 # Allow all crawlers
 User-agent: *
 Allow: /
-
+ 
 # Sitemap
 Sitemap: https://brainrotclicker.co/sitemap.xml 

@@ -1,0 +1,82 @@
+{
+  "site": {
+    "title": "Italian Brainrot Clicker - Fantastisk internettklikkspill",
+    "description": "Fordyp deg i en fantastisk internettverden, samle hjerneskadepunkter, lås opp merkelige karakterer og historier"
+  },
+  "hero": {
+    "title": "Italian Brainrot Clicker",
+    "description": "Dykk ned i dette vanedannende klikkspillet hvor du klikker deg gjennom det virale italienske Brainrot-universet! Samle unike karakterer som Bombardino Crocodilo, Cappuccino Assasino, og mange flere når du avanserer."
+  },
+  "header": {
+    "home": "Hjem",
+    "features": "Funksjoner",
+    "guides": "Guider",
+    "faq": "FAQ",
+    "logo": "Italian Brainrot Clicker"
+  },
+  "footer": {
+    "description": "Et klikkspill som utforsker den fantastiske internettverdenen, samle hjerneskadepunkter, lås opp historier og mer.",
+    "navigation": "Navigasjon",
+    "legal": "Juridisk",
+    "privacyPolicy": "Personvernpolicy",
+    "termsOfUse": "Bruksvilkår",
+    "cookiePolicy": "Cookiepolicy",
+    "rights": "Alle rettigheter reservert."
+  },
+  "features": {
+    "title": "Spillfunksjoner",
+    "description": "Utforsk den fascinerende verdenen av Italian Brainrot Clicker! Klikk deg gjennom en fordypende opplevelse med unike karakterer og spennende oppgraderinger som forbedrer spillopplevelsen din.",
+    "gameplay": {
+      "title": "Vanedannende Gameplay",
+      "description": "Start å spille umiddelbart i nettleseren din! Begynn med Tralalero Tralala, en hai i Nike-sko, og klikk deg til berømmelse og formue gjennom dette vanedannende inkrementelle eventyret."
+    },
+    "characters": {
+      "title": "Lås opp virale karakterer",
+      "description": "Samle over 10 unike karakterer fra Bombardino Crocodilo til Cappuccino Assassino. Hver karakter har sin egen personlighet og meme-verdige trekk i det italienske Brainrot-universet."
+    },
+    "weather": {
+      "title": "Dynamisk værsystem",
+      "description": "Opplev flere væreffekter inkludert regn, sol, stjerneregn, vind og snø når du avanserer. Hvert vær skaper en unik atmosfære for klikkeventyret ditt."
+    }
+  },
+  "guides": {
+    "title": "Spillguider",
+    "description": "Lær å mestre Italian Brainrot Clicker med våre omfattende guider og strategier",
+    "howToPlay": {
+      "title": "Hvordan Spille",
+      "description": "Målet med Italian Brainrot Clicker er enkelt: klikk så mye som mulig for å tjene mynter og låse opp spennende oppgraderinger. Du begynner med Tralalero Tralala og normalt vær, deretter fortsetter du med å klikke for å låse opp flere karakterer og væreffekter."
+    },
+    "upgrades": {
+      "title": "Strategiske Oppgraderinger",
+      "description": "Bruk myntene dine klokt for å kjøpe kraftige oppgraderinger:"
+    },
+    "characters": {
+      "title": "Karaktersamling",
+      "description": "Lås opp unike karakterer gjennom vedvarende klikking. Etter å ha nådd 200 klikk, låser du opp Bombardino Crocodilo. Rundt 1 000 mynter låser du opp regnværeffekten. Fortsett å samle for å oppdage alle karakterer inkludert Tung Tung Tung Sahur, Brr Brr Patapim, Lirili Larila, og den lynraske Cappuccino Assassino!"
+    }
+  },
+  "faq": {
+    "title": "Ofte stilte spørsmål",
+    "description": "Vanlige spørsmål om Italian Brainrot Clicker besvart",
+    "what": {
+      "title": "Hva er en brainrot-meme?",
+      "description": "Brainrot-memer er viralt innhold som har fanget utbredt oppmerksomhet på plattformer som TikTok. Italian Brainrot Clicker gir liv til disse memene som spillbare karakterer du kan samle og nyte."
+    },
+    "mean": {
+      "title": "Hva betyr brainrot?",
+      "description": "I internettkultur refererer brainrot til når noen blir besatt av eller gjentatte ganger engasjerer seg i en viral trend uten å forstå helt hvorfor. Det er den perfekte beskrivelsen av den vanedannende naturen til klikkspillet vårt!"
+    },
+    "mobile": {
+      "title": "Kan jeg spille Italian Brainrot Clicker på mobile enheter?",
+      "description": "Absolutt! Italian Brainrot Clicker er fullt optimalisert for mobiltelefoner, nettbrett og stasjonære datamaskiner. Spill hvor som helst, når som helst gjennom nettleseren din uten at nedlastinger kreves."
+    }
+  },
+  "language": {
+    "select": "Velg språk",
+    "en": "Engelsk",
+    "sv": "Svensk",
+    "no": "Norsk",
+    "da": "Dansk",
+    "fr": "Fransk"
+  }
+} 

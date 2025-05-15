@@ -1,0 +1,86 @@
+{
+  "site": {
+    "title": "Italian Brainrot Clicker - Fantastisch internetklikspel",
+    "description": "Dompel jezelf onder in een fantastische internetwereld, verzamel brainrot-punten, ontgrendel eigenaardige personages en verhalen"
+  },
+  "hero": {
+    "title": "Italian Brainrot Clicker",
+    "description": "Duik in dit verslavende incrementele klikspel waar je door het virale Italiaanse Brainrot-universum klikt! Verzamel unieke personages zoals Bombardino Crocodilo, Cappuccino Assasino, en vele meer naarmate je vordert."
+  },
+  "header": {
+    "home": "Home",
+    "features": "Functies",
+    "guides": "Gidsen",
+    "faq": "FAQ",
+    "logo": "Italian Brainrot Clicker"
+  },
+  "footer": {
+    "description": "Een klikspel dat de fantastische internetwereld verkent, verzamel brainrot-punten, ontgrendel verhalen en meer.",
+    "navigation": "Navigatie",
+    "legal": "Juridisch",
+    "privacyPolicy": "Privacybeleid",
+    "termsOfUse": "Gebruiksvoorwaarden",
+    "cookiePolicy": "Cookiebeleid",
+    "rights": "Alle rechten voorbehouden."
+  },
+  "features": {
+    "title": "Spelfuncties",
+    "description": "Verken de fascinerende wereld van Italian Brainrot Clicker! Klik je een weg door een meeslepende ervaring met unieke personages en spannende upgrades die je spelervaring verbeteren.",
+    "gameplay": {
+      "title": "Verslavende Gameplay",
+      "description": "Begin direct te spelen in je browser! Begin met Tralalero Tralala, een haai in Nike-schoenen, en klik je een weg naar roem en fortuin door dit verslavende incrementele avontuur."
+    },
+    "characters": {
+      "title": "Ontgrendel Virale Personages",
+      "description": "Verzamel meer dan 10 unieke personages, van Bombardino Crocodilo tot Cappuccino Assassino. Elk personage heeft zijn eigen persoonlijkheid en memewaardige eigenschappen in het Italiaanse Brainrot-universum."
+    },
+    "weather": {
+      "title": "Dynamisch Weersysteem",
+      "description": "Ervaar meerdere weereffecten, waaronder regen, zonnig, sterrenregen, winderig en sneeuw terwijl je vordert. Elk weer creëert een unieke sfeer voor je klikavontuur."
+    }
+  },
+  "guides": {
+    "title": "Spelgidsen",
+    "description": "Leer hoe je Italian Brainrot Clicker kunt beheersen met onze uitgebreide gidsen en strategieën",
+    "howToPlay": {
+      "title": "Hoe te Spelen",
+      "description": "Het doel van Italian Brainrot Clicker is eenvoudig: klik zo veel mogelijk om munten te verdienen en spannende upgrades te ontgrendelen. Je begint met Tralalero Tralala en normaal weer, en gaat dan verder met klikken om meer personages en weereffecten te ontgrendelen."
+    },
+    "upgrades": {
+      "title": "Strategische Upgrades",
+      "description": "Gebruik je munten verstandig om krachtige upgrades te kopen:"
+    },
+    "characters": {
+      "title": "Personage Collectie",
+      "description": "Ontgrendel unieke personages door constant te klikken. Na het bereiken van 200 klikken, ontgrendel je Bombardino Crocodilo. Rond 1.000 munten ontgrendel je het regeneffect. Blijf verzamelen om alle personages te ontdekken, waaronder Tung Tung Tung Sahur, Brr Brr Patapim, Lirili Larila, en de bliksemsnelle Cappuccino Assassino!"
+    }
+  },
+  "faq": {
+    "title": "Veelgestelde vragen",
+    "description": "Veel voorkomende vragen over Italian Brainrot Clicker beantwoord",
+    "what": {
+      "title": "Wat is een brainrot-meme?",
+      "description": "Brainrot-memes zijn virale content die wijdverspreide aandacht heeft gekregen op platforms zoals TikTok. Italian Brainrot Clicker brengt deze memes tot leven als speelbare personages die je kunt verzamelen en van kunt genieten."
+    },
+    "mean": {
+      "title": "Wat betekent brainrot?",
+      "description": "In internetcultuur verwijst brainrot naar wanneer iemand geobsedeerd raakt door of herhaaldelijk bezig is met een virale trend zonder volledig te begrijpen waarom. Het is de perfecte beschrijving voor de verslavende aard van ons klikspel!"
+    },
+    "mobile": {
+      "title": "Kan ik Italian Brainrot Clicker spelen op mobiele apparaten?",
+      "description": "Absoluut! Italian Brainrot Clicker is volledig geoptimaliseerd voor mobiele telefoons, tablets en desktopcomputers. Speel overal, altijd via je webbrowser zonder dat downloads vereist zijn."
+    }
+  },
+  "language": {
+    "select": "Selecteer taal",
+    "en": "Engels",
+    "sv": "Zweeds",
+    "no": "Noors",
+    "da": "Deens",
+    "fr": "Frans",
+    "nl": "Nederlands",
+    "es": "Spaans",
+    "de": "Duits",
+    "is": "IJslands"
+  }
+} 

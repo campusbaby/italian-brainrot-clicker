@@ -1,0 +1,86 @@
+{
+  "site": {
+    "title": "Italian Brainrot Clicker - Frábær internettengdur smellileikur",
+    "description": "Sökktu þér í frábæran internetheim, safnaðu heilahrörnunarstigum, opnaðu fyrir skrítna karaktera og sögur"
+  },
+  "hero": {
+    "title": "Italian Brainrot Clicker",
+    "description": "Sökktu þér í þennan ávanabindandi smellileik þar sem þú smellir þig í gegnum veiruheiminn Italian Brainrot! Safnaðu einstökum persónum eins og Bombardino Crocodilo, Cappuccino Assasino og mörgum fleirum eftir því sem þú þróast áfram."
+  },
+  "header": {
+    "home": "Heim",
+    "features": "Eiginleikar",
+    "guides": "Leiðbeiningar",
+    "faq": "Algengar spurningar",
+    "logo": "Italian Brainrot Clicker"
+  },
+  "footer": {
+    "description": "Smellileikur sem kannar frábæran internetheim, safnar heilahrörnunarstigum, opnar fyrir sögur og fleira.",
+    "navigation": "Valmynd",
+    "legal": "Lagalegt",
+    "privacyPolicy": "Persónuverndarstefna",
+    "termsOfUse": "Notkunarskilmálar",
+    "cookiePolicy": "Stefna um smákökur",
+    "rights": "Allur réttur áskilinn."
+  },
+  "features": {
+    "title": "Leikeiginleikar",
+    "description": "Kannaðu heillandi heim Italian Brainrot Clicker! Smelltu þig í gegnum ógleymanlega upplifun með einstökum persónum og spennandi uppfærslum sem auka leikjaupplifun þína.",
+    "gameplay": {
+      "title": "Ávanabindandi Leikur",
+      "description": "Byrjaðu að spila samstundis í vafranum þínum! Byrjaðu með Tralalero Tralala, hákarli í Nike skóm, og smelltu þér til frægðar og frama í gegnum þetta ávanabindandi ævintýri."
+    },
+    "characters": {
+      "title": "Opnaðu fyrir veirupersónur",
+      "description": "Safnaðu yfir 10 einstökum persónum frá Bombardino Crocodilo til Cappuccino Assassino. Hver persóna hefur sinn eigin persónuleika og meme-verða eiginleika í ítölsku Brainrot-alheimnum."
+    },
+    "weather": {
+      "title": "Síbreytilegt veðurkerfi",
+      "description": "Upplifðu margs konar veðuráhrif, þar á meðal rigningu, sól, stjörnuregn, vind og snjó eftir því sem þú þróast áfram. Hvert veður skapar einstakt andrúmsloft fyrir smelli-ævintýrið þitt."
+    }
+  },
+  "guides": {
+    "title": "Leiðbeiningar",
+    "description": "Lærðu að verða meistari í Italian Brainrot Clicker með ítarlegum leiðbeiningum okkar og áætlunum",
+    "howToPlay": {
+      "title": "Hvernig á að spila",
+      "description": "Markmið Italian Brainrot Clicker er einfalt: smelltu eins mikið og þú getur til að vinna þér inn mynt og opna fyrir spennandi uppfærslur. Þú byrjar með Tralalero Tralala og venjulegt veður, síðan heldurðu áfram að smella til að opna fyrir fleiri persónur og veðuráhrif."
+    },
+    "upgrades": {
+      "title": "Stefnumótandi uppfærslur",
+      "description": "Notaðu myntirnar þínar viturlega til að kaupa öflugar uppfærslur:"
+    },
+    "characters": {
+      "title": "Persónusafn",
+      "description": "Opnaðu fyrir einstaka persónur með þrálátum smellum. Eftir að hafa náð 200 smellum opnarðu fyrir Bombardino Crocodilo. Í kringum 1.000 mynt opnarðu fyrir regnáhrifin. Haltu áfram að safna til að uppgötva allar persónur, þar á meðal Tung Tung Tung Sahur, Brr Brr Patapim, Lirili Larila, og eldsnögga Cappuccino Assassino!"
+    }
+  },
+  "faq": {
+    "title": "Algengar spurningar",
+    "description": "Algengum spurningum um Italian Brainrot Clicker svarað",
+    "what": {
+      "title": "Hvað er brainrot meme?",
+      "description": "Brainrot meme eru veirufengið efni sem hefur vakið mikla athygli á vettvangi eins og TikTok. Italian Brainrot Clicker gefur þessum meme líf sem leikanlegar persónur sem þú getur safnað og notið."
+    },
+    "mean": {
+      "title": "Hvað þýðir brainrot?",
+      "description": "Í netmenningu vísar brainrot til þess þegar einhver verður heltekinn af eða tekur endurtekið þátt í veirutísku án þess að skilja fullkomlega af hverju. Það er fullkomin lýsing á ávanabindandi eðli smellileiksins okkar!"
+    },
+    "mobile": {
+      "title": "Get ég spilað Italian Brainrot Clicker á farsímum?",
+      "description": "Alveg örugglega! Italian Brainrot Clicker er fullkomlega fínstillt fyrir farsíma, spjaldtölvur og borðtölvur. Spilaðu hvar sem er, hvenær sem er í gegnum vafrann þinn án þess að þurfa að sækja neitt."
+    }
+  },
+  "language": {
+    "select": "Veldu tungumál",
+    "en": "Enska",
+    "sv": "Sænska",
+    "no": "Norska",
+    "da": "Danska",
+    "fr": "Franska",
+    "nl": "Hollenska",
+    "es": "Spænska",
+    "de": "Þýska",
+    "is": "Íslenska"
+  }
+} 

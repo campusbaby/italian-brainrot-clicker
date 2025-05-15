@@ -1,0 +1,86 @@
+{
+  "site": {
+    "title": "Italian Brainrot Clicker - Fantástico juego de clics en internet",
+    "description": "Sumérgete en un fantástico mundo de internet, colecciona puntos de deterioro cerebral, desbloquea personajes y historias peculiares"
+  },
+  "hero": {
+    "title": "Italian Brainrot Clicker",
+    "description": "¡Sumérgete en este adictivo juego de clics incremental donde pulsas a través del viral universo Italian Brainrot! Colecciona personajes únicos como Bombardino Crocodilo, Cappuccino Assasino, y muchos más a medida que progresas."
+  },
+  "header": {
+    "home": "Inicio",
+    "features": "Características",
+    "guides": "Guías",
+    "faq": "Preguntas frecuentes",
+    "logo": "Italian Brainrot Clicker"
+  },
+  "footer": {
+    "description": "Un juego de clics que explora el fantástico mundo de internet, colecciona puntos de deterioro cerebral, desbloquea historias y más.",
+    "navigation": "Navegación",
+    "legal": "Legal",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfUse": "Términos de uso",
+    "cookiePolicy": "Política de cookies",
+    "rights": "Todos los derechos reservados."
+  },
+  "features": {
+    "title": "Características del juego",
+    "description": "¡Explora el fascinante mundo de Italian Brainrot Clicker! Haz clic a través de una experiencia inmersiva con personajes únicos y emocionantes mejoras que potencian tu experiencia de juego.",
+    "gameplay": {
+      "title": "Jugabilidad adictiva",
+      "description": "¡Comienza a jugar instantáneamente en tu navegador! Empieza con Tralalero Tralala, un tiburón con zapatillas Nike, y haz clic para alcanzar la fama y fortuna a través de esta adictiva aventura incremental."
+    },
+    "characters": {
+      "title": "Desbloquea personajes virales",
+      "description": "Colecciona más de 10 personajes únicos, desde Bombardino Crocodilo hasta Cappuccino Assassino. Cada personaje tiene su propia personalidad y características dignas de memes en el universo Italian Brainrot."
+    },
+    "weather": {
+      "title": "Sistema climático dinámico",
+      "description": "Experimenta múltiples efectos climáticos incluyendo lluvia, sol, lluvia de estrellas, viento y nieve a medida que progresas. Cada clima crea una atmósfera única para tu aventura de clics."
+    }
+  },
+  "guides": {
+    "title": "Guías del juego",
+    "description": "Aprende a dominar Italian Brainrot Clicker con nuestras completas guías y estrategias",
+    "howToPlay": {
+      "title": "Cómo jugar",
+      "description": "El objetivo de Italian Brainrot Clicker es simple: haz clic tanto como sea posible para ganar monedas y desbloquear emocionantes mejoras. Comienzas con Tralalero Tralala y clima normal, luego progresas haciendo clic para desbloquear más personajes y efectos climáticos."
+    },
+    "upgrades": {
+      "title": "Mejoras estratégicas",
+      "description": "Usa tus monedas sabiamente para comprar poderosas mejoras:"
+    },
+    "characters": {
+      "title": "Colección de personajes",
+      "description": "Desbloquea personajes únicos mediante clics persistentes. Después de alcanzar 200 clics, desbloquearás a Bombardino Crocodilo. Alrededor de 1.000 monedas, desbloquearás el efecto de lluvia. ¡Continúa coleccionando para descubrir todos los personajes incluyendo Tung Tung Tung Sahur, Brr Brr Patapim, Lirili Larila, y el veloz Cappuccino Assassino!"
+    }
+  },
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "description": "Respuestas a preguntas comunes sobre Italian Brainrot Clicker",
+    "what": {
+      "title": "¿Qué es un meme de brainrot?",
+      "description": "Los memes de brainrot son contenido viral que ha captado amplia atención en plataformas como TikTok. Italian Brainrot Clicker da vida a estos memes como personajes jugables que puedes coleccionar y disfrutar."
+    },
+    "mean": {
+      "title": "¿Qué significa brainrot?",
+      "description": "En la cultura de internet, brainrot se refiere a cuando alguien se obsesiona o se involucra repetidamente con una tendencia viral sin entender completamente por qué. ¡Es la descripción perfecta para la naturaleza adictiva de nuestro juego de clics!"
+    },
+    "mobile": {
+      "title": "¿Puedo jugar a Italian Brainrot Clicker en dispositivos móviles?",
+      "description": "¡Absolutamente! Italian Brainrot Clicker está completamente optimizado para teléfonos móviles, tabletas y ordenadores de escritorio. Juega en cualquier lugar, en cualquier momento a través de tu navegador web sin necesidad de descargas."
+    }
+  },
+  "language": {
+    "select": "Seleccionar idioma",
+    "en": "Inglés",
+    "sv": "Sueco",
+    "no": "Noruego",
+    "da": "Danés",
+    "fr": "Francés",
+    "nl": "Neerlandés",
+    "es": "Español",
+    "de": "Alemán",
+    "is": "Islandés"
+  }
+} 

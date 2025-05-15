@@ -1,0 +1,89 @@
+{
+  "site": {
+    "title": "Italian Brainrot Clicker - Fantastic Internet Clicking Game",
+    "description": "Immerse yourself in a fantastic internet world, collect brainrot points, unlock quirky characters and stories"
+  },
+  "hero": {
+    "title": "Italian Brainrot Clicker",
+    "description": "Dive into this addictive incremental clicker game where you tap through the viral Italian Brainrot universe! Collect unique characters like Bombardino Crocodilo, Cappuccino Assasino, and many more as you progress."
+  },
+  "header": {
+    "home": "Home",
+    "features": "Features",
+    "guides": "Guides",
+    "faq": "FAQ",
+    "logo": "Italian Brainrot Clicker"
+  },
+  "footer": {
+    "description": "A clicking game exploring the fantastic internet world, collect brainrot points, unlock stories and more.",
+    "navigation": "Navigation",
+    "legal": "Legal",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfUse": "Terms of Use",
+    "cookiePolicy": "Cookie Policy",
+    "rights": "All rights reserved."
+  },
+  "features": {
+    "title": "Game Features",
+    "description": "Explore the fascinating world of Italian Brainrot Clicker! Click your way through an immersive experience featuring unique characters and exciting upgrades that boost your gameplay experience.",
+    "gameplay": {
+      "title": "Addictive Gameplay",
+      "description": "Start playing instantly in your browser! Begin with Tralalero Tralala, a shark in Nike shoes, and click your way to fame and fortune through this addictive incremental adventure."
+    },
+    "characters": {
+      "title": "Unlock Viral Characters",
+      "description": "Collect over 10 unique characters from Bombardino Crocodilo to Cappuccino Assassino. Each character has its own personality and meme-worthy traits in the Italian Brainrot universe."
+    },
+    "weather": {
+      "title": "Dynamic Weather System",
+      "description": "Experience multiple weather effects including rain, sunny, star rain, windy and snow as you progress. Each weather creates a unique atmosphere for your clicking adventure."
+    }
+  },
+  "guides": {
+    "title": "Game Guides",
+    "description": "Learn how to master Italian Brainrot Clicker with our comprehensive guides and strategies",
+    "howToPlay": {
+      "title": "How to Play",
+      "description": "The goal of Italian Brainrot Clicker is simple: click as much as possible to earn coins and unlock exciting upgrades. You begin with Tralalero Tralala and normal weather, then progress through clicking to unlock more characters and weather effects."
+    },
+    "upgrades": {
+      "title": "Strategic Upgrades",
+      "description": "Use your coins wisely to purchase powerful upgrades:"
+    },
+    "characters": {
+      "title": "Character Collection",
+      "description": "Unlock unique characters through persistent clicking. After reaching 200 clicks, you'll unlock Bombardino Crocodilo. Around 1,000 coins, you'll unlock the rain weather effect. Continue collecting to discover all characters including Tung Tung Tung Sahur, Brr Brr Patapim, Lirili Larila, and the lightning-fast Cappuccino Assassino!"
+    }
+  },
+  "faq": {
+    "title": "FAQ",
+    "description": "Common questions about Italian Brainrot Clicker answered",
+    "what": {
+      "title": "What is a brainrot meme?",
+      "description": "Brainrot memes are viral content that have captured widespread attention on platforms like TikTok. Italian Brainrot Clicker brings these memes to life as playable characters you can collect and enjoy."
+    },
+    "mean": {
+      "title": "What does brainrot mean?",
+      "description": "In internet culture, brainrot refers to when someone becomes obsessed with or repeatedly engages with a viral trend without fully understanding why. It's the perfect description for the addictive nature of our clicker game!"
+    },
+    "mobile": {
+      "title": "Can I play Italian Brainrot Clicker on mobile devices?",
+      "description": "Absolutely! Italian Brainrot Clicker is fully optimized for mobile phones, tablets, and desktop computers. Play anywhere, anytime through your web browser with no downloads required."
+    }
+  },
+  "language": {
+    "select": "Select Language",
+    "en": "English",
+    "sv": "Swedish",
+    "no": "Norwegian",
+    "da": "Danish",
+    "fr": "French",
+    "nl": "Dutch",
+    "es": "Spanish",
+    "de": "German",
+    "is": "Icelandic",
+    "vi": "Vietnamese",
+    "lv": "Latvian",
+    "ar": "Arabic"
+  }
+} 

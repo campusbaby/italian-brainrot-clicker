@@ -1,0 +1,89 @@
+{
+  "site": {
+    "title": "Italian Brainrot Clicker - Fantastiska interneta klikšķināšanas spēle",
+    "description": "Iegrimsti fantastiskā interneta pasaulē, vāc smadzeņu bojājumu punktus, atklāj dīvainus tēlus un stāstus"
+  },
+  "hero": {
+    "title": "Italian Brainrot Clicker",
+    "description": "Ienirsti šajā atkarību izraisošajā inkrementālajā klikšķināšanas spēlē, kur tu klikšķini cauri virālai Itāļu Brainrot visumam! Savāc unikālus tēlus, piemēram, Bombardino Crocodilo, Cappuccino Assasino un daudzus citus, progresējot tālāk."
+  },
+  "header": {
+    "home": "Sākums",
+    "features": "Funkcijas",
+    "guides": "Ceļveži",
+    "faq": "BUJ",
+    "logo": "Italian Brainrot Clicker"
+  },
+  "footer": {
+    "description": "Klikšķināšanas spēle, kas izpēta fantastisko interneta pasauli, vāc smadzeņu bojājumu punktus, atklāj stāstus un vēl vairāk.",
+    "navigation": "Navigācija",
+    "legal": "Juridiskā informācija",
+    "privacyPolicy": "Privātuma politika",
+    "termsOfUse": "Lietošanas noteikumi",
+    "cookiePolicy": "Sīkdatņu politika",
+    "rights": "Visas tiesības aizsargātas."
+  },
+  "features": {
+    "title": "Spēles funkcijas",
+    "description": "Izpēti aizraujošo Italian Brainrot Clicker pasauli! Klikšķini cauri aizraujošai pieredzei ar unikāliem tēliem un satraucošiem uzlabojumiem, kas uzlabo tavu spēles pieredzi.",
+    "gameplay": {
+      "title": "Atkarību izraisoša spēle",
+      "description": "Sāc spēlēt uzreiz savā pārlūkprogrammā! Sāc ar Tralalero Tralala, haizivi Nike apavos, un klikšķini ceļā uz slavu un bagātību caur šo atkarību izraisošo inkrementālo piedzīvojumu."
+    },
+    "characters": {
+      "title": "Atklāj virālus tēlus",
+      "description": "Savāc vairāk nekā 10 unikālus tēlus no Bombardino Crocodilo līdz Cappuccino Assassino. Katram tēlam ir sava personība un mēmiem cienīgas īpašības Itāļu Brainrot visumā."
+    },
+    "weather": {
+      "title": "Dinamiska laika apstākļu sistēma",
+      "description": "Piedzīvo daudzveidīgus laika apstākļu efektus, tostarp lietu, sauli, zvaigžņu lietu, vēju un sniegu, progresējot tālāk. Katri laika apstākļi rada unikālu atmosfēru tavam klikšķināšanas piedzīvojumam."
+    }
+  },
+  "guides": {
+    "title": "Spēles ceļveži",
+    "description": "Uzzini, kā kļūt par meistaru Italian Brainrot Clicker ar mūsu visaptverošajiem ceļvežiem un stratēģijām",
+    "howToPlay": {
+      "title": "Kā spēlēt",
+      "description": "Italian Brainrot Clicker mērķis ir vienkāršs: klikšķini pēc iespējas vairāk, lai nopelnītu monētas un atklātu aizraujošus uzlabojumus. Tu sāc ar Tralalero Tralala un normāliem laika apstākļiem, tad progresē caur klikšķināšanu, lai atklātu vairāk tēlu un laika apstākļu efektus."
+    },
+    "upgrades": {
+      "title": "Stratēģiski uzlabojumi",
+      "description": "Izmanto savas monētas gudri, lai iegādātos jaudīgus uzlabojumus:"
+    },
+    "characters": {
+      "title": "Tēlu kolekcija",
+      "description": "Atklāj unikālus tēlus caur neatlaidīgu klikšķināšanu. Pēc 200 klikšķu sasniegšanas tu atklāsi Bombardino Crocodilo. Ap 1000 monētām tu atklāsi lietus efektu. Turpini kolekcionēt, lai atklātu visus tēlus, tostarp Tung Tung Tung Sahur, Brr Brr Patapim, Lirili Larila un zibensātro Cappuccino Assassino!"
+    }
+  },
+  "faq": {
+    "title": "BUJ",
+    "description": "Atbildes uz biežāk uzdotajiem jautājumiem par Italian Brainrot Clicker",
+    "what": {
+      "title": "Kas ir brainrot mēme?",
+      "description": "Brainrot mēmes ir virāls saturs, kas ir ieguvis plašu uzmanību platformās, piemēram, TikTok. Italian Brainrot Clicker atdzīvina šīs mēmes kā spēlējamus tēlus, kurus vari kolekcionēt un baudīt."
+    },
+    "mean": {
+      "title": "Ko nozīmē brainrot?",
+      "description": "Interneta kultūrā brainrot attiecas uz situāciju, kad kāds kļūst apsēsts vai atkārtoti iesaistās virālā tendencē, pilnībā neizprotot kāpēc. Tas ir ideāls apraksts mūsu klikšķināšanas spēles atkarību izraisošajai dabai!"
+    },
+    "mobile": {
+      "title": "Vai varu spēlēt Italian Brainrot Clicker mobilajās ierīcēs?",
+      "description": "Noteikti! Italian Brainrot Clicker ir pilnībā optimizēts mobilajiem tālruņiem, planšetdatoriem un galddatoriem. Spēlē jebkur, jebkurā laikā caur savu pārlūkprogrammu bez nepieciešamības veikt lejupielādes."
+    }
+  },
+  "language": {
+    "select": "Izvēlies valodu",
+    "en": "Angļu",
+    "sv": "Zviedru",
+    "no": "Norvēģu",
+    "da": "Dāņu",
+    "fr": "Franču",
+    "nl": "Holandiešu",
+    "es": "Spāņu",
+    "de": "Vācu",
+    "is": "Islandiešu",
+    "vi": "Vjetnamiešu",
+    "lv": "Latviešu",
+    "ar": "Arābu"
+  }
+} 

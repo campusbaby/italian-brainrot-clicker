@@ -4,10 +4,11 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next-sitemap",
+    "build": "next build && next-sitemap && node fix-sitemap.js",
     "start": "next start",
     "lint": "next lint",
-    "sitemap": "next-sitemap"
+    "sitemap": "next-sitemap && node fix-sitemap.js",
+    "fix-sitemap": "node fix-sitemap.js"
   },
   "dependencies": {
     "framer-motion": "6.3.16",

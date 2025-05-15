@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://brainrotclicker.co/</loc>
+    <lastmod>2023-05-15T06:30:13.244Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://brainrotclicker.co/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://brainrotclicker.co/sv"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://brainrotclicker.co/no"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://brainrotclicker.co/da"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://brainrotclicker.co/fr"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://brainrotclicker.co/nl"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://brainrotclicker.co/es"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://brainrotclicker.co/de"/>
+    <xhtml:link rel="alternate" hreflang="is" href="https://brainrotclicker.co/is"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://brainrotclicker.co/vi"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://brainrotclicker.co/lv"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://brainrotclicker.co/ar"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://brainrotclicker.co/"/>
+  </url>
+</urlset> 

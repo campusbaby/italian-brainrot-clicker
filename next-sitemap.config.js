@@ -53,17 +53,22 @@ module.exports = {
       href: 'https://brainrotclicker.co/ar',
       hreflang: 'ar',
     },
+    {
+      href: 'https://brainrotclicker.co',
+      hreflang: 'x-default',
+    },
   ],
   // 排除不需要的路径
-  exclude: ['/404', '/500', '/en', '/en/*'],
-  // 添加额外的站点地图路径（如需要）
+  exclude: ['/404', '/500', '/en', '/en/*', '/sitemap*.xml'],
+  // 添加额外的站点地图路径
   additionalPaths: async (config) => {
+    const currentDate = new Date().toISOString();
     return [
       {
         loc: '/',
         changefreq: 'daily',
         priority: 1.0,
-        lastmod: new Date().toISOString(),
+        lastmod: currentDate,
         alternateRefs: [
           { href: 'https://brainrotclicker.co/sv', hreflang: 'sv' },
           { href: 'https://brainrotclicker.co/no', hreflang: 'no' },
@@ -76,13 +81,14 @@ module.exports = {
           { href: 'https://brainrotclicker.co/vi', hreflang: 'vi' },
           { href: 'https://brainrotclicker.co/lv', hreflang: 'lv' },
           { href: 'https://brainrotclicker.co/ar', hreflang: 'ar' },
+          { href: 'https://brainrotclicker.co', hreflang: 'x-default' },
         ],
       },
       {
         loc: '/sv',
         changefreq: 'daily',
         priority: 1.0,
-        lastmod: new Date().toISOString(),
+        lastmod: currentDate,
         alternateRefs: [
           { href: 'https://brainrotclicker.co', hreflang: 'en' },
           { href: 'https://brainrotclicker.co/no', hreflang: 'no' },
@@ -95,13 +101,14 @@ module.exports = {
           { href: 'https://brainrotclicker.co/vi', hreflang: 'vi' },
           { href: 'https://brainrotclicker.co/lv', hreflang: 'lv' },
           { href: 'https://brainrotclicker.co/ar', hreflang: 'ar' },
+          { href: 'https://brainrotclicker.co', hreflang: 'x-default' },
         ],
       },
       {
         loc: '/no',
         changefreq: 'daily',
         priority: 1.0,
-        lastmod: new Date().toISOString(),
+        lastmod: currentDate,
         alternateRefs: [
           { href: 'https://brainrotclicker.co', hreflang: 'en' },
           { href: 'https://brainrotclicker.co/sv', hreflang: 'sv' },
@@ -114,13 +121,14 @@ module.exports = {
           { href: 'https://brainrotclicker.co/vi', hreflang: 'vi' },
           { href: 'https://brainrotclicker.co/lv', hreflang: 'lv' },
           { href: 'https://brainrotclicker.co/ar', hreflang: 'ar' },
+          { href: 'https://brainrotclicker.co', hreflang: 'x-default' },
         ],
       },
       {
         loc: '/da',
         changefreq: 'daily',
         priority: 1.0,
-        lastmod: new Date().toISOString(),
+        lastmod: currentDate,
         alternateRefs: [
           { href: 'https://brainrotclicker.co', hreflang: 'en' },
           { href: 'https://brainrotclicker.co/sv', hreflang: 'sv' },
@@ -133,13 +141,14 @@ module.exports = {
           { href: 'https://brainrotclicker.co/vi', hreflang: 'vi' },
           { href: 'https://brainrotclicker.co/lv', hreflang: 'lv' },
           { href: 'https://brainrotclicker.co/ar', hreflang: 'ar' },
+          { href: 'https://brainrotclicker.co', hreflang: 'x-default' },
         ],
       },
       {
         loc: '/fr',
         changefreq: 'daily',
         priority: 1.0,
-        lastmod: new Date().toISOString(),
+        lastmod: currentDate,
         alternateRefs: [
           { href: 'https://brainrotclicker.co', hreflang: 'en' },
           { href: 'https://brainrotclicker.co/sv', hreflang: 'sv' },
@@ -152,13 +161,14 @@ module.exports = {
           { href: 'https://brainrotclicker.co/vi', hreflang: 'vi' },
           { href: 'https://brainrotclicker.co/lv', hreflang: 'lv' },
           { href: 'https://brainrotclicker.co/ar', hreflang: 'ar' },
+          { href: 'https://brainrotclicker.co', hreflang: 'x-default' },
         ],
       },
       {
         loc: '/nl',
         changefreq: 'daily',
         priority: 1.0,
-        lastmod: new Date().toISOString(),
+        lastmod: currentDate,
         alternateRefs: [
           { href: 'https://brainrotclicker.co', hreflang: 'en' },
           { href: 'https://brainrotclicker.co/sv', hreflang: 'sv' },
@@ -171,13 +181,14 @@ module.exports = {
           { href: 'https://brainrotclicker.co/vi', hreflang: 'vi' },
           { href: 'https://brainrotclicker.co/lv', hreflang: 'lv' },
           { href: 'https://brainrotclicker.co/ar', hreflang: 'ar' },
+          { href: 'https://brainrotclicker.co', hreflang: 'x-default' },
         ],
       },
       {
         loc: '/es',
         changefreq: 'daily',
         priority: 1.0,
-        lastmod: new Date().toISOString(),
+        lastmod: currentDate,
         alternateRefs: [
           { href: 'https://brainrotclicker.co', hreflang: 'en' },
           { href: 'https://brainrotclicker.co/sv', hreflang: 'sv' },
@@ -190,13 +201,14 @@ module.exports = {
           { href: 'https://brainrotclicker.co/vi', hreflang: 'vi' },
           { href: 'https://brainrotclicker.co/lv', hreflang: 'lv' },
           { href: 'https://brainrotclicker.co/ar', hreflang: 'ar' },
+          { href: 'https://brainrotclicker.co', hreflang: 'x-default' },
         ],
       },
       {
         loc: '/de',
         changefreq: 'daily',
         priority: 1.0,
-        lastmod: new Date().toISOString(),
+        lastmod: currentDate,
         alternateRefs: [
           { href: 'https://brainrotclicker.co', hreflang: 'en' },
           { href: 'https://brainrotclicker.co/sv', hreflang: 'sv' },
@@ -209,13 +221,14 @@ module.exports = {
           { href: 'https://brainrotclicker.co/vi', hreflang: 'vi' },
           { href: 'https://brainrotclicker.co/lv', hreflang: 'lv' },
           { href: 'https://brainrotclicker.co/ar', hreflang: 'ar' },
+          { href: 'https://brainrotclicker.co', hreflang: 'x-default' },
         ],
       },
       {
         loc: '/is',
         changefreq: 'daily',
         priority: 1.0,
-        lastmod: new Date().toISOString(),
+        lastmod: currentDate,
         alternateRefs: [
           { href: 'https://brainrotclicker.co', hreflang: 'en' },
           { href: 'https://brainrotclicker.co/sv', hreflang: 'sv' },
@@ -228,13 +241,14 @@ module.exports = {
           { href: 'https://brainrotclicker.co/vi', hreflang: 'vi' },
           { href: 'https://brainrotclicker.co/lv', hreflang: 'lv' },
           { href: 'https://brainrotclicker.co/ar', hreflang: 'ar' },
+          { href: 'https://brainrotclicker.co', hreflang: 'x-default' },
         ],
       },
       {
         loc: '/vi',
         changefreq: 'daily',
         priority: 1.0,
-        lastmod: new Date().toISOString(),
+        lastmod: currentDate,
         alternateRefs: [
           { href: 'https://brainrotclicker.co', hreflang: 'en' },
           { href: 'https://brainrotclicker.co/sv', hreflang: 'sv' },
@@ -247,13 +261,14 @@ module.exports = {
           { href: 'https://brainrotclicker.co/is', hreflang: 'is' },
           { href: 'https://brainrotclicker.co/lv', hreflang: 'lv' },
           { href: 'https://brainrotclicker.co/ar', hreflang: 'ar' },
+          { href: 'https://brainrotclicker.co', hreflang: 'x-default' },
         ],
       },
       {
         loc: '/lv',
         changefreq: 'daily',
         priority: 1.0,
-        lastmod: new Date().toISOString(),
+        lastmod: currentDate,
         alternateRefs: [
           { href: 'https://brainrotclicker.co', hreflang: 'en' },
           { href: 'https://brainrotclicker.co/sv', hreflang: 'sv' },
@@ -266,13 +281,14 @@ module.exports = {
           { href: 'https://brainrotclicker.co/is', hreflang: 'is' },
           { href: 'https://brainrotclicker.co/vi', hreflang: 'vi' },
           { href: 'https://brainrotclicker.co/ar', hreflang: 'ar' },
+          { href: 'https://brainrotclicker.co', hreflang: 'x-default' },
         ],
       },
       {
         loc: '/ar',
         changefreq: 'daily',
         priority: 1.0,
-        lastmod: new Date().toISOString(),
+        lastmod: currentDate,
         alternateRefs: [
           { href: 'https://brainrotclicker.co', hreflang: 'en' },
           { href: 'https://brainrotclicker.co/sv', hreflang: 'sv' },
@@ -285,9 +301,20 @@ module.exports = {
           { href: 'https://brainrotclicker.co/is', hreflang: 'is' },
           { href: 'https://brainrotclicker.co/vi', hreflang: 'vi' },
           { href: 'https://brainrotclicker.co/lv', hreflang: 'lv' },
+          { href: 'https://brainrotclicker.co', hreflang: 'x-default' },
         ],
       },
     ];
+  },
+  // 为每种语言创建单独的sitemap
+  transform: async (config, path) => {
+    return {
+      loc: path,
+      changefreq: config.changefreq,
+      priority: config.priority,
+      lastmod: new Date().toISOString(),
+      alternateRefs: config.alternateRefs || [],
+    };
   },
   robotsTxtOptions: {
     policies: [

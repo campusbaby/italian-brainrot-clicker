@@ -4,18 +4,16 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next-sitemap && node fix-sitemap.js",
+    "build": "next build && node generate-sitemap.js",
     "start": "next start",
     "lint": "next lint",
-    "sitemap": "next-sitemap && node fix-sitemap.js",
-    "fix-sitemap": "node fix-sitemap.js"
+    "sitemap": "node generate-sitemap.js"
   },
   "dependencies": {
     "framer-motion": "6.3.16",
     "i18next": "^23.7.11",
     "next": "14.1.0",
     "next-i18next": "^14.0.0",
-    "next-sitemap": "^4.2.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-i18next": "^13.5.0"

@@ -26,7 +26,7 @@ export async function generateMetadata({ params }: { params: { locale: string } 
     metadataBase: new URL('https://brainrotclicker.co'),
     title: dict.site.title || "Italian Brainrot Clicker",
     description: dict.site.description || "Immerse yourself in a fantastic internet world",
-    keywords: "Italian Brainrot Clicker, clicker games, idle games, clicking games, brainrot games",
+    keywords: "Italian Brainrot Clicker,Brainrot Clicker, clicker games, idle games, clicking games, brainrot games",
     openGraph: {
       title: dict.site.title || "Italian Brainrot Clicker",
       description: dict.site.description || "Immerse yourself in a fantastic internet world",

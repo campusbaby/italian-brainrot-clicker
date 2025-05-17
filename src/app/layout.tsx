@@ -22,6 +22,14 @@ export const metadata: Metadata = {
   title: "Italian Brainrot Clicker - Fantastic Internet Clicking Game",
   description: "Immerse yourself in a fantastic internet world, collect brainrot points, unlock quirky characters and stories",
   keywords: "Italian Brainrot Clicker, clicker games, idle games, clicking games, brainrot games",
+  icons: {
+    icon: [
+      { url: '/favicon.ico', sizes: '32x32' },
+      { url: '/favicon.png', sizes: '192x192' }
+    ],
+    shortcut: '/favicon.ico',
+    apple: '/favicon.png',
+  },
   openGraph: {
     title: "Italian Brainrot Clicker - Fantastic Internet Clicking Game",
     description: "Immerse yourself in a fantastic internet world, collect brainrot points, unlock quirky characters and stories",
@@ -83,6 +91,7 @@ export default function RootLayout({
         </Script>
         
         {/* Tailwind loading to ensure styles are applied correctly */}
+        <link rel="manifest" href="/site.webmanifest" />
       </head>
       <body className={`${inter.variable} ${robotoMono.variable} bg-gray-900 text-white antialiased`}>
         {children}

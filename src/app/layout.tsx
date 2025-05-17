@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     description: "Immerse yourself in a fantastic internet world, collect brainrot points, unlock quirky characters and stories",
     images: [
       {
-        url: "https://brainrotclicker.co/og-image.png",
+        url: "https://brainrotclicker.co/game-thumbnail.png",
         width: 1200,
         height: 630,
         alt: "Italian Brainrot Clicker",
@@ -46,7 +46,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Italian Brainrot Clicker - Fantastic Internet Clicking Game",
     description: "Immerse yourself in a fantastic internet world, collect brainrot points, unlock quirky characters and stories",
-    images: ["https://brainrotclicker.co/og-image.png"],
+    images: ["https://brainrotclicker.co/game-thumbnail.png"],
   },
   alternates: {
     canonical: 'https://brainrotclicker.co',

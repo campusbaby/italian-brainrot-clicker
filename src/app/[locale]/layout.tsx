@@ -32,7 +32,7 @@ export async function generateMetadata({ params }: { params: { locale: string } 
       description: dict.site.description || "Immerse yourself in a fantastic internet world",
       images: [
         {
-          url: "https://brainrotclicker.co/og-image.png",
+          url: "https://brainrotclicker.co/game-thumbnail.png",
           width: 1200,
           height: 630,
           alt: "Italian Brainrot Clicker",
@@ -43,7 +43,7 @@ export async function generateMetadata({ params }: { params: { locale: string } 
       card: "summary_large_image",
       title: dict.site.title || "Italian Brainrot Clicker",
       description: dict.site.description || "Immerse yourself in a fantastic internet world",
-      images: ["https://brainrotclicker.co/og-image.png"],
+      images: ["https://brainrotclicker.co/game-thumbnail.png"],
     },
     // 添加备用语言链接
     alternates: {

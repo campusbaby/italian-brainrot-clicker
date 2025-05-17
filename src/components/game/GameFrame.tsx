@@ -6,9 +6,10 @@ export default function GameFrame() {
   return (
     <div className="w-full h-full relative bg-gray-900 rounded-lg overflow-hidden">
       <iframe 
-        src="https://www.crazygames.com/embed/italian-brainrot-clicker-usp?locale=en&lang=en&countryOverride=US" 
+        src="https://1games.io/game/italian-brainrot-clicker/" 
         style={{ width: '100%', height: '100%' }} 
         frameBorder="0" 
+        scrolling="no"
         allow="gamepad *; fullscreen *; autoplay; clipboard-write; encrypted-media;" 
         allowFullScreen
         loading="eager"

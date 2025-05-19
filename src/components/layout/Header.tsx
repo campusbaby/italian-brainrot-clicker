@@ -43,6 +43,7 @@ export default function Header({ dict }: HeaderProps) {
   const navItems = [
     { name: dict?.header?.home || 'Home', path: getLocalizedPath('/') },
     { name: dict?.header?.features || 'Features', path: getLocalizedPath('/#features') },
+    { name: dict?.header?.characters || 'Characters', path: getLocalizedPath('/#animals-list') },
     { name: dict?.header?.guides || 'Guides', path: getLocalizedPath('/#guides') },
     { name: dict?.header?.faq || 'FAQ', path: getLocalizedPath('/#faq') },
   ];

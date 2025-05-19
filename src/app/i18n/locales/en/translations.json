@@ -10,6 +10,7 @@
   "header": {
     "home": "Home",
     "features": "Features",
+    "characters": "Characters",
     "guides": "Guides",
     "faq": "FAQ",
     "logo": "Italian Brainrot Clicker"
@@ -37,6 +38,32 @@
     "weather": {
       "title": "Dynamic Weather System",
       "description": "Experience multiple weather effects including rain, sunny, star rain, windy and snow as you progress. Each weather creates a unique atmosphere for your clicking adventure."
+    }
+  },
+  "charactersList": {
+    "title": "Italian Brainrot Animals List",
+    "description": "Explore all unique characters in the Italian Brainrot universe. Each character has its own unique traits and interesting backstory.",
+    "characters": {
+      "tralaleroTralala": {
+        "name": "Tralalero Tralala",
+        "description": "A shark in Nike shoes, the starting character of the game."
+      },
+      "bombardinoCrocodilo": {
+        "name": "Bombardino Crocodilo",
+        "description": "An energetic crocodile known for its unique dance moves."
+      },
+      "tungTungTungSahur": {
+        "name": "Tung Tung Tung Sahur",
+        "description": "A rhythmic character with unique musical elements."
+      },
+      "liriliLarila": {
+        "name": "Lirili Larila",
+        "description": "A mysterious character with musical features and a unique melody."
+      },
+      "BonecaAmbalabu": {
+        "name": "Boneca Ambalabu",
+        "description": "A colorful dancing doll with hypnotic movements and a playful personality."
+      }
     }
   },
   "guides": {

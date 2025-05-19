@@ -84,9 +84,8 @@ export default function Footer({ dict }: FooterProps) {
             </h3>
             <ul className="space-y-2 text-sm">
               <li><Link href={getLocalizedPath('/')} className="text-gray-400 hover:text-purple-500 transition-colors">{dict?.header?.home || 'Home'}</Link></li>
-              <li><Link href={getLocalizedPath('/')} className="text-gray-400 hover:text-purple-500 transition-colors">{dict?.header?.home || 'Play Game'}</Link></li>
-              <li><Link href={getLocalizedPath('/#guides')} className="text-gray-400 hover:text-purple-500 transition-colors">{dict?.header?.guides || 'Guides'}</Link></li>
               <li><Link href={getLocalizedPath('/#features')} className="text-gray-400 hover:text-purple-500 transition-colors">{dict?.header?.features || 'Features'}</Link></li>
+              <li><Link href={getLocalizedPath('/#guides')} className="text-gray-400 hover:text-purple-500 transition-colors">{dict?.header?.guides || 'Guides'}</Link></li>
               <li><Link href={getLocalizedPath('/#faq')} className="text-gray-400 hover:text-purple-500 transition-colors">{dict?.header?.faq || 'FAQ'}</Link></li>
             </ul>
           </div>

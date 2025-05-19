@@ -10,6 +10,7 @@
   "header": {
     "home": "Home",
     "features": "Functies",
+    "characters": "Personages",
     "guides": "Gidsen",
     "faq": "FAQ",
     "logo": "Italian Brainrot Clicker"
@@ -39,6 +40,32 @@
       "description": "Ervaar meerdere weereffecten, waaronder regen, zonnig, sterrenregen, winderig en sneeuw terwijl je vordert. Elk weer creëert een unieke sfeer voor je klikavontuur."
     }
   },
+  "charactersList": {
+    "title": "Italian Brainrot Dierenlijst",
+    "description": "Verken alle unieke personages in het Italian Brainrot-universum. Elk personage heeft zijn eigen unieke eigenschappen en interessante achtergrond.",
+    "characters": {
+      "tralaleroTralala": {
+        "name": "Tralalero Tralala",
+        "description": "Een haai in Nike-schoenen, het startpersonage van het spel."
+      },
+      "bombardinoCrocodilo": {
+        "name": "Bombardino Crocodilo",
+        "description": "Een energieke krokodil bekend om zijn unieke dansbewegingen."
+      },
+      "tungTungTungSahur": {
+        "name": "Tung Tung Tung Sahur",
+        "description": "Een ritmisch personage met unieke muzikale elementen."
+      },
+      "liriliLarila": {
+        "name": "Lirili Larila",
+        "description": "Een mysterieus personage met muzikale kenmerken en een unieke melodie."
+      },
+      "BonecaAmbalabu": {
+        "name": "Boneca Ambalabu",
+        "description": "Een kleurrijke dansende pop met hypnotiserende bewegingen en een speelse persoonlijkheid."
+      }
+    }
+  },
   "guides": {
     "title": "Spelgidsen",
     "description": "Leer hoe je Italian Brainrot Clicker kunt beheersen met onze uitgebreide gidsen en strategieën",
@@ -52,7 +79,7 @@
     },
     "characters": {
       "title": "Personage Collectie",
-      "description": "Ontgrendel unieke personages door constant te klikken. Na het bereiken van 200 klikken, ontgrendel je Bombardino Crocodilo. Rond 1.000 munten ontgrendel je het regeneffect. Blijf verzamelen om alle personages te ontdekken, waaronder Tung Tung Tung Sahur, Brr Brr Patapim, Lirili Larila, en de bliksemsnelle Cappuccino Assassino!"
+      "description": "Ontgrendel unieke personages door constant te klikken. Na het bereiken van 200 klikken, ontgrendel je Bombardino Crocodilo. Rond 1.000 munten ontgrendel je het regeneffect. Blijf verzamelen om alle personages te ontdekken, waaronder Tung Tung Tung Sahur en Lirili Larila!"
     }
   },
   "faq": {

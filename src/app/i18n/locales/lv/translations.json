@@ -10,6 +10,7 @@
   "header": {
     "home": "Sākums",
     "features": "Funkcijas",
+    "characters": "Tēli",
     "guides": "Ceļveži",
     "faq": "BUJ",
     "logo": "Italian Brainrot Clicker"
@@ -39,6 +40,32 @@
       "description": "Piedzīvo daudzveidīgus laika apstākļu efektus, tostarp lietu, sauli, zvaigžņu lietu, vēju un sniegu, progresējot tālāk. Katri laika apstākļi rada unikālu atmosfēru tavam klikšķināšanas piedzīvojumam."
     }
   },
+  "charactersList": {
+    "title": "Italian Brainrot Dzīvnieku saraksts",
+    "description": "Izpēti visus unikālos tēlus Italian Brainrot visumā. Katram tēlam ir savas unikālas īpašības un interesanta vēsture.",
+    "characters": {
+      "tralaleroTralala": {
+        "name": "Tralalero Tralala",
+        "description": "Haizivs Nike apavos, spēles sākuma tēls."
+      },
+      "bombardinoCrocodilo": {
+        "name": "Bombardino Crocodilo",
+        "description": "Enerģisks krokodils, pazīstams ar savām unikālām dejas kustībām."
+      },
+      "tungTungTungSahur": {
+        "name": "Tung Tung Tung Sahur",
+        "description": "Ritmisks tēls ar unikāliem muzikāliem elementiem."
+      },
+      "liriliLarila": {
+        "name": "Lirili Larila",
+        "description": "Noslēpumains tēls ar muzikālām īpašībām un unikālu melodiju."
+      },
+      "BonecaAmbalabu": {
+        "name": "Boneca Ambalabu",
+        "description": "Krāsaina dejojošā lelle ar hipnotizējošām kustībām un rotaļīgu personību."
+      }
+    }
+  },
   "guides": {
     "title": "Spēles ceļveži",
     "description": "Uzzini, kā kļūt par meistaru Italian Brainrot Clicker ar mūsu visaptverošajiem ceļvežiem un stratēģijām",
@@ -52,7 +79,7 @@
     },
     "characters": {
       "title": "Tēlu kolekcija",
-      "description": "Atklāj unikālus tēlus caur neatlaidīgu klikšķināšanu. Pēc 200 klikšķu sasniegšanas tu atklāsi Bombardino Crocodilo. Ap 1000 monētām tu atklāsi lietus efektu. Turpini kolekcionēt, lai atklātu visus tēlus, tostarp Tung Tung Tung Sahur, Brr Brr Patapim, Lirili Larila un zibensātro Cappuccino Assassino!"
+      "description": "Atklāj unikālus tēlus caur neatlaidīgu klikšķināšanu. Pēc 200 klikšķu sasniegšanas tu atklāsi Bombardino Crocodilo. Ap 1000 monētām tu atklāsi lietus efektu. Turpini kolekcionēt, lai atklātu visus tēlus, tostarp Tung Tung Tung Sahur un Lirili Larila!"
     }
   },
   "faq": {

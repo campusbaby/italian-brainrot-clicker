@@ -10,6 +10,7 @@ export interface Dictionary {
   header: {
     home: string;
     features: string;
+    characters: string;
     guides: string;
     faq: string;
     logo: string;
@@ -37,6 +38,32 @@ export interface Dictionary {
     weather: {
       title: string;
       description: string;
+    };
+  };
+  charactersList: {
+    title: string;
+    description: string;
+    characters: {
+      tralaleroTralala: {
+        name: string;
+        description: string;
+      };
+      bombardinoCrocodilo: {
+        name: string;
+        description: string;
+      };
+      tungTungTungSahur: {
+        name: string;
+        description: string;
+      };
+      liriliLarila: {
+        name: string;
+        description: string;
+      };
+      BonecaAmbalabu: {
+        name: string;
+        description: string;
+      };
     };
   };
   guides: {

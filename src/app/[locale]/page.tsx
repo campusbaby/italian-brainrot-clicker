@@ -4,6 +4,7 @@ import { motion } from "framer-motion";
 import GameFrame from "@/components/game/GameFrame";
 import ScrollToTopButton from "@/components/ScrollToTopButton";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
+import CharactersList from "@/components/CharactersList";
 import { getDictionary } from "../i18n";
 import { defaultLocale, locales } from "../i18n/settings";
 
@@ -41,7 +42,7 @@ async function HomePage({ params }: { params: { locale: string } }) {
             {dict.hero.description}
           </p>
           
-          <div className="relative w-full max-w-7xl aspect-[16/9] rounded-2xl overflow-hidden border-2 border-purple-500 shadow-lg">
+          <div className="relative w-full max-w-8xl aspect-[16/9] rounded-2xl overflow-hidden border-2 border-purple-500 shadow-lg">
             <GameFrame />
           </div>
           
@@ -112,6 +113,9 @@ async function HomePage({ params }: { params: { locale: string } }) {
         </div>
       </section>
       
+      {/* Italian Brainrot Animals List */}
+      <CharactersList dict={dict} />
+      
       {/* Game Guides */}
       <section id="guides" className="py-20 bg-gray-900">
         <div className="container mx-auto px-4">
@@ -124,7 +128,7 @@ async function HomePage({ params }: { params: { locale: string } }) {
             </p>
           </div>
           
-          <div className="max-w-4xl mx-auto">
+          <div className="mx-auto">
             <div className="card mb-12">
               <h3 className="text-xl font-bold mb-3">{dict.guides.howToPlay.title}</h3>
               <p className="text-gray-400 mb-4">
@@ -162,7 +166,7 @@ async function HomePage({ params }: { params: { locale: string } }) {
             </p>
           </div>
           
-          <div className="max-w-3xl mx-auto space-y-6">
+          <div className="mx-auto space-y-6">
             <div className="card">
               <h3 className="text-xl font-bold mb-2">{dict.faq.what.title}</h3>
               <p className="text-gray-400">

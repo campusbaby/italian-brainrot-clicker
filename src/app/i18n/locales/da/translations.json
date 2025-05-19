@@ -10,6 +10,7 @@
   "header": {
     "home": "Hjem",
     "features": "Funktioner",
+    "characters": "Karakterer",
     "guides": "Vejledninger",
     "faq": "FAQ",
     "logo": "Italian Brainrot Clicker"
@@ -39,6 +40,32 @@
       "description": "Oplev flere vejreffekter, herunder regn, solskin, stjerneregn, vind og sne, når du skrider frem. Hvert vejr skaber en unik atmosfære for dit klikeventyr."
     }
   },
+  "charactersList": {
+    "title": "Italian Brainrot Dyreliste",
+    "description": "Udforsk alle unikke karakterer i Italian Brainrot-universet. Hver karakter har sine egne unikke træk og interessante baggrund.",
+    "characters": {
+      "tralaleroTralala": {
+        "name": "Tralalero Tralala",
+        "description": "En haj i Nike-sko, spillets startkarakter."
+      },
+      "bombardinoCrocodilo": {
+        "name": "Bombardino Crocodilo",
+        "description": "En energisk krokodille kendt for sine unikke dansebevægelser."
+      },
+      "tungTungTungSahur": {
+        "name": "Tung Tung Tung Sahur",
+        "description": "En rytmisk karakter med unikke musikalske elementer."
+      },
+      "liriliLarila": {
+        "name": "Lirili Larila",
+        "description": "En mystisk karakter med musikalske træk og en unik melodi."
+      },
+      "BonecaAmbalabu": {
+        "name": "Boneca Ambalabu",
+        "description": "En farverig dansende dukke med hypnotiske bevægelser og en legende personlighed."
+      }
+    }
+  },
   "guides": {
     "title": "Spilvejledninger",
     "description": "Lær at mestre Italian Brainrot Clicker med vores omfattende vejledninger og strategier",
@@ -52,7 +79,7 @@
     },
     "characters": {
       "title": "Karaktersamling",
-      "description": "Lås op for unikke karakterer gennem vedvarende klikning. Efter at have nået 200 klik, låser du op for Bombardino Crocodilo. Ved omkring 1.000 mønter låser du op for regnvejreffekten. Fortsæt med at samle for at opdage alle karakterer, herunder Tung Tung Tung Sahur, Brr Brr Patapim, Lirili Larila og den lynhurtige Cappuccino Assassino!"
+      "description": "Lås op for unikke karakterer gennem vedvarende klikning. Efter at have nået 200 klik, låser du op for Bombardino Crocodilo. Ved omkring 1.000 mønter låser du op for regnvejreffekten. Fortsæt med at samle for at opdage alle karakterer, herunder Tung Tung Tung Sahur og Lirili Larila!"
     }
   },
   "faq": {

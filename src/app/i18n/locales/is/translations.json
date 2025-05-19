@@ -10,6 +10,7 @@
   "header": {
     "home": "Heim",
     "features": "Eiginleikar",
+    "characters": "Persónur",
     "guides": "Leiðbeiningar",
     "faq": "Algengar spurningar",
     "logo": "Italian Brainrot Clicker"
@@ -39,6 +40,32 @@
       "description": "Upplifðu margs konar veðuráhrif, þar á meðal rigningu, sól, stjörnuregn, vind og snjó eftir því sem þú þróast áfram. Hvert veður skapar einstakt andrúmsloft fyrir smelli-ævintýrið þitt."
     }
   },
+  "charactersList": {
+    "title": "Italian Brainrot Dýralisti",
+    "description": "Kannaðu allar einstaka persónur í Italian Brainrot alheiminum. Hver persóna hefur sína eigin einstöku eiginleika og áhugaverða bakgrunnssögu.",
+    "characters": {
+      "tralaleroTralala": {
+        "name": "Tralalero Tralala",
+        "description": "Hákarl í Nike skóm, upphafspersóna leiksins."
+      },
+      "bombardinoCrocodilo": {
+        "name": "Bombardino Crocodilo",
+        "description": "Orkumikill krókódíll þekktur fyrir einstaka danshreyfingar sínar."
+      },
+      "tungTungTungSahur": {
+        "name": "Tung Tung Tung Sahur",
+        "description": "Taktföst persóna með einstaka tónlistareiginleika."
+      },
+      "liriliLarila": {
+        "name": "Lirili Larila",
+        "description": "Dularfull persóna með tónlistareiginleika og einstakan melódíu."
+      },
+      "BonecaAmbalabu": {
+        "name": "Boneca Ambalabu",
+        "description": "Litrík dansandi dúkka með dáleiðandi hreyfingar og leikfulla persónuleika."
+      }
+    }
+  },
   "guides": {
     "title": "Leiðbeiningar",
     "description": "Lærðu að verða meistari í Italian Brainrot Clicker með ítarlegum leiðbeiningum okkar og áætlunum",
@@ -52,7 +79,7 @@
     },
     "characters": {
       "title": "Persónusafn",
-      "description": "Opnaðu fyrir einstaka persónur með þrálátum smellum. Eftir að hafa náð 200 smellum opnarðu fyrir Bombardino Crocodilo. Í kringum 1.000 mynt opnarðu fyrir regnáhrifin. Haltu áfram að safna til að uppgötva allar persónur, þar á meðal Tung Tung Tung Sahur, Brr Brr Patapim, Lirili Larila, og eldsnögga Cappuccino Assassino!"
+      "description": "Opnaðu fyrir einstaka persónur með þrálátum smellum. Eftir að hafa náð 200 smellum opnarðu fyrir Bombardino Crocodilo. Í kringum 1.000 mynt opnarðu fyrir regnáhrifin. Haltu áfram að safna til að uppgötva allar persónur, þar á meðal Tung Tung Tung Sahur og Lirili Larila!"
     }
   },
   "faq": {

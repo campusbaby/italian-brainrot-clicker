@@ -10,6 +10,7 @@
   "header": {
     "home": "Inicio",
     "features": "Características",
+    "characters": "Personajes",
     "guides": "Guías",
     "faq": "Preguntas frecuentes",
     "logo": "Italian Brainrot Clicker"
@@ -39,6 +40,32 @@
       "description": "Experimenta múltiples efectos climáticos incluyendo lluvia, sol, lluvia de estrellas, viento y nieve a medida que progresas. Cada clima crea una atmósfera única para tu aventura de clics."
     }
   },
+  "charactersList": {
+    "title": "Lista de Animales Italian Brainrot",
+    "description": "Explora todos los personajes únicos en el universo Italian Brainrot. Cada personaje tiene sus propios rasgos únicos e interesante historia.",
+    "characters": {
+      "tralaleroTralala": {
+        "name": "Tralalero Tralala",
+        "description": "Un tiburón con zapatillas Nike, el personaje inicial del juego."
+      },
+      "bombardinoCrocodilo": {
+        "name": "Bombardino Crocodilo",
+        "description": "Un cocodrilo enérgico conocido por sus movimientos de baile únicos."
+      },
+      "tungTungTungSahur": {
+        "name": "Tung Tung Tung Sahur",
+        "description": "Un personaje rítmico con elementos musicales únicos."
+      },
+      "liriliLarila": {
+        "name": "Lirili Larila",
+        "description": "Un personaje misterioso con características musicales y una melodía única."
+      },
+      "BonecaAmbalabu": {
+        "name": "Boneca Ambalabu",
+        "description": "Una muñeca bailarina colorida con movimientos hipnóticos y una personalidad juguetona."
+      }
+    }
+  },
   "guides": {
     "title": "Guías del juego",
     "description": "Aprende a dominar Italian Brainrot Clicker con nuestras completas guías y estrategias",
@@ -52,7 +79,7 @@
     },
     "characters": {
       "title": "Colección de personajes",
-      "description": "Desbloquea personajes únicos mediante clics persistentes. Después de alcanzar 200 clics, desbloquearás a Bombardino Crocodilo. Alrededor de 1.000 monedas, desbloquearás el efecto de lluvia. ¡Continúa coleccionando para descubrir todos los personajes incluyendo Tung Tung Tung Sahur, Brr Brr Patapim, Lirili Larila, y el veloz Cappuccino Assassino!"
+      "description": "Desbloquea personajes únicos mediante clics persistentes. Después de alcanzar 200 clics, desbloquearás a Bombardino Crocodilo. Alrededor de 1.000 monedas, desbloquearás el efecto de lluvia. ¡Continúa coleccionando para descubrir todos los personajes incluyendo Tung Tung Tung Sahur y Lirili Larila!"
     }
   },
   "faq": {

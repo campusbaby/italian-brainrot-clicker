@@ -10,6 +10,7 @@
   "header": {
     "home": "Startseite",
     "features": "Funktionen",
+    "characters": "Charaktere",
     "guides": "Anleitungen",
     "faq": "FAQ",
     "logo": "Italian Brainrot Clicker"
@@ -39,6 +40,32 @@
       "description": "Erlebe mehrere Wettereffekte, darunter Regen, Sonnenschein, Sternenregen, Wind und Schnee, während du voranschreitest. Jedes Wetter schafft eine einzigartige Atmosphäre für dein Klick-Abenteuer."
     }
   },
+  "charactersList": {
+    "title": "Italian Brainrot Tiersammlung",
+    "description": "Erkunde alle einzigartigen Charaktere im Italian Brainrot-Universum. Jeder Charakter hat seine eigenen einzigartigen Eigenschaften und eine interessante Hintergrundgeschichte.",
+    "characters": {
+      "tralaleroTralala": {
+        "name": "Tralalero Tralala",
+        "description": "Ein Hai in Nike-Schuhen, der Startcharakter des Spiels."
+      },
+      "bombardinoCrocodilo": {
+        "name": "Bombardino Crocodilo",
+        "description": "Ein energiegeladenes Krokodil, bekannt für seine einzigartigen Tanzbewegungen."
+      },
+      "tungTungTungSahur": {
+        "name": "Tung Tung Tung Sahur",
+        "description": "Ein rhythmischer Charakter mit einzigartigen musikalischen Elementen."
+      },
+      "liriliLarila": {
+        "name": "Lirili Larila",
+        "description": "Ein mysteriöser Charakter mit musikalischen Eigenschaften und einer einzigartigen Melodie."
+      },
+      "BonecaAmbalabu": {
+        "name": "Boneca Ambalabu",
+        "description": "Eine bunte tanzende Puppe mit hypnotischen Bewegungen und einer verspielten Persönlichkeit."
+      }
+    }
+  },
   "guides": {
     "title": "Spielanleitungen",
     "description": "Lerne, Italian Brainrot Clicker mit unseren umfassenden Anleitungen und Strategien zu meistern",
@@ -52,7 +79,7 @@
     },
     "characters": {
       "title": "Charaktersammlung",
-      "description": "Schalte einzigartige Charaktere durch beharrliches Klicken frei. Nach Erreichen von 200 Klicks schaltest du Bombardino Crocodilo frei. Bei etwa 1.000 Münzen schaltest du den Regeneffekt frei. Sammle weiter, um alle Charaktere zu entdecken, darunter Tung Tung Tung Sahur, Brr Brr Patapim, Lirili Larila und den blitzschnellen Cappuccino Assassino!"
+      "description": "Schalte einzigartige Charaktere durch beharrliches Klicken frei. Nach Erreichen von 200 Klicks schaltest du Bombardino Crocodilo frei. Bei etwa 1.000 Münzen schaltest du den Regeneffekt frei. Sammle weiter, um alle Charaktere zu entdecken, darunter Tung Tung Tung Sahur und Lirili Larila!"
     }
   },
   "faq": {

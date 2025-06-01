@@ -79,6 +79,13 @@ export default function RootLayout({
           `}
         </Script>
         
+        {/* Plausible Analytics */}
+        <Script 
+          data-domain="brainrotclicker.co" 
+          src="https://plausible.io/js/script.js"
+          strategy="afterInteractive"
+        />
+        
         {/* Bing Clarity */}
         <Script id="bing-clarity" strategy="afterInteractive">
           {`

@@ -12,6 +12,14 @@ const config = {
   languages: ['sv', 'no', 'da', 'fr', 'nl', 'es', 'de', 'is', 'vi', 'lv', 'ar']
 };
 
+// 添加游戏页面配置
+const games = [
+  {
+    id: 'rolling-balls-space-race',
+    priority: 0.9
+  }
+];
+
 // 生成XML头部
 let sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
@@ -51,6 +59,48 @@ config.languages.forEach(lang => {
   });
   
   sitemap += `</url>\n`;
+});
+
+// 添加游戏页面的URL
+games.forEach(game => {
+  // 添加英文游戏页面
+  const gameUrl = `${config.siteUrl}/game/${game.id}`;
+  sitemap += `<url><loc>${gameUrl}</loc><lastmod>${config.lastmod}</lastmod><changefreq>${config.changefreq}</changefreq><priority>${game.priority}</priority>`;
+  
+  // 添加英文自引用链接
+  sitemap += `<xhtml:link rel="alternate" hreflang="en" href="${gameUrl}"/>`;
+  sitemap += `<xhtml:link rel="alternate" hreflang="x-default" href="${gameUrl}"/>`;
+  
+  // 添加其他语言的链接
+  config.languages.forEach(lang => {
+    const localizedGameUrl = `${config.siteUrl}/${lang}/game/${game.id}`;
+    sitemap += `<xhtml:link rel="alternate" hreflang="${lang}" href="${localizedGameUrl}"/>`;
+  });
+  
+  sitemap += `</url>\n`;
+  
+  // 为每种语言生成游戏页面URL
+  config.languages.forEach(lang => {
+    const localizedGameUrl = `${config.siteUrl}/${lang}/game/${game.id}`;
+    sitemap += `<url><loc>${localizedGameUrl}</loc><lastmod>${config.lastmod}</lastmod><changefreq>${config.changefreq}</changefreq><priority>${game.priority}</priority>`;
+    
+    // 添加英文和x-default链接
+    sitemap += `<xhtml:link rel="alternate" hreflang="en" href="${gameUrl}"/>`;
+    sitemap += `<xhtml:link rel="alternate" hreflang="x-default" href="${gameUrl}"/>`;
+    
+    // 添加当前语言的自引用链接
+    sitemap += `<xhtml:link rel="alternate" hreflang="${lang}" href="${localizedGameUrl}"/>`;
+    
+    // 添加所有其他语言的链接
+    config.languages.forEach(otherLang => {
+      if (otherLang !== lang) {
+        const otherLocalizedGameUrl = `${config.siteUrl}/${otherLang}/game/${game.id}`;
+        sitemap += `<xhtml:link rel="alternate" hreflang="${otherLang}" href="${otherLocalizedGameUrl}"/>`;
+      }
+    });
+    
+    sitemap += `</url>\n`;
+  });
 });
 
 // 结束XML

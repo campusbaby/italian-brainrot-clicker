@@ -81,8 +81,8 @@ config.languages.forEach(lang => {
 
 // 添加游戏页面的URL
 games.forEach(game => {
-  // 添加英文游戏页面
-  const gameUrl = `${config.siteUrl}/game/${game.id}`;
+  // 添加英文游戏页面 - 修改为包含/en前缀
+  const gameUrl = `${config.siteUrl}/en/game/${game.id}`;
   sitemap += `  <url>
     <loc>${gameUrl}</loc>
     <lastmod>${config.lastmod}</lastmod>
@@ -114,7 +114,7 @@ games.forEach(game => {
     <changefreq>${config.changefreq}</changefreq>
     <priority>${game.priority}</priority>`;
     
-    // 添加英文和x-default链接
+    // 添加英文和x-default链接 - 修改为包含/en前缀
     sitemap += `
     <xhtml:link rel="alternate" hreflang="en" href="${gameUrl}"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="${gameUrl}"/>`;

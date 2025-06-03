@@ -14,6 +14,7 @@ export interface Dictionary {
     guides: string;
     faq: string;
     logo: string;
+    gamesCenter: string;
   };
   footer: {
     description: string;
@@ -102,5 +103,21 @@ export interface Dictionary {
     select: string;
     en: string;
     sv: string;
+  };
+  games?: {
+    center: string;
+    centerDescription?: string;
+    backToGames?: string;
+    howToPlay?: string;
+    resetGame?: string;
+    play?: string;
+    viewAll?: string;
+    gamesList?: {
+      [gameId: string]: {
+        title: string;
+        description: string;
+        howToPlay?: string;
+      };
+    };
   };
 } 

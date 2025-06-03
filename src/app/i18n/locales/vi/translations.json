@@ -112,5 +112,21 @@
     "vi": "Tiếng Việt",
     "lv": "Tiếng Latvia",
     "ar": "Tiếng Ả Rập"
+  },
+  "games": {
+    "center": "Trung tâm Trò chơi",
+    "howToPlay": "Cách chơi",
+    "resetGame": "Đặt lại Trò chơi",
+    "play": "Chơi Ngay",
+    "gamesList": {
+      "italian-brainrot-clicker": {
+        "title": "Italian Brainrot Clicker",
+        "description": "Trò chơi nhấp chuột tăng dần gây nghiện trong vũ trụ Italian Brainrot nổi tiếng!"
+      },
+      "rolling-balls-space-race": {
+        "title": "Rolling Balls Space Race",
+        "description": "Trò chơi đua xe khoa học viễn tưởng tốc độ cao nơi bạn điều khiển quả bóng rực lửa qua những đường đua phát sáng trong không gian! Tung cú nhảy hoàn hảo và né tránh chướng ngại vật trong chuyến đi thú vị đầy hấp dẫn này."
+      }
+    }
   }
 } 

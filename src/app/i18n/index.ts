@@ -3,6 +3,8 @@ import { Dictionary } from './types';
 
 // 翻译存储对象
 const dictionaries: Record<string, Dictionary> = {};
+// 游戏特定翻译存储对象
+const gameTranslations: Record<string, Record<string, any>> = {};
 
 // 异步加载翻译文件
 export const getDictionary = async (locale: string): Promise<Dictionary> => {
@@ -29,6 +31,36 @@ export const getDictionary = async (locale: string): Promise<Dictionary> => {
     
     // 如果是默认语言失败，返回空对象
     return {} as Dictionary;
+  }
+};
+
+// 异步加载游戏特定翻译
+export const getGameTranslation = async (gameId: string, locale: string): Promise<any> => {
+  // 创建缓存键
+  const cacheKey = `${gameId}_${locale}`;
+  
+  // 如果已经加载，直接返回
+  if (gameTranslations[cacheKey]) {
+    return gameTranslations[cacheKey];
+  }
+  
+  // 尝试加载请求的游戏翻译
+  try {
+    const translation = await import(`./games/${gameId}/${locale}.json`).then(
+      (module) => module.default
+    );
+    gameTranslations[cacheKey] = translation;
+    return translation;
+  } catch (error) {
+    console.error(`Failed to load game translation for ${gameId} in ${locale}`, error);
+    
+    // 如果不是默认语言，尝试加载默认语言的游戏翻译
+    if (locale !== defaultLocale) {
+      return getGameTranslation(gameId, defaultLocale);
+    }
+    
+    // 如果是默认语言失败，返回空对象
+    return {};
   }
 };
 

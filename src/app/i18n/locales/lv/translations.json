@@ -112,5 +112,21 @@
     "vi": "Vjetnamiešu",
     "lv": "Latviešu",
     "ar": "Arābu"
+  },
+  "games": {
+    "center": "Spēļu centrs",
+    "howToPlay": "Kā spēlēt",
+    "resetGame": "Atiestatīt spēli",
+    "play": "Spēlēt tagad",
+    "gamesList": {
+      "italian-brainrot-clicker": {
+        "title": "Italian Brainrot Clicker",
+        "description": "Atkarību izraisoša inkrementālā klikšķināšanas spēle virālajā Itāļu Brainrot visumā!"
+      },
+      "rolling-balls-space-race": {
+        "title": "Rolling Balls Space Race",
+        "description": "Augstas ātruma zinātniskās fantastikas sacīkšu spēle, kur tu kontrolē degošu bumbu pa spīdošām trasēm kosmosā! Ideāli sinhronizē savus lēcienus un izvairies no šķēršļiem šajā kosmiskajā piedzīvojumā."
+      }
+    }
   }
 } 

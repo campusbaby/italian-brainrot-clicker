@@ -42,6 +42,7 @@ export default function Header({ dict }: HeaderProps) {
   // 创建导航项，使用翻译文本并生成正确的链接
   const navItems = [
     { name: dict?.header?.home || 'Home', path: getLocalizedPath('/') },
+    { name: dict?.header?.gamesCenter || 'Games Center', path: getLocalizedPath('/#games-center') },
     { name: dict?.header?.features || 'Features', path: getLocalizedPath('/#features') },
     { name: dict?.header?.characters || 'Characters', path: getLocalizedPath('/#animals-list') },
     { name: dict?.header?.guides || 'Guides', path: getLocalizedPath('/#guides') },

@@ -108,6 +108,25 @@
     "nl": "Niederländisch",
     "es": "Spanisch",
     "de": "Deutsch",
-    "is": "Isländisch"
+    "is": "Isländisch",
+    "vi": "Vietnamesisch",
+    "lv": "Lettisch",
+    "ar": "Arabisch"
+  },
+  "games": {
+    "center": "Spielezentrum",
+    "howToPlay": "Spielanleitung",
+    "resetGame": "Spiel zurücksetzen",
+    "play": "Jetzt Spielen",
+    "gamesList": {
+      "italian-brainrot-clicker": {
+        "title": "Italian Brainrot Clicker",
+        "description": "Süchtig machendes inkrementelles Klickspiel im viralen italienischen Brainrot-Universum!"
+      },
+      "rolling-balls-space-race": {
+        "title": "Rolling Balls Space Race",
+        "description": "Rasantes Sci-Fi-Rennspiel, bei dem du eine flammende Kugel durch leuchtende Bahnen im Weltraum steuerst! Springe perfekt und weiche Hindernissen aus in dieser kosmischen Abenteuerfahrt."
+      }
+    }
   }
 } 

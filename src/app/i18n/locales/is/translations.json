@@ -108,6 +108,25 @@
     "nl": "Hollenska",
     "es": "Spænska",
     "de": "Þýska",
-    "is": "Íslenska"
+    "is": "Íslenska",
+    "vi": "Víetnamska",
+    "lv": "Lettneska",
+    "ar": "Arabíska"
+  },
+  "games": {
+    "center": "Leikjamiðstöð",
+    "howToPlay": "Hvernig á að spila",
+    "resetGame": "Endurstilla leik",
+    "play": "Spila núna",
+    "gamesList": {
+      "italian-brainrot-clicker": {
+        "title": "Italian Brainrot Clicker",
+        "description": "Ávanabindandi smellileikur í veiruheiminum Italian Brainrot!"
+      },
+      "rolling-balls-space-race": {
+        "title": "Rolling Balls Space Race",
+        "description": "Hraður vísindaskáldskapar kappakstursleikur þar sem þú stjórnar logandi kúlu á ljómandi brautum í geimnum! Tímasettu stökkið þitt fullkomlega og forðastu hindranir í þessari kosmísku spennuferð."
+      }
+    }
   }
 } 

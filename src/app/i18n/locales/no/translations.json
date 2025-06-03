@@ -104,6 +104,29 @@
     "sv": "Svensk",
     "no": "Norsk",
     "da": "Dansk",
-    "fr": "Fransk"
+    "fr": "Fransk",
+    "nl": "Nederlandsk",
+    "es": "Spansk",
+    "de": "Tysk",
+    "is": "Islandsk",
+    "vi": "Vietnamesisk",
+    "lv": "Latvisk",
+    "ar": "Arabisk"
+  },
+  "games": {
+    "center": "Spillsenter",
+    "howToPlay": "Hvordan Spille",
+    "resetGame": "Tilbakestill Spill",
+    "play": "Spill Nå",
+    "gamesList": {
+      "italian-brainrot-clicker": {
+        "title": "Italian Brainrot Clicker",
+        "description": "Vanedannende inkrementelt klikkspill i det virale italienske Brainrot-universet!"
+      },
+      "rolling-balls-space-race": {
+        "title": "Rolling Balls Space Race",
+        "description": "Høyhastighets sci-fi racingspill hvor du kontrollerer en flammende ball gjennom lysende spor i rommet! Time hoppene dine perfekt og unngå hindringer i denne kosmiske spenningsferden."
+      }
+    }
   }
 } 

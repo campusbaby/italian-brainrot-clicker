@@ -13,7 +13,8 @@
     "characters": "Personajes",
     "guides": "Guías",
     "faq": "Preguntas frecuentes",
-    "logo": "Italian Brainrot Clicker"
+    "logo": "Italian Brainrot Clicker",
+    "gamesCenter": "Centro de Juegos"
   },
   "footer": {
     "description": "Un juego de clics que explora el fantástico mundo de internet, colecciona puntos de deterioro cerebral, desbloquea historias y más.",
@@ -108,6 +109,25 @@
     "nl": "Neerlandés",
     "es": "Español",
     "de": "Alemán",
-    "is": "Islandés"
+    "is": "Islandés",
+    "vi": "Vietnamita",
+    "lv": "Letón",
+    "ar": "Árabe"
+  },
+  "games": {
+    "center": "Centro de Juegos",
+    "howToPlay": "Cómo Jugar",
+    "resetGame": "Reiniciar Juego",
+    "play": "Jugar Ahora",
+    "gamesList": {
+      "italian-brainrot-clicker": {
+        "title": "Italian Brainrot Clicker",
+        "description": "¡Juego de clics incremental adictivo ambientado en el viral universo Italian Brainrot!"
+      },
+      "rolling-balls-space-race": {
+        "title": "Rolling Balls Space Race",
+        "description": "¡Juego de carreras de ciencia ficción a alta velocidad donde controlas una bola ardiente a través de pistas luminosas en el espacio! Sincroniza perfectamente tus saltos y esquiva obstáculos en esta emocionante aventura cósmica."
+      }
+    }
   }
 } 

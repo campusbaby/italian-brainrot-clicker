@@ -15,13 +15,18 @@ const LanguageSwitcher: React.FC<LanguageSwitcherProps> = ({ currentLocale }) =>
   
   // 获取不带语言前缀的路径
   const getPathWithoutLocale = () => {
-    // 如果当前是默认语言(根路径)，pathname就是实际路径
-    if (currentLocale === defaultLocale) {
-      return pathname;
+    let path = pathname;
+    
+    // 移除所有可能的语言前缀
+    for (const locale of locales) {
+      if (path.startsWith(`/${locale}/`)) {
+        path = path.replace(`/${locale}`, '');
+      } else if (path === `/${locale}`) {
+        path = '/';
+      }
     }
     
-    // 如果是非默认语言，移除语言前缀
-    return pathname.replace(`/${currentLocale}`, '') || '/';
+    return path || '/';
   };
   
   const pathnameWithoutLocale = getPathWithoutLocale();

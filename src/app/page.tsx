@@ -5,6 +5,7 @@ import GameFrame from "@/components/game/GameFrame";
 import ScrollToTopButton from "@/components/ScrollToTopButton";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import CharactersList from "@/components/CharactersList";
+import GamesList from "@/components/game/GamesList";
 import { getDictionary } from "./i18n";
 import { defaultLocale } from "./i18n/settings";
 
@@ -36,6 +37,11 @@ export default async function Home() {
           
           <div className="relative w-full max-w-8xl aspect-[16/9] rounded-2xl overflow-hidden border-2 border-purple-500 shadow-lg">
             <GameFrame />
+          </div>
+          
+          {/* Games Center Section */}
+          <div id="games-center" className="w-full mt-20">
+            <GamesList dict={dict} />
           </div>
           
           <div className="absolute bottom-10 left-1/2 transform -translate-x-1/2 animate-bounce">

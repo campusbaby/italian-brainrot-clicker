@@ -1,0 +1,37 @@
+{
+  "howToPlay": {
+    "title": "Hoe te spelen",
+    "description": "Rolling Balls Space Race is een spannend ruimte-racespel waarin spelers een bal besturen die over lichtgevende banen reist. Gebruik de pijltjestoetsen of WASD om de beweging van de bal te besturen, en de spatiebalk om te springen."
+  },
+  "tips": {
+    "title": "Speltips",
+    "description": "Beheers deze belangrijke speltechnieken:",
+    "tip1": "Time je sprongen perfect om obstakels te vermijden",
+    "tip2": "Verzamel energieboosters op de baan om je snelheid te verhogen",
+    "tip3": "Let op bochten in het pad en pas je richting vooraf aan",
+    "tip4": "Negeer geen speciale beloningen op zijbanen",
+    "tip5": "Behoud zo veel mogelijk hoge snelheid op rechte stukken"
+  },
+  "controller": {
+    "title": "Controller ondersteuning",
+    "description": "Dit spel ondersteunt toetsenbord- en gamepadbediening. Het gebruik van een gamepad kan een soepelere spelervaring bieden, vooral in race-segmenten met hoge snelheid."
+  },
+  "faq": {
+    "goal": {
+      "question": "Wat is het doel van het spel?",
+      "answer": "Het doel van het spel is om je bal te besturen om de baan zo snel mogelijk te voltooien, obstakels te vermijden, energieboosters te verzamelen en de finish in de kortst mogelijke tijd te bereiken. Elk niveau heeft verschillende uitdagingen en terrein."
+    },
+    "tracks": {
+      "question": "Hoe ontgrendel ik nieuwe banen?",
+      "answer": "Nieuwe banen worden automatisch ontgrendeld na het voltooien van de huidige baan en het voldoen aan specifieke tijdsvereisten. Sommige speciale banen vereisen het verzamelen van een specifiek aantal sterren om te ontgrendelen."
+    },
+    "mobile": {
+      "question": "Kan ik op mobiele apparaten spelen?",
+      "answer": "Ja, Rolling Balls Space Race is volledig geoptimaliseerd voor mobiele apparaten. Op touchscreens veeg je naar links en rechts om de richting te besturen, en tik je op het scherm om te springen. De spelervaring is soepel op alle apparaten."
+    },
+    "multiplayer": {
+      "question": "Heeft het spel een multiplayer-modus?",
+      "answer": "Momenteel biedt het spel voornamelijk een uitdagingsmodus voor één speler, maar je kunt scores vergelijken met vrienden via tijdritten. Het ontwikkelingsteam overweegt om in toekomstige versies real-time multiplayer-competitiefuncties toe te voegen."
+    }
+  }
+}

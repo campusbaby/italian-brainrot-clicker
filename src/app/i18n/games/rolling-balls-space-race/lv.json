@@ -1,0 +1,37 @@
+{
+    "howToPlay": {
+      "title": "Kā spēlēt",
+      "description": "Rolling Balls Space Race ir aizraujoša kosmosa sacīkšu spēle, kurā spēlētāji vada bumbu, kas pārvietojas pa spīdošām trasēm. Izmantojiet bultiņu taustiņus vai WASD, lai vadītu bumbas kustību, un atstarpes taustiņu, lai lēktu."
+    },
+    "tips": {
+      "title": "Spēles padomi",
+      "description": "Apgūsti šīs galvenās spēles tehnikas:",
+      "tip1": "Precīzi plāno savus lēcienus, lai izvairītos no šķēršļiem",
+      "tip2": "Ievāc enerģijas pastiprinātājus uz trases, lai palielinātu ātrumu",
+      "tip3": "Pievērs uzmanību līkumiem ceļā un pielāgo virzienu iepriekš",
+      "tip4": "Neignorē īpašās balvas sānu trasēs",
+      "tip5": "Uzturi lielu ātrumu taisnos posmos, kad vien iespējams"
+    },
+    "controller": {
+      "title": "Kontroliera atbalsts",
+      "description": "Šī spēle atbalsta tastatūras un spēļu kontroliera vadību. Spēļu kontroliera izmantošana var nodrošināt plūstošāku spēles pieredzi, īpaši ātrgaitas sacīkšu posmos."
+    },
+    "faq": {
+      "goal": {
+        "question": "Kāds ir spēles mērķis?",
+        "answer": "Spēles mērķis ir vadīt bumbu, lai pabeigtu trasi pēc iespējas ātrāk, izvairītos no šķēršļiem, savāktu enerģijas pastiprinātājus un sasniegtu finiša līniju īsākajā laikā. Katram līmenim ir dažādi izaicinājumi un apvidus."
+      },
+      "tracks": {
+        "question": "Kā atbloķēt jaunas trases?",
+        "answer": "Jaunas trases automātiski atbloķēsies pēc pašreizējās trases pabeigšanas un noteikto laika prasību izpildes. Dažām īpašām trasēm nepieciešams savākt noteiktu zvaigžņu skaitu, lai tās atbloķētu."
+      },
+      "mobile": {
+        "question": "Vai varu spēlēt uz mobilajām ierīcēm?",
+        "answer": "Jā, Rolling Balls Space Race ir pilnībā optimizēts mobilajām ierīcēm. Uz skārienjutīgajiem ekrāniem velc pa kreisi un pa labi, lai kontrolētu virzienu, un pieskaries ekrānam, lai lēktu. Spēles pieredze ir vienmērīga visās ierīcēs."
+      },
+      "multiplayer": {
+        "question": "Vai spēlē ir daudzspēlētāju režīms?",
+        "answer": "Pašlaik spēle galvenokārt piedāvā viena spēlētāja izaicinājuma režīmu, bet tu vari salīdzināt rezultātus ar draugiem laika izaicinājumos. Izstrādes komanda apsver reāllaika daudzspēlētāju sacensību funkciju pievienošanu nākotnes versijās."
+      }
+    }
+}

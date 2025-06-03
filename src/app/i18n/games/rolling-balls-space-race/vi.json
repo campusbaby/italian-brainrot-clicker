@@ -1,0 +1,37 @@
+{
+    "howToPlay": {
+      "title": "Cách chơi",
+      "description": "Rolling Balls Space Race là một trò chơi đua xe không gian thú vị nơi người chơi điều khiển một quả bóng di chuyển trên những đường đua phát sáng. Sử dụng phím mũi tên hoặc WASD để điều khiển chuyển động của quả bóng, và phím cách để nhảy."
+    },
+    "tips": {
+      "title": "Mẹo chơi game",
+      "description": "Làm chủ những kỹ thuật chơi quan trọng này:",
+      "tip1": "Thời gian nhảy của bạn phải chính xác để tránh chướng ngại vật",
+      "tip2": "Thu thập các năng lượng tăng tốc trên đường đua để tăng tốc độ",
+      "tip3": "Chú ý đến các khúc cua trên đường và điều chỉnh hướng trước",
+      "tip4": "Đừng bỏ qua những phần thưởng đặc biệt trên đường phụ",
+      "tip5": "Duy trì tốc độ cao trên đường thẳng khi có thể"
+    },
+    "controller": {
+      "title": "Hỗ trợ tay cầm",
+      "description": "Trò chơi này hỗ trợ điều khiển bằng bàn phím và tay cầm. Sử dụng tay cầm có thể mang lại trải nghiệm chơi mượt mà hơn, đặc biệt là trong các đoạn đua tốc độ cao."
+    },
+    "faq": {
+      "goal": {
+        "question": "Mục tiêu của trò chơi là gì?",
+        "answer": "Mục tiêu của trò chơi là điều khiển quả bóng của bạn để hoàn thành đường đua nhanh nhất có thể, tránh chướng ngại vật, thu thập năng lượng tăng tốc và đến đích trong thời gian ngắn nhất. Mỗi cấp độ có những thử thách và địa hình khác nhau."
+      },
+      "tracks": {
+        "question": "Làm thế nào để mở khóa đường đua mới?",
+        "answer": "Đường đua mới sẽ tự động mở khóa sau khi bạn hoàn thành đường đua hiện tại và đáp ứng các yêu cầu thời gian được chỉ định. Một số đường đua đặc biệt yêu cầu thu thập một số lượng sao cụ thể để mở khóa."
+      },
+      "mobile": {
+        "question": "Tôi có thể chơi trên thiết bị di động không?",
+        "answer": "Có, Rolling Balls Space Race được tối ưu hóa hoàn toàn cho thiết bị di động. Trên màn hình cảm ứng, vuốt sang trái và phải để điều khiển hướng, và chạm vào màn hình để nhảy. Trải nghiệm chơi game mượt mà trên tất cả các thiết bị."
+      },
+      "multiplayer": {
+        "question": "Trò chơi có chế độ nhiều người chơi không?",
+        "answer": "Hiện tại, trò chơi chủ yếu cung cấp chế độ thử thách người chơi đơn, nhưng bạn có thể so sánh điểm số với bạn bè thông qua các thử thách về thời gian. Đội ngũ phát triển đang xem xét thêm tính năng cạnh tranh nhiều người chơi thời gian thực trong các phiên bản tương lai."
+      }
+    }
+}

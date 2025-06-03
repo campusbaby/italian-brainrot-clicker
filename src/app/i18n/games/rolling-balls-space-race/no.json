@@ -1,0 +1,37 @@
+{
+  "howToPlay": {
+    "title": "Hvordan spille",
+    "description": "Rolling Balls Space Race er et spennende romfartsracingspill hvor spillerne kontrollerer en ball som reiser på lysende spor. Bruk piltastene eller WASD for å kontrollere ballens bevegelse, og mellomromstasten for å hoppe."
+  },
+  "tips": {
+    "title": "Spilltips",
+    "description": "Mestre disse viktige spillteknikkene:",
+    "tip1": "Time hoppene dine perfekt for å unngå hindringer",
+    "tip2": "Samle energiforsterkere på sporet for å øke hastigheten",
+    "tip3": "Vær oppmerksom på svinger på veien og juster retningen på forhånd",
+    "tip4": "Ikke ignorer spesielle belønninger på sidespor",
+    "tip5": "Oppretthold høy hastighet på rette strekninger når det er mulig"
+  },
+  "controller": {
+    "title": "Kontrollerstøtte",
+    "description": "Dette spillet støtter tastatur- og gamepad-kontroller. Bruk av en gamepad kan gi en jevnere spillopplevelse, spesielt i høyhastighetsløpsegmenter."
+  },
+  "faq": {
+    "goal": {
+      "question": "Hva er målet med spillet?",
+      "answer": "Målet med spillet er å kontrollere ballen din for å fullføre sporet så raskt som mulig, unngå hindringer, samle energiforsterkere og nå mållinjen på kortest mulig tid. Hvert nivå har forskjellige utfordringer og terreng."
+    },
+    "tracks": {
+      "question": "Hvordan låser jeg opp nye spor?",
+      "answer": "Nye spor vil automatisk låses opp etter å ha fullført det nåværende sporet og oppfylt spesifiserte tidskrav. Noen spesielle spor krever at du samler et bestemt antall stjerner for å låses opp."
+    },
+    "mobile": {
+      "question": "Kan jeg spille på mobile enheter?",
+      "answer": "Ja, Rolling Balls Space Race er fullt optimalisert for mobile enheter. På berøringsskjermer sveiper du til venstre og høyre for å kontrollere retningen, og trykker på skjermen for å hoppe. Spillopplevelsen er jevn på alle enheter."
+    },
+    "multiplayer": {
+      "question": "Har spillet flerspillermodus?",
+      "answer": "For øyeblikket tilbyr spillet hovedsakelig en enkeltspiller utfordringsmodus, men du kan sammenligne poeng med venner gjennom tidsprøver. Utviklingsteamet vurderer å legge til sanntids flerspillerkonkurransefunksjoner i fremtidige versjoner."
+    }
+  }
+}

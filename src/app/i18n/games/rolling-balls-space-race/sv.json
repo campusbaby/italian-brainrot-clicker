@@ -1,0 +1,37 @@
+{
+  "howToPlay": {
+    "title": "Hur Man Spelar",
+    "description": "Rolling Balls Space Race är ett spännande rymdracingspel där spelarna styr en boll som färdas på lysande banor. Använd piltangenterna eller WASD för att styra bollens rörelse, och mellanslagstangenten för att hoppa."
+  },
+  "tips": {
+    "title": "Speltips",
+    "description": "Bemästra dessa viktiga speltekniker:",
+    "tip1": "Tajma dina hopp perfekt för att undvika hinder",
+    "tip2": "Samla energiboostrar på banan för att öka din hastighet",
+    "tip3": "Var uppmärksam på kurvor på vägen och justera riktningen i förväg",
+    "tip4": "Ignorera inte speciella belöningar på sidovägar",
+    "tip5": "Behåll hög hastighet på raksträckor när det är möjligt"
+  },
+  "controller": {
+    "title": "Handkontrollstöd",
+    "description": "Detta spel stöder tangentbords- och handkontroller. Att använda en handkontroll kan ge en smidigare spelupplevelse, särskilt i höghastighetssegment."
+  },
+  "faq": {
+    "goal": {
+      "question": "Vad är målet med spelet?",
+      "answer": "Målet med spelet är att styra din boll för att slutföra banan så snabbt som möjligt, undvika hinder, samla energiboostrar och nå mållinjen på kortast möjliga tid. Varje nivå har olika utmaningar och terräng."
+    },
+    "tracks": {
+      "question": "Hur låser jag upp nya banor?",
+      "answer": "Nya banor kommer automatiskt att låsas upp efter att du har slutfört den aktuella banan och uppfyllt angivna tidskrav. Vissa speciella banor kräver att du samlar ett specifikt antal stjärnor för att låsas upp."
+    },
+    "mobile": {
+      "question": "Kan jag spela på mobila enheter?",
+      "answer": "Ja, Rolling Balls Space Race är fullt optimerat för mobila enheter. På pekskärmar sveper du åt vänster och höger för att styra riktningen, och trycker på skärmen för att hoppa. Spelupplevelsen är smidig på alla enheter."
+    },
+    "multiplayer": {
+      "question": "Har spelet ett flerspelarläge?",
+      "answer": "För närvarande erbjuder spelet främst ett utmaningsläge för en spelare, men du kan jämföra poäng med vänner genom tidsprövningar. Utvecklingsteamet överväger att lägga till funktioner för flerspelarspel i realtid i framtida versioner."
+    }
+  }
+}    

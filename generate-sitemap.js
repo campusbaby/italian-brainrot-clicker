@@ -26,80 +26,114 @@ let sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 `;
 
 // 生成根URL（英文）
-sitemap += `<url><loc>${config.siteUrl}</loc><lastmod>${config.lastmod}</lastmod><changefreq>${config.changefreq}</changefreq><priority>${config.priority}</priority>`;
+sitemap += `  <url>
+    <loc>${config.siteUrl}</loc>
+    <lastmod>${config.lastmod}</lastmod>
+    <changefreq>${config.changefreq}</changefreq>
+    <priority>${config.priority}</priority>`;
 
 // 添加英文页面的替代语言链接
-sitemap += `<xhtml:link rel="alternate" hreflang="en" href="${config.siteUrl}"/>`;
-sitemap += `<xhtml:link rel="alternate" hreflang="x-default" href="${config.siteUrl}"/>`;
+sitemap += `
+    <xhtml:link rel="alternate" hreflang="en" href="${config.siteUrl}"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="${config.siteUrl}"/>`;
 
 // 添加所有其他语言的链接
 config.languages.forEach(lang => {
-  sitemap += `<xhtml:link rel="alternate" hreflang="${lang}" href="${config.siteUrl}/${lang}"/>`;
+  sitemap += `
+    <xhtml:link rel="alternate" hreflang="${lang}" href="${config.siteUrl}/${lang}"/>`;
 });
 
-sitemap += `</url>\n`;
+sitemap += `
+  </url>
+`;
 
 // 为每种语言生成URL
 config.languages.forEach(lang => {
   // 添加语言URL
-  sitemap += `<url><loc>${config.siteUrl}/${lang}</loc><lastmod>${config.lastmod}</lastmod><changefreq>${config.changefreq}</changefreq><priority>${config.priority}</priority>`;
+  sitemap += `  <url>
+    <loc>${config.siteUrl}/${lang}</loc>
+    <lastmod>${config.lastmod}</lastmod>
+    <changefreq>${config.changefreq}</changefreq>
+    <priority>${config.priority}</priority>`;
   
   // 添加英文和x-default链接（始终指向根域名）
-  sitemap += `<xhtml:link rel="alternate" hreflang="en" href="${config.siteUrl}"/>`;
-  sitemap += `<xhtml:link rel="alternate" hreflang="x-default" href="${config.siteUrl}"/>`;
+  sitemap += `
+    <xhtml:link rel="alternate" hreflang="en" href="${config.siteUrl}"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="${config.siteUrl}"/>`;
   
   // 添加当前语言的自引用链接
-  sitemap += `<xhtml:link rel="alternate" hreflang="${lang}" href="${config.siteUrl}/${lang}"/>`;
+  sitemap += `
+    <xhtml:link rel="alternate" hreflang="${lang}" href="${config.siteUrl}/${lang}"/>`;
   
   // 添加所有其他语言的链接
   config.languages.forEach(otherLang => {
     if (otherLang !== lang) {
-      sitemap += `<xhtml:link rel="alternate" hreflang="${otherLang}" href="${config.siteUrl}/${otherLang}"/>`;
+      sitemap += `
+    <xhtml:link rel="alternate" hreflang="${otherLang}" href="${config.siteUrl}/${otherLang}"/>`;
     }
   });
   
-  sitemap += `</url>\n`;
+  sitemap += `
+  </url>
+`;
 });
 
 // 添加游戏页面的URL
 games.forEach(game => {
   // 添加英文游戏页面
   const gameUrl = `${config.siteUrl}/game/${game.id}`;
-  sitemap += `<url><loc>${gameUrl}</loc><lastmod>${config.lastmod}</lastmod><changefreq>${config.changefreq}</changefreq><priority>${game.priority}</priority>`;
+  sitemap += `  <url>
+    <loc>${gameUrl}</loc>
+    <lastmod>${config.lastmod}</lastmod>
+    <changefreq>${config.changefreq}</changefreq>
+    <priority>${game.priority}</priority>`;
   
   // 添加英文自引用链接
-  sitemap += `<xhtml:link rel="alternate" hreflang="en" href="${gameUrl}"/>`;
-  sitemap += `<xhtml:link rel="alternate" hreflang="x-default" href="${gameUrl}"/>`;
+  sitemap += `
+    <xhtml:link rel="alternate" hreflang="en" href="${gameUrl}"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="${gameUrl}"/>`;
   
   // 添加其他语言的链接
   config.languages.forEach(lang => {
     const localizedGameUrl = `${config.siteUrl}/${lang}/game/${game.id}`;
-    sitemap += `<xhtml:link rel="alternate" hreflang="${lang}" href="${localizedGameUrl}"/>`;
+    sitemap += `
+    <xhtml:link rel="alternate" hreflang="${lang}" href="${localizedGameUrl}"/>`;
   });
   
-  sitemap += `</url>\n`;
+  sitemap += `
+  </url>
+`;
   
   // 为每种语言生成游戏页面URL
   config.languages.forEach(lang => {
     const localizedGameUrl = `${config.siteUrl}/${lang}/game/${game.id}`;
-    sitemap += `<url><loc>${localizedGameUrl}</loc><lastmod>${config.lastmod}</lastmod><changefreq>${config.changefreq}</changefreq><priority>${game.priority}</priority>`;
+    sitemap += `  <url>
+    <loc>${localizedGameUrl}</loc>
+    <lastmod>${config.lastmod}</lastmod>
+    <changefreq>${config.changefreq}</changefreq>
+    <priority>${game.priority}</priority>`;
     
     // 添加英文和x-default链接
-    sitemap += `<xhtml:link rel="alternate" hreflang="en" href="${gameUrl}"/>`;
-    sitemap += `<xhtml:link rel="alternate" hreflang="x-default" href="${gameUrl}"/>`;
+    sitemap += `
+    <xhtml:link rel="alternate" hreflang="en" href="${gameUrl}"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="${gameUrl}"/>`;
     
     // 添加当前语言的自引用链接
-    sitemap += `<xhtml:link rel="alternate" hreflang="${lang}" href="${localizedGameUrl}"/>`;
+    sitemap += `
+    <xhtml:link rel="alternate" hreflang="${lang}" href="${localizedGameUrl}"/>`;
     
     // 添加所有其他语言的链接
     config.languages.forEach(otherLang => {
       if (otherLang !== lang) {
         const otherLocalizedGameUrl = `${config.siteUrl}/${otherLang}/game/${game.id}`;
-        sitemap += `<xhtml:link rel="alternate" hreflang="${otherLang}" href="${otherLocalizedGameUrl}"/>`;
+        sitemap += `
+    <xhtml:link rel="alternate" hreflang="${otherLang}" href="${otherLocalizedGameUrl}"/>`;
       }
     });
     
-    sitemap += `</url>\n`;
+    sitemap += `
+  </url>
+`;
   });
 });
 

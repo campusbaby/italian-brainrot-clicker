@@ -97,6 +97,14 @@ export default function RootLayout({
           `}
         </Script>
         
+        {/* Google AdSense */}
+        <Script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7482472638384161"
+          crossOrigin="anonymous"
+          strategy="afterInteractive"
+        />
+        
         {/* Tailwind loading to ensure styles are applied correctly */}
         <link rel="manifest" href="/site.webmanifest" />
       </head>

@@ -1,0 +1,37 @@
+{
+  "howToPlay": {
+    "title": "Cách chơi",
+    "description": "Flick Goal là một trò chơi bóng đá hấp dẫn nơi bạn điều khiển quả bóng bằng những cú vuốt chính xác. Vuốt trên màn hình để xác định hướng và lực của cú sút, và cố gắng ghi bàn vượt qua các chướng ngại vật và thủ môn."
+  },
+  "tips": {
+    "title": "Mẹo chơi game",
+    "description": "Làm chủ những kỹ thuật chơi quan trọng này:",
+    "tip1": "Điều chỉnh lực sút bằng độ dài của cú vuốt",
+    "tip2": "Nhắm vào các góc của khung thành để tránh thủ môn",
+    "tip3": "Chú ý đến các chướng ngại vật di chuyển có thể chặn cú sút của bạn",
+    "tip4": "Sử dụng các cú sút cong để vượt qua rào cản",
+    "tip5": "Luyện tập thời điểm sút khi thủ môn đang di chuyển"
+  },
+  "controller": {
+    "title": "Điều khiển",
+    "description": "Trò chơi này được thiết kế cho điều khiển cảm ứng. Trên máy tính, sử dụng chuột để nhấp và kéo theo hướng bạn muốn sút. Trên thiết bị di động, chỉ cần vuốt trên màn hình để điều khiển các cú sút của bạn."
+  },
+  "faq": {
+    "goal": {
+      "question": "Mục tiêu của trò chơi là gì?",
+      "answer": "Mục tiêu của Flick Goal là ghi càng nhiều bàn thắng càng tốt bằng cách sút bóng vượt qua chướng ngại vật và thủ môn. Mỗi cấp độ mang đến những thách thức và cài đặt khác nhau đòi hỏi nhắm bắn chính xác và kiểm soát lực sút."
+    },
+    "levels": {
+      "question": "Làm thế nào để mở khóa cấp độ mới?",
+      "answer": "Các cấp độ mới được mở khóa bằng cách hoàn thành thành công cấp độ hiện tại. Một số cấp độ thử thách đặc biệt yêu cầu bạn kiếm được số sao tối thiểu từ các cấp độ trước đó."
+    },
+    "mobile": {
+      "question": "Tôi có thể chơi trên thiết bị di động không?",
+      "answer": "Có, Flick Goal được tối ưu hóa hoàn toàn cho thiết bị di động. Điều khiển cảm ứng trên điện thoại thông minh và máy tính bảng mang lại trải nghiệm chơi game trực quan và phản hồi nhanh."
+    },
+    "multiplayer": {
+      "question": "Trò chơi có chế độ nhiều người chơi không?",
+      "answer": "Hiện tại, Flick Goal cung cấp các thử thách cho người chơi đơn. Bạn có thể so sánh điểm số của mình với bạn bè thông qua bảng xếp hạng. Các nhà phát triển đang xem xét thêm tính năng thi đấu nhiều người chơi trong các bản cập nhật tương lai."
+    }
+  }
+} 

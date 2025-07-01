@@ -127,6 +127,14 @@
       "rolling-balls-space-race": {
         "title": "Rolling Balls Space Race",
         "description": "High-speed sci-fi racing game where you control a blazing ball through glowing tracks in space! Time your jumps perfectly and dodge obstacles in this cosmic thrill ride."
+      },
+      "flick-goal": {
+        "title": "Flick Goal",
+        "description": "Fun soccer shooting game where you control the direction and power of your shots with precise flicks. Challenge various obstacles and goalkeepers to become the ultimate striker!"
+      },
+      "italian-brainrot-obby-parkour": {
+        "title": "Italian Brainrot Obby Parkour",
+        "description": "Exciting parkour challenge game based on the viral Italian Brainrot memes. Jump, dodge, and overcome obstacles in this fun platformer adventure!"
       }
     }
   }

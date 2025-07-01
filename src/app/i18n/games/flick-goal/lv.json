@@ -1,0 +1,37 @@
+{
+  "howToPlay": {
+    "title": "Kā spēlēt",
+    "description": "Flick Goal ir aizraujoša futbola sitienu spēle, kurā tu kontrolē bumbu ar precīzām švīkām. Velc pa ekrānu, lai noteiktu sitiena virzienu un spēku, un mēģini gūt vārtus, pārvarot dažādus šķēršļus un vārtsargus."
+  },
+  "tips": {
+    "title": "Spēles padomi",
+    "description": "Apgūsti šīs svarīgās spēles tehnikas:",
+    "tip1": "Kontrolē sitiena spēku ar švīkas garumu",
+    "tip2": "Mērķē uz vārtu stūriem, lai izvairītos no vārtsarga",
+    "tip3": "Pievērs uzmanību kustīgiem šķēršļiem, kas var bloķēt tavu sitienu",
+    "tip4": "Izmanto līkus sitienus, lai apietu barjeras",
+    "tip5": "Trenējies sitienu laika izvēlē, kad vārtsargi kustas"
+  },
+  "controller": {
+    "title": "Vadības ierīces",
+    "description": "Šī spēle ir paredzēta skārienvadībai. Uz datora izmanto peli, lai noklikšķinātu un vilktu virzienā, kurā vēlies sist. Uz mobilajām ierīcēm vienkārši velc pa ekrānu, lai kontrolētu savus sitienus."
+  },
+  "faq": {
+    "goal": {
+      "question": "Kāds ir spēles mērķis?",
+      "answer": "Flick Goal mērķis ir gūt pēc iespējas vairāk vārtu, sitot bumbu garām šķēršļiem un vārtsargiem. Katrs līmenis piedāvā dažādus izaicinājumus un uzstādījumus, kas prasa precīzu mērķēšanu un spēka kontroli."
+    },
+    "levels": {
+      "question": "Kā atbloķēt jaunus līmeņus?",
+      "answer": "Jauni līmeņi tiek atbloķēti, veiksmīgi pabeidzot pašreizējo līmeni. Daži īpašie izaicinājuma līmeņi prasa, lai tu nopelnītu minimālo zvaigžņu skaitu no iepriekšējiem līmeņiem."
+    },
+    "mobile": {
+      "question": "Vai es varu spēlēt uz mobilajām ierīcēm?",
+      "answer": "Jā, Flick Goal ir pilnībā optimizēts mobilajām ierīcēm. Skārienvadība viedtālruņos un planšetdatoros nodrošina intuitīvu un atsaucīgu spēles pieredzi."
+    },
+    "multiplayer": {
+      "question": "Vai spēlei ir daudzspēlētāju režīms?",
+      "answer": "Pašlaik Flick Goal piedāvā viena spēlētāja izaicinājumus. Tu vari salīdzināt savus rezultātus ar draugiem, izmantojot rezultātu tabulu. Izstrādātāji apsver daudzspēlētāju sacensību funkciju pievienošanu nākotnes atjauninājumos."
+    }
+  }
+} 

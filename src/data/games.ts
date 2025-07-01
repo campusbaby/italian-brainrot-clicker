@@ -32,6 +32,24 @@ export const games: Game[] = [
     supportsReset: true,
     allowAttributes: 'gamepad *;'
   },
+  {
+    id: 'flick-goal',
+    title: 'Flick Goal',
+    description: 'Fun soccer shooting game where you control the direction and power of your shots with precise flicks. Challenge various obstacles and goalkeepers to become the ultimate striker!',
+    thumbnailUrl: '/images/games/flick-goal.jpg',
+    iframeUrl: 'https://playgroundfree.github.io/flick-goal/',
+    aspectRatio: '16:9',
+    supportsReset: true
+  },
+  {
+    id: 'italian-brainrot-obby-parkour',
+    title: 'Italian Brainrot Obby Parkour',
+    description: 'Exciting parkour challenge game based on the viral Italian Brainrot memes. Jump, dodge, and overcome obstacles in this fun platformer adventure!',
+    thumbnailUrl: '/images/games/italian-brainrot-obby-parkour.jpg',
+    iframeUrl: 'https://1games.io/embed/italian-brainrot-obby-parkour',
+    aspectRatio: '16:9',
+    supportsReset: true
+  },
   // Example for adding new game
   /*
   {

@@ -1,0 +1,37 @@
+{
+  "howToPlay": {
+    "title": "Cách chơi",
+    "description": "Italian Brainrot Obby Parkour là một trò chơi nền tảng thú vị lấy cảm hứng từ các meme Italian Brainrot đang lan truyền. Điều hướng qua các đường chạy chướng ngại vật đầy thách thức, nhảy qua các khoảng trống, tránh bẫy và thu thập các vật phẩm để tiến bộ qua các cấp độ ngày càng khó khăn."
+  },
+  "tips": {
+    "title": "Mẹo chơi game",
+    "description": "Làm chủ các kỹ thuật chơi game quan trọng sau:",
+    "tip1": "Canh thời điểm nhảy cẩn thận để vượt qua chướng ngại vật và khoảng trống",
+    "tip2": "Theo dõi các nền tảng di chuyển và canh thời điểm di chuyển của bạn cho phù hợp",
+    "tip3": "Thu thập các power-up để có được khả năng đặc biệt như nhảy đôi hoặc tăng tốc độ",
+    "tip4": "Tìm kiếm các đường đi ẩn có thể chứa các vật phẩm giá trị hoặc đường tắt",
+    "tip5": "Một số chướng ngại vật đòi hỏi thời gian chính xác - thực hành tạo nên sự hoàn hảo!"
+  },
+  "controller": {
+    "title": "Điều khiển",
+    "description": "Sử dụng các phím mũi tên hoặc WASD để di chuyển nhân vật của bạn. Nhấn phím Space hoặc mũi tên lên để nhảy. Một số cấp độ có thể có các điều khiển đặc biệt cho các khả năng độc đáo sẽ được giải thích trong quá trình chơi."
+  },
+  "faq": {
+    "goal": {
+      "question": "Mục tiêu của trò chơi là gì?",
+      "answer": "Mục tiêu của Italian Brainrot Obby Parkour là điều hướng qua tất cả các đường chạy chướng ngại vật (obbys) và đến đích của mỗi cấp độ. Khi bạn tiến bộ, bạn sẽ mở khóa các nhân vật mới và các cấp độ thách thức hơn với các yếu tố từ vũ trụ Italian Brainrot."
+    },
+    "levels": {
+      "question": "Có bao nhiêu cấp độ?",
+      "answer": "Trò chơi có hơn 20 cấp độ ngày càng thách thức, mỗi cấp độ có chướng ngại vật, chủ đề và cơ chế độc đáo. Các cấp độ mới được thêm vào thường xuyên thông qua các bản cập nhật để giữ cho lối chơi luôn mới mẻ và thú vị."
+    },
+    "mobile": {
+      "question": "Tôi có thể chơi trên thiết bị di động không?",
+      "answer": "Có, Italian Brainrot Obby Parkour được tối ưu hóa hoàn toàn cho các thiết bị di động. Trên màn hình cảm ứng, bạn sẽ thấy các điều khiển ảo cho phép bạn di chuyển và nhảy một cách dễ dàng. Trò chơi thích ứng với các kích thước màn hình khác nhau để có trải nghiệm tối ưu."
+    },
+    "multiplayer": {
+      "question": "Tôi có thể chơi với bạn bè không?",
+      "answer": "Hiện tại, trò chơi cung cấp trải nghiệm người chơi đơn, nhưng bạn có thể so sánh thời gian hoàn thành và điểm số của mình với bạn bè thông qua bảng xếp hạng. Các nhà phát triển đang xem xét thêm các chế độ chơi nhiều người hợp tác và cạnh tranh trong các bản cập nhật tương lai."
+    }
+  }
+} 

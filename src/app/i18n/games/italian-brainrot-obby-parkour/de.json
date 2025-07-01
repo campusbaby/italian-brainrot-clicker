@@ -1,0 +1,37 @@
+{
+  "howToPlay": {
+    "title": "Spielanleitung",
+    "description": "Italian Brainrot Obby Parkour ist ein aufregendes Plattformspiel, inspiriert von den viralen Italian Brainrot Memes. Navigiere durch herausfordernde Hindernisparcours, springe über Lücken, weiche Fallen aus und sammle Gegenstände, um durch zunehmend schwierigere Level voranzukommen."
+  },
+  "tips": {
+    "title": "Spieltipps",
+    "description": "Beherrsche diese wichtigen Spieltechniken:",
+    "tip1": "Time deine Sprünge sorgfältig, um Hindernisse und Lücken zu überwinden",
+    "tip2": "Achte auf bewegliche Plattformen und passe deine Bewegungen entsprechend an",
+    "tip3": "Sammle Power-Ups, um besondere Fähigkeiten wie Doppelsprung oder Geschwindigkeitsschub zu erhalten",
+    "tip4": "Suche nach versteckten Pfaden, die wertvolle Gegenstände oder Abkürzungen enthalten können",
+    "tip5": "Einige Hindernisse erfordern präzises Timing - Übung macht den Meister!"
+  },
+  "controller": {
+    "title": "Steuerung",
+    "description": "Verwende die Pfeiltasten oder WASD, um deinen Charakter zu bewegen. Drücke die Leertaste oder Pfeil nach oben zum Springen. Einige Level können spezielle Steuerungen für einzigartige Fähigkeiten haben, die während des Spiels erklärt werden."
+  },
+  "faq": {
+    "goal": {
+      "question": "Was ist das Ziel des Spiels?",
+      "answer": "Das Ziel von Italian Brainrot Obby Parkour ist es, durch alle Hindernisparcours (Obbys) zu navigieren und das Ende jedes Levels zu erreichen. Im Laufe des Spiels schaltest du neue Charaktere und anspruchsvollere Level frei, die Elemente aus dem Italian Brainrot-Universum enthalten."
+    },
+    "levels": {
+      "question": "Wie viele Level gibt es?",
+      "answer": "Das Spiel bietet über 20 zunehmend herausfordernde Level, jedes mit einzigartigen Hindernissen, Themen und Mechaniken. Neue Level werden regelmäßig durch Updates hinzugefügt, um das Gameplay frisch und spannend zu halten."
+    },
+    "mobile": {
+      "question": "Kann ich auf mobilen Geräten spielen?",
+      "answer": "Ja, Italian Brainrot Obby Parkour ist vollständig für mobile Geräte optimiert. Auf Touchscreens siehst du virtuelle Steuerelemente, mit denen du dich leicht bewegen und springen kannst. Das Spiel passt sich an verschiedene Bildschirmgrößen an, um ein optimales Erlebnis zu bieten."
+    },
+    "multiplayer": {
+      "question": "Kann ich mit Freunden spielen?",
+      "answer": "Derzeit bietet das Spiel ein Einzelspielererlebnis, aber du kannst deine Abschlusszeiten und Punktzahlen mit Freunden über die Bestenliste vergleichen. Die Entwickler erwägen, in zukünftigen Updates kooperative und wettbewerbsorientierte Mehrspielermodi hinzuzufügen."
+    }
+  }
+} 

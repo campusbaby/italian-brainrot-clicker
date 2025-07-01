@@ -1,0 +1,37 @@
+{
+  "howToPlay": {
+    "title": "Hvordan spille",
+    "description": "Italian Brainrot Obby Parkour er et spennende plattformspill inspirert av de virale italienske Brainrot-memene. Naviger gjennom utfordrende hinderløyper, hopp over gap, unngå feller og samle gjenstander for å avansere gjennom stadig vanskeligere nivåer."
+  },
+  "tips": {
+    "title": "Spilltips",
+    "description": "Mestre disse viktige spillteknikkene:",
+    "tip1": "Time hoppene dine nøye for å klare hindringer og gap",
+    "tip2": "Hold øye med bevegelige plattformer og time bevegelsene dine deretter",
+    "tip3": "Samle power-ups for å få spesielle evner som dobbelthopp eller fartsøkning",
+    "tip4": "Se etter skjulte stier som kan inneholde verdifulle gjenstander eller snarveier",
+    "tip5": "Noen hindringer krever presis timing - øvelse gjør mester!"
+  },
+  "controller": {
+    "title": "Kontroller",
+    "description": "Bruk piltastene eller WASD for å bevege karakteren din. Trykk mellomrom eller pil opp for å hoppe. Noen nivåer kan ha spesielle kontroller for unike evner som vil bli forklart under spillingen."
+  },
+  "faq": {
+    "goal": {
+      "question": "Hva er målet med spillet?",
+      "answer": "Målet med Italian Brainrot Obby Parkour er å navigere gjennom alle hinderløypene (obbys) og nå slutten av hvert nivå. Etter hvert som du avanserer, vil du låse opp nye karakterer og mer utfordrende nivåer med elementer fra Italian Brainrot-universet."
+    },
+    "levels": {
+      "question": "Hvor mange nivåer finnes det?",
+      "answer": "Spillet har over 20 stadig mer utfordrende nivåer, hvert med unike hindringer, temaer og mekanikk. Nye nivåer legges til regelmessig gjennom oppdateringer for å holde spillopplevelsen frisk og spennende."
+    },
+    "mobile": {
+      "question": "Kan jeg spille på mobile enheter?",
+      "answer": "Ja, Italian Brainrot Obby Parkour er fullstendig optimalisert for mobile enheter. På berøringsskjermer vil du se virtuelle kontroller som lar deg bevege deg og hoppe med letthet. Spillet tilpasser seg forskjellige skjermstørrelser for en optimal opplevelse."
+    },
+    "multiplayer": {
+      "question": "Kan jeg spille med venner?",
+      "answer": "For øyeblikket tilbyr spillet en enkeltspilleropplevelse, men du kan sammenligne fullføringstider og poeng med venner gjennom topplisten. Utviklerne vurderer å legge til kooperative og konkurransepregede flerspillermodi i fremtidige oppdateringer."
+    }
+  }
+} 

@@ -1,0 +1,37 @@
+{
+  "howToPlay": {
+    "title": "Sådan spiller du",
+    "description": "Italian Brainrot Obby Parkour er et spændende platformspil inspireret af de virale italienske Brainrot-memes. Naviger gennem udfordrende forhindringsbaner, spring over huller, undgå fælder og saml genstande for at avancere gennem stadigt sværere niveauer."
+  },
+  "tips": {
+    "title": "Spiltips",
+    "description": "Mestre disse vigtige spilteknikker:",
+    "tip1": "Time dine spring omhyggeligt for at klare forhindringer og huller",
+    "tip2": "Hold øje med bevægelige platforme og time dine bevægelser derefter",
+    "tip3": "Saml power-ups for at få specielle evner som dobbeltspring eller hastighedsboost",
+    "tip4": "Led efter skjulte stier, der kan indeholde værdifulde genstande eller genveje",
+    "tip5": "Nogle forhindringer kræver præcis timing - øvelse gør mester!"
+  },
+  "controller": {
+    "title": "Kontroller",
+    "description": "Brug piletasterne eller WASD til at bevæge din karakter. Tryk på mellemrumstasten eller pil op for at springe. Nogle niveauer kan have særlige kontroller til unikke evner, som vil blive forklaret under spillet."
+  },
+  "faq": {
+    "goal": {
+      "question": "Hvad er målet med spillet?",
+      "answer": "Målet med Italian Brainrot Obby Parkour er at navigere gennem alle forhindringsbaner (obbys) og nå til slutningen af hvert niveau. Efterhånden som du avancerer, låser du op for nye karakterer og mere udfordrende niveauer med elementer fra Italian Brainrot-universet."
+    },
+    "levels": {
+      "question": "Hvor mange niveauer er der?",
+      "answer": "Spillet har over 20 stadigt mere udfordrende niveauer, hver med unikke forhindringer, temaer og mekanikker. Nye niveauer tilføjes regelmæssigt gennem opdateringer for at holde gameplayet friskt og spændende."
+    },
+    "mobile": {
+      "question": "Kan jeg spille på mobile enheder?",
+      "answer": "Ja, Italian Brainrot Obby Parkour er fuldt optimeret til mobile enheder. På touchskærme vil du se virtuelle kontroller, der giver dig mulighed for at bevæge dig og springe med lethed. Spillet tilpasser sig forskellige skærmstørrelser for en optimal oplevelse."
+    },
+    "multiplayer": {
+      "question": "Kan jeg spille med venner?",
+      "answer": "I øjeblikket tilbyder spillet en singleplayer-oplevelse, men du kan sammenligne dine gennemførelsestider og point med venner gennem ranglisten. Udviklerne overvejer at tilføje kooperative og konkurrenceprægede multiplayertilstande i fremtidige opdateringer."
+    }
+  }
+} 

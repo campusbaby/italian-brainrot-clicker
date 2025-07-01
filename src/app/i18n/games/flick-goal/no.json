@@ -1,0 +1,37 @@
+{
+  "howToPlay": {
+    "title": "Hvordan spille",
+    "description": "Flick Goal er et spennende fotballskytterspill der du kontrollerer ballen med presise sveip. Sveip på skjermen for å bestemme retning og kraft på skuddet ditt, og prøv å score mål forbi ulike hindringer og målvakter."
+  },
+  "tips": {
+    "title": "Spilltips",
+    "description": "Mestre disse viktige spillteknikkene:",
+    "tip1": "Kontroller kraften i skuddet ditt med lengden på sveipen",
+    "tip2": "Sikt mot hjørnene av målet for å unngå målvakten",
+    "tip3": "Vær oppmerksom på bevegelige hindringer som kan blokkere skuddet ditt",
+    "tip4": "Bruk buede skudd for å komme rundt barrierer",
+    "tip5": "Øv på timingen av skuddene dine når målvaktene er i bevegelse"
+  },
+  "controller": {
+    "title": "Kontroller",
+    "description": "Dette spillet er designet for berøringskontroll. På desktop bruker du musen til å klikke og dra i den retningen du vil skyte. På mobile enheter sveiper du bare på skjermen for å kontrollere skuddene dine."
+  },
+  "faq": {
+    "goal": {
+      "question": "Hva er målet med spillet?",
+      "answer": "Målet med Flick Goal er å score så mange mål som mulig ved å flick ballen forbi hindringer og målvakter. Hvert nivå presenterer ulike utfordringer og oppsett som krever presist sikte og kraftkontroll."
+    },
+    "levels": {
+      "question": "Hvordan låser jeg opp nye nivåer?",
+      "answer": "Nye nivåer låses opp ved å fullføre det nåværende nivået. Noen spesielle utfordringsnivåer krever at du tjener et minimum antall stjerner fra tidligere nivåer."
+    },
+    "mobile": {
+      "question": "Kan jeg spille på mobile enheter?",
+      "answer": "Ja, Flick Goal er fullt optimalisert for mobile enheter. Berøringskontrollen på smarttelefoner og nettbrett gir en intuitiv og responsiv spillopplevelse."
+    },
+    "multiplayer": {
+      "question": "Har spillet en flerspillermodus?",
+      "answer": "For øyeblikket tilbyr Flick Goal utfordringer for enkeltspillere. Du kan sammenligne poengsummene dine med venner gjennom rangeringslisten. Utviklerne vurderer å legge til flerspillerkonkurransefunksjoner i fremtidige oppdateringer."
+    }
+  }
+} 

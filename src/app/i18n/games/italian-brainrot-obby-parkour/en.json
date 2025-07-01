@@ -1,0 +1,37 @@
+{
+  "howToPlay": {
+    "title": "How to Play",
+    "description": "Italian Brainrot Obby Parkour is an exciting platformer game inspired by the viral Italian Brainrot memes. Navigate through challenging obstacle courses, jump over gaps, dodge traps, and collect items to progress through increasingly difficult levels."
+  },
+  "tips": {
+    "title": "Game Tips",
+    "description": "Master these key game techniques:",
+    "tip1": "Time your jumps carefully to clear obstacles and gaps",
+    "tip2": "Watch for moving platforms and time your movements accordingly",
+    "tip3": "Collect power-ups to gain special abilities like double jump or speed boost",
+    "tip4": "Look for hidden paths that may contain valuable items or shortcuts",
+    "tip5": "Some obstacles require precise timing - practice makes perfect!"
+  },
+  "controller": {
+    "title": "Controls",
+    "description": "Use arrow keys or WASD to move your character. Press Space or Up arrow to jump. Some levels may have special controls for unique abilities which will be explained during gameplay."
+  },
+  "faq": {
+    "goal": {
+      "question": "What is the goal of the game?",
+      "answer": "The goal of Italian Brainrot Obby Parkour is to navigate through all the obstacle courses (obbys) and reach the end of each level. As you progress, you'll unlock new characters and more challenging levels featuring elements from the Italian Brainrot universe."
+    },
+    "levels": {
+      "question": "How many levels are there?",
+      "answer": "The game features over 20 increasingly challenging levels, each with unique obstacles, themes, and mechanics. New levels are regularly added through updates to keep the gameplay fresh and exciting."
+    },
+    "mobile": {
+      "question": "Can I play on mobile devices?",
+      "answer": "Yes, Italian Brainrot Obby Parkour is fully optimized for mobile devices. On touchscreens, you'll see virtual controls that allow you to move and jump with ease. The game adapts to different screen sizes for an optimal experience."
+    },
+    "multiplayer": {
+      "question": "Can I play with friends?",
+      "answer": "Currently, the game offers a single-player experience, but you can compare your completion times and scores with friends through the leaderboard. The developers are considering adding cooperative and competitive multiplayer modes in future updates."
+    }
+  }
+} 

@@ -1,0 +1,37 @@
+{
+  "howToPlay": {
+    "title": "Hvernig á að spila",
+    "description": "Italian Brainrot Obby Parkour er spennandi pallaleikur innblásinn af vinsælum ítölskum Brainrot myndskeiðum. Þú þarft að fara í gegnum krefjandi hindrunarbrautir, stökkva yfir gjár, forðast gildrur og safna hlutum til að komast áfram í gegnum sífellt erfiðari borð."
+  },
+  "tips": {
+    "title": "Leikjaráð",
+    "description": "Lærðu þessar mikilvægu leikjaaðferðir:",
+    "tip1": "Tímasettu stökkin þín vandlega til að komast yfir hindranir og gjár",
+    "tip2": "Fylgstu með hreyfanlegum pöllum og tímasettu hreyfingar þínar í samræmi við það",
+    "tip3": "Safnaðu kraftaukum til að öðlast sérstakar hæfni eins og tvöfalt stökk eða hraðaaukningu",
+    "tip4": "Leitaðu að földum leiðum sem gætu innihaldið verðmæta hluti eða styttri leiðir",
+    "tip5": "Sumar hindranir krefjast nákvæmrar tímasetningar - æfingin skapar meistarann!"
+  },
+  "controller": {
+    "title": "Stýringar",
+    "description": "Notaðu örvatakkana eða WASD til að hreyfa persónuna þína. Ýttu á bilslá eða upp ör til að stökkva. Sum borð gætu haft sérstakar stýringar fyrir einstakar hæfni sem verða útskýrðar í leiknum."
+  },
+  "faq": {
+    "goal": {
+      "question": "Hver er tilgangur leiksins?",
+      "answer": "Markmið Italian Brainrot Obby Parkour er að komast í gegnum allar hindrunarbrautir (obbys) og ná til enda hvers borðs. Eftir því sem þú þróast áfram, opnarðu fyrir nýjar persónur og meira krefjandi borð með þáttum úr Italian Brainrot heiminum."
+    },
+    "levels": {
+      "question": "Hversu mörg borð eru í leiknum?",
+      "answer": "Leikurinn inniheldur yfir 20 sífellt krefjandi borð, hvert með einstökum hindrunum, þemum og tækni. Ný borð eru reglulega bætt við í gegnum uppfærslur til að halda leiknum ferskum og spennandi."
+    },
+    "mobile": {
+      "question": "Get ég spilað á farsímum?",
+      "answer": "Já, Italian Brainrot Obby Parkour er fullkomlega hannaður fyrir farsíma. Á snertiskjáum muntu sjá sýndarstýringar sem gera þér kleift að hreyfa þig og stökkva auðveldlega. Leikurinn aðlagast mismunandi skjástærðum fyrir bestu upplifun."
+    },
+    "multiplayer": {
+      "question": "Get ég spilað með vinum?",
+      "answer": "Eins og er býður leikurinn upp á eins leikmanns upplifun, en þú getur borið saman tíma þína og stig við vini í gegnum stigatöfluna. Þróunaraðilar eru að íhuga að bæta við samvinnu- og keppnismiðuðum fjölspilunarham í framtíðaruppfærslum."
+    }
+  }
+} 

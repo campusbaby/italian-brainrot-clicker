@@ -1,0 +1,37 @@
+{
+  "howToPlay": {
+    "title": "Hvernig á að spila",
+    "description": "Flick Goal er spennandi fótboltaskotleikur þar sem þú stjórnar boltanum með nákvæmum rennslum. Renndu á skjáinn til að ákvarða stefnu og kraft skotanna þinna, og reyndu að skora mörk framhjá ýmsum hindrunum og markvörðum."
+  },
+  "tips": {
+    "title": "Leikjaráð",
+    "description": "Lærðu þessar mikilvægu leikaðferðir:",
+    "tip1": "Stjórnaðu krafti skotanna þinna með lengd rennsla",
+    "tip2": "Miðaðu á horn marksins til að forðast markmanninn",
+    "tip3": "Gættu að hreyfanlegum hindrunum sem gætu stöðvað skotið þitt",
+    "tip4": "Notaðu sveigð skot til að fara framhjá hindrunum",
+    "tip5": "Æfðu tímasetningar skota þinna þegar markmenn eru á hreyfingu"
+  },
+  "controller": {
+    "title": "Stjórntæki",
+    "description": "Þessi leikur er hannaður fyrir snertistýringu. Á borðtölvum skaltu nota músina til að smella og draga í þá átt sem þú vilt skjóta. Á farsímum þarftu aðeins að renna á skjáinn til að stjórna skotunum þínum."
+  },
+  "faq": {
+    "goal": {
+      "question": "Hver er tilgangur leiksins?",
+      "answer": "Tilgangur Flick Goal er að skora eins mörg mörk og mögulegt er með því að renna boltanum framhjá hindrunum og markvörðum. Hver borð kynnir mismunandi áskoranir og uppsetningar sem krefjast nákvæmra miða og kraftstjórnunar."
+    },
+    "levels": {
+      "question": "Hvernig opna ég ný borð?",
+      "answer": "Ný borð opnast með því að ljúka núverandi borði. Sum sérstök áskorunarborð krefjast þess að þú vinnir lágmarksfjölda stjarna frá fyrri borðum."
+    },
+    "mobile": {
+      "question": "Get ég spilað á farsímum?",
+      "answer": "Já, Flick Goal er fullkomlega hannaður fyrir farsíma. Snertistýringin á snjallsímum og spjaldtölvum veitir innsæislega og viðbragðsgóða leikjaupplifun."
+    },
+    "multiplayer": {
+      "question": "Er leikurinn með fjölspilaraham?",
+      "answer": "Eins og er býður Flick Goal upp á einspilaraáskoranir. Þú getur borið saman stigin þín við vini í gegnum stigatöfluna. Þróunaraðilar eru að íhuga að bæta við fjölspilarakeppniseiginleikum í framtíðaruppfærslum."
+    }
+  }
+} 

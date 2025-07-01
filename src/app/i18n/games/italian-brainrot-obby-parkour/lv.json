@@ -1,0 +1,37 @@
+{
+  "howToPlay": {
+    "title": "Kā spēlēt",
+    "description": "Italian Brainrot Obby Parkour ir aizraujoša platformu spēle, kas iedvesmota no virālajiem Itāļu Brainrot mēmiem. Pārvietojies caur izaicinošām šķēršļu trasēm, lec pāri plaisām, izvairies no lamatām un vāc priekšmetus, lai virzītos cauri arvien grūtākiem līmeņiem."
+  },
+  "tips": {
+    "title": "Spēles padomi",
+    "description": "Apgūsti šīs galvenās spēles tehnikas:",
+    "tip1": "Rūpīgi plāno savus lēcienus, lai pārvarētu šķēršļus un plaisas",
+    "tip2": "Vēro kustīgās platformas un attiecīgi plāno savas kustības",
+    "tip3": "Vāc jaudas palielinātājus, lai iegūtu īpašas spējas, piemēram, dubulto lēcienu vai ātruma palielinājumu",
+    "tip4": "Meklē slēptos ceļus, kuros var būt vērtīgi priekšmeti vai īsceļi",
+    "tip5": "Daži šķēršļi prasa precīzu laika plānošanu - treniņš rada meistarību!"
+  },
+  "controller": {
+    "title": "Vadības elementi",
+    "description": "Izmanto bulttaustiņus vai WASD, lai pārvietotu savu tēlu. Nospied atstarpes taustiņu vai bultiņu uz augšu, lai lēktu. Dažiem līmeņiem var būt īpaši vadības elementi unikālām spējām, kas tiks izskaidrotas spēles laikā."
+  },
+  "faq": {
+    "goal": {
+      "question": "Kāds ir spēles mērķis?",
+      "answer": "Italian Brainrot Obby Parkour mērķis ir iziet cauri visām šķēršļu trasēm (obbys) un sasniegt katra līmeņa beigas. Progresējot, tu atbloķēsi jaunus tēlus un sarežģītākus līmeņus ar elementiem no Italian Brainrot pasaules."
+    },
+    "levels": {
+      "question": "Cik līmeņu ir spēlē?",
+      "answer": "Spēlē ir vairāk nekā 20 arvien izaicinošāki līmeņi, katrs ar unikāliem šķēršļiem, tēmām un mehānikas elementiem. Jauni līmeņi tiek regulāri pievienoti caur atjauninājumiem, lai uzturētu spēli svaigu un aizraujošu."
+    },
+    "mobile": {
+      "question": "Vai es varu spēlēt mobilajās ierīcēs?",
+      "answer": "Jā, Italian Brainrot Obby Parkour ir pilnībā optimizēts mobilajām ierīcēm. Uz skārienjutīgajiem ekrāniem tu redzēsi virtuālos vadības elementus, kas ļaus tev viegli pārvietoties un lēkt. Spēle pielāgojas dažādiem ekrāna izmēriem, lai nodrošinātu optimālu pieredzi."
+    },
+    "multiplayer": {
+      "question": "Vai es varu spēlēt ar draugiem?",
+      "answer": "Pašlaik spēle piedāvā viena spēlētāja pieredzi, bet tu vari salīdzināt savus pabeigšanas laikus un punktus ar draugiem, izmantojot līderu tabulu. Izstrādātāji apsver kooperatīvo un sacensību vairākspēlētāju režīmu pievienošanu nākamajos atjauninājumos."
+    }
+  }
+} 

@@ -1,0 +1,37 @@
+{
+  "howToPlay": {
+    "title": "Hoe te spelen",
+    "description": "Italian Brainrot Obby Parkour is een opwindend platformspel geïnspireerd door de virale Italiaanse Brainrot memes. Navigeer door uitdagende hindernisparcoursen, spring over gaten, ontwijkt vallen en verzamel items om door steeds moeilijkere levels te vorderen."
+  },
+  "tips": {
+    "title": "Speltips",
+    "description": "Beheers deze belangrijke speltechnieken:",
+    "tip1": "Time je sprongen zorgvuldig om hindernissen en gaten te overwinnen",
+    "tip2": "Let op bewegende platforms en time je bewegingen daarop",
+    "tip3": "Verzamel power-ups om speciale vaardigheden te krijgen zoals dubbele sprong of snelheidsboost",
+    "tip4": "Zoek naar verborgen paden die waardevolle items of shortcuts kunnen bevatten",
+    "tip5": "Sommige hindernissen vereisen precieze timing - oefening baart kunst!"
+  },
+  "controller": {
+    "title": "Besturing",
+    "description": "Gebruik de pijltjestoetsen of WASD om je personage te bewegen. Druk op Spatie of Pijl omhoog om te springen. Sommige levels kunnen speciale besturing hebben voor unieke vaardigheden die tijdens het spel worden uitgelegd."
+  },
+  "faq": {
+    "goal": {
+      "question": "Wat is het doel van het spel?",
+      "answer": "Het doel van Italian Brainrot Obby Parkour is om door alle hindernisparcoursen (obbys) te navigeren en het einde van elk level te bereiken. Naarmate je vordert, ontgrendel je nieuwe personages en meer uitdagende levels met elementen uit het Italian Brainrot universum."
+    },
+    "levels": {
+      "question": "Hoeveel levels zijn er?",
+      "answer": "Het spel bevat meer dan 20 steeds uitdagendere levels, elk met unieke hindernissen, thema's en mechanismen. Nieuwe levels worden regelmatig toegevoegd via updates om de gameplay fris en spannend te houden."
+    },
+    "mobile": {
+      "question": "Kan ik op mobiele apparaten spelen?",
+      "answer": "Ja, Italian Brainrot Obby Parkour is volledig geoptimaliseerd voor mobiele apparaten. Op touchscreens zie je virtuele besturingselementen waarmee je gemakkelijk kunt bewegen en springen. Het spel past zich aan verschillende schermformaten aan voor een optimale ervaring."
+    },
+    "multiplayer": {
+      "question": "Kan ik met vrienden spelen?",
+      "answer": "Momenteel biedt het spel een singleplayer-ervaring, maar je kunt je voltooiingstijden en scores vergelijken met vrienden via het scorebord. De ontwikkelaars overwegen coöperatieve en competitieve multiplayermodi toe te voegen in toekomstige updates."
+    }
+  }
+} 

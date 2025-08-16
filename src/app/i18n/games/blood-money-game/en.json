@@ -1,0 +1,34 @@
+{
+  "howToPlay": {
+    "title": "How to Play",
+    "description": "BLOODMONEY is a dark psychological clicker game where you need $25,000 for a life-saving operation. Meet Harvey Harvington at a roadside stall who offers $1 per click. You can increase earnings by buying tools that harm him - but every click causes pain. The moral choice is yours: stay gentle and earn slowly, or inflict harm for faster money. Your decisions will determine one of three possible endings.\n\nStrategy Paths:\n• Good Path: Use only harmless tools (feather) - hardest but most ethical ending\n• Normal Path: Mix of painful and gentle tools - Harvey survives but takes consequences\n• Dark Path: Use cruel weapons for fast money - leads to the darkest ending\n• Tool progression: Feather → Needle → Scissors → Fire → Gun\n• The gun ends the game instantly but with severe consequences for both characters"
+  },
+  "tips": {
+    "title": "Game Tips",
+    "description": "Master these key strategies and moral considerations:",
+    "tip1": "Start with gentle tools like the feather ($2 per click) to minimize harm while building funds",
+    "tip2": "Consider the long-term consequences - each tool escalates the severity of harm to Harvey",
+    "tip3": "Monitor your progress toward $25,000 and decide your moral boundaries early",
+    "tip4": "Remember that faster money comes at the cost of Harvey's wellbeing and your conscience",
+    "tip5": "Your choices shape the ending - good, normal, or bad based on your moral decisions"
+  },
+
+  "faq": {
+    "goal": {
+      "question": "What is the goal of the game?",
+      "answer": "Your objective is to earn $25,000 for a life-saving operation by clicking on Harvey Harvington. You start earning $1 per click, but can buy tools to increase earnings at the cost of causing him pain. The core challenge is deciding how far you're willing to go morally to reach your financial goal."
+    },
+    "tracks": {
+      "question": "What are the different endings?",
+      "answer": "There are three endings based on your moral choices: Good Ending (using only gentle methods, Harvey stays unharmed), Normal Ending (mix of tools, Harvey survives but is scarred and takes you to court), and Bad Ending (using the cruelest weapons leads to the darkest outcome where neither character survives)."
+    },
+    "mobile": {
+      "question": "What tools can I buy and how do they work?",
+      "answer": "You can purchase various tools with escalating harm levels: Feather (harmless, $2 per click), Needle (painful), Scissors (sharp and cruel), Fire (burns for massive cash), and Gun (instant game end with darkest outcome). Each tool increases your earnings but causes more suffering to Harvey."
+    },
+    "multiplayer": {
+      "question": "Is this game suitable for all players?",
+      "answer": "BLOODMONEY is a psychological horror clicker game that explores dark moral themes about desperation, greed, and the cost of survival. While featuring cute pastel art, it deals with serious ethical dilemmas and violence. Players should be prepared for emotional discomfort and moral introspection as the game challenges your conscience."
+    }
+  }
+}

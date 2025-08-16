@@ -1,0 +1,65 @@
+{
+  "howToPlay": {
+    "title": "Hur man spelar",
+    "description": "Merge Fellas är ett extraordinärt pusselspel som kombinerar beroendeframkallande sammanslagningsmekaniker med det roliga kaoset från Italian Brainrot. Klicka och dra enkelt liknande föremål för att skapa mer avancerade karaktärer. Kärnspelet kretsar kring strategisk planering och utrymmehantering för att undvika röriga layouter."
+  },
+  "tips": {
+    "title": "Speltips",
+    "description": "Bemästra dessa nyckelstrategier för Merge Fellas framgång:",
+    "tip1": "Prioritera kedjesammanslagningar: En enda sammanslagning kan utlösa flera kedjereaktioner och maximera avkastningen",
+    "tip2": "Fokusera på sällsynta karaktärer: Vissa avancerade karaktärer kräver specifika sammanslagningskombinationer",
+    "tip3": "Reservera brädutrymme: Med begränsat brädutrymme förhindrar korrekt utrymmehantering att fastna",
+    "tip4": "Använd karaktärsutvecklingsdiagram: Planera den optimala sammanslagningsvägen i förväg",
+    "tip5": "Delta i tidsbegränsade evenemang: Regelbundna tematiska evenemang ger extra belöningar och unika karaktärer"
+  },
+  "features": {
+    "title": "Spelfunktioner",
+    "description": "Upptäck vad som gör Merge Fellas unikt:",
+    "feature1": {
+      "title": "Unik sammanslagningsmekanik",
+      "description": "Till skillnad från traditionella match-three spel betonar Merge Fellas långsiktig planering och utrymmehantering, vilket får spelare att tänka på optimal strategi i varje sammanslagningssteg."
+    },
+    "feature2": {
+      "title": "Italian Brainrot karaktärer",
+      "description": "Innehåller över 50 karaktärer inspirerade av Italian Brainrot-kulturen, som Cappuccino Balettdansaren och den Flygande Pizza Katten. Upplev surrealistisk sammanslagningsglädje med absurda och humoristiska karaktärer."
+    },
+    "feature3": {
+      "title": "Progressiv svårighetsdesign",
+      "description": "Nivåer ökar gradvis i svårighet, från enkla sammanslagningsutmaningar till komplexa pussel, vilket säkerställer att spelare konsekvent känner sig uppfriskade, oavsett om de är nybörjare eller erfarna."
+    },
+    "feature4": {
+      "title": "Olika spellägen",
+      "description": "Erbjuder 7 olika lägen med teman inklusive Italian Brainrot, Hund, Katt och Capybara, var och en med unika mål som säkerställer icke-repetitivt spel."
+    },
+    "feature5": {
+      "title": "Plattformsoberoende kompatibilitet",
+      "description": "Stöder online-spel idealiskt för vänner som föredrar att inte ladda ner appar. Fungerar på Android, iOS och Windows för konsekvent upplevelse på alla enheter."
+    }
+  },
+  "controller": {
+    "title": "Kontroller",
+    "description": "Enkla och intuitiva kontroller gör Merge Fellas tillgängligt för alla färdighetsnivåer. Använd din mus för att dra föremål och positionera dem noggrant. Nybörjarguiden vägleder spelare för att snabbt komma igång."
+  },
+  "faq": {
+    "goal": {
+      "question": "Vad är målet med Merge Fellas?",
+      "answer": "Målet är att strategiskt slå samman liknande föremål för att skapa avancerade karaktärer och låsa upp över 50 unika Italian Brainrot-inspirerade varelser. Planera dina drag för att utlösa kedjereaktioner och uppnå höga poäng medan du hanterar begränsat brädutrymme."
+    },
+    "characters": {
+      "question": "Hur många karaktärer kan jag låsa upp?",
+      "answer": "Merge Fellas innehåller över 50 karaktärer inspirerade av Italian Brainrot-kulturen, inklusive Cappuccino Balettdansaren, den Flygande Pizza Katten och många andra absurda och humoristiska varelser. Varje karaktär har unika egenskaper och utvecklingsvägar."
+    },
+    "modes": {
+      "question": "Vilka spellägen finns tillgängliga?",
+      "answer": "Spelet erbjuder 7 olika lägen med teman inklusive Italian Brainrot, Hund, Katt och Capybara. Varje läge innehåller distinkta föremål och visuella stilar, vilket säkerställer olika spelupplevelser för alla preferenser."
+    },
+    "strategy": {
+      "question": "Vilka är de bästa strategierna för framgång?",
+      "answer": "Fokusera på kedjesammanslagningar för maximal avkastning, prioritera sällsynta karaktärskombinationer, hantera brädutrymme effektivt och delta i tidsbegränsade evenemang. Använd karaktärsutvecklingsdiagram för att planera optimala sammanslagningsvägar."
+    },
+    "platforms": {
+      "question": "Vilka plattformar stöder Merge Fellas?",
+      "answer": "Merge Fellas fungerar på Android, iOS, Windows och webbläsare utan att kräva nedladdningar. Plattformsoberoende kompatibilitet säkerställer att alla spelare kan njuta av en konsekvent upplevelse på alla enheter."
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "howToPlay": {
+    "title": "Come giocare",
+    "description": "BLOODMONEY è un gioco clicker psicologico oscuro dove hai bisogno di $25,000 per un'operazione salvavita. Incontra Harvey Harvington a una bancarella sul ciglio della strada che offre $1 per clic. Puoi aumentare i guadagni comprando strumenti che gli fanno male - ma ogni clic causa dolore. La scelta morale è tua: rimani gentile e guadagna lentamente, o infliggi danno per denaro più veloce. Le tue decisioni determineranno uno dei tre finali possibili.\n\nPercorsi strategici:\n• Percorso buono: Usa solo strumenti innocui (piuma) - il più difficile ma il finale più etico\n• Percorso normale: Mix di strumenti dolorosi e gentili - Harvey sopravvive ma subisce conseguenze\n• Percorso oscuro: Usa armi crudeli per denaro veloce - porta al finale più oscuro\n• Progressione strumenti: Piuma → Ago → Forbici → Fuoco → Pistola\n• La pistola termina il gioco istantaneamente ma con gravi conseguenze per entrambi i personaggi"
+  },
+  "tips": {
+    "title": "Consigli di gioco",
+    "description": "Padroneggia queste strategie chiave e considerazioni morali:",
+    "tip1": "Inizia con strumenti gentili come la piuma ($2 per clic) per minimizzare i danni mentre costruisci fondi",
+    "tip2": "Considera le conseguenze a lungo termine - ogni strumento aumenta la gravità del danno a Harvey",
+    "tip3": "Monitora i tuoi progressi verso $25,000 e decidi i tuoi limiti morali presto",
+    "tip4": "Ricorda che il denaro più veloce viene a costo del benessere di Harvey e della tua coscienza",
+    "tip5": "Le tue scelte plasmano il finale - buono, normale o cattivo basato sulle tue decisioni morali"
+  },
+
+  "faq": {
+    "goal": {
+      "question": "Qual è l'obiettivo del gioco?",
+      "answer": "Il tuo obiettivo è guadagnare $25,000 per un'operazione salvavita cliccando su Harvey Harvington. Inizi guadagnando $1 per clic, ma puoi comprare strumenti per aumentare i guadagni a costo di causargli dolore. La sfida principale è decidere quanto sei disposto ad andare moralmente per raggiungere il tuo obiettivo finanziario."
+    },
+    "tracks": {
+      "question": "Quali sono i diversi finali?",
+      "answer": "Ci sono tre finali basati sulle tue scelte morali: Finale Buono (usando solo metodi gentili, Harvey rimane illeso), Finale Normale (mix di strumenti, Harvey sopravvive ma è segnato e ti porta in tribunale), e Finale Cattivo (usare le armi più crudeli porta al risultato più oscuro dove nessun personaggio sopravvive)."
+    },
+    "mobile": {
+      "question": "Quali strumenti posso comprare e come funzionano?",
+      "answer": "Puoi acquistare vari strumenti con livelli di danno crescenti: Piuma (innocua, $2 per clic), Ago (doloroso), Forbici (affilate e crudeli), Fuoco (brucia per denaro massiccio), e Pistola (fine istantanea del gioco con il risultato più oscuro). Ogni strumento aumenta i tuoi guadagni ma causa più sofferenza a Harvey."
+    },
+    "multiplayer": {
+      "question": "Questo gioco è adatto a tutti i giocatori?",
+      "answer": "BLOODMONEY è un gioco clicker horror psicologico che esplora temi morali oscuri su disperazione, avidità e il costo della sopravvivenza. Anche se presenta arte pastello carina, tratta dilemmi etici seri e violenza. I giocatori dovrebbero essere preparati per disagio emotivo e introspezione morale poiché il gioco sfida la tua coscienza."
+    }
+  }
+}

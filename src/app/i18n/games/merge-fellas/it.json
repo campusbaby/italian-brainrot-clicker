@@ -1,0 +1,65 @@
+{
+  "howToPlay": {
+    "title": "Come giocare",
+    "description": "Merge Fellas è un'avventura puzzle straordinaria che combina meccaniche di fusione coinvolgenti con il caos esilarante dell'Italian Brainrot. Semplicemente clicca e trascina oggetti simili per creare personaggi più avanzati. Il gameplay principale ruota attorno alla pianificazione strategica e alla gestione spaziale per evitare layout disordinati."
+  },
+  "tips": {
+    "title": "Consigli di gioco",
+    "description": "Padroneggia queste strategie chiave per il successo in Merge Fellas:",
+    "tip1": "Dai priorità alle fusioni a catena: Una singola fusione può scatenare multiple reazioni a catena, massimizzando i ritorni",
+    "tip2": "Concentrati sui personaggi rari: Alcuni personaggi avanzati richiedono combinazioni di fusione specifiche",
+    "tip3": "Riserva spazio sulla tavola: Con spazio limitato sulla tavola, gestire lo spazio correttamente previene il blocco",
+    "tip4": "Utilizza i grafici di evoluzione dei personaggi: Pianifica il percorso di fusione ottimale in anticipo",
+    "tip5": "Partecipa agli eventi a tempo limitato: Gli eventi tematici regolari forniscono ricompense aggiuntive e personaggi unici"
+  },
+  "features": {
+    "title": "Caratteristiche del gioco",
+    "description": "Scopri cosa rende unico Merge Fellas:",
+    "feature1": {
+      "title": "Meccanismo di fusione unico",
+      "description": "A differenza dei giochi tradizionali match-three, Merge Fellas enfatizza la pianificazione a lungo termine e la gestione spaziale, facendo pensare i giocatori alla strategia ottimale in ogni passo di fusione."
+    },
+    "feature2": {
+      "title": "Personaggi Italian Brainrot",
+      "description": "Presenta oltre 50 personaggi ispirati alla cultura Italian Brainrot, come la Ballerina di Balletto Cappuccino e il Gatto Pizza Volante. Sperimenta divertimento di fusione surreale con personaggi assurdi e umoristici."
+    },
+    "feature3": {
+      "title": "Design di difficoltà progressiva",
+      "description": "I livelli aumentano gradualmente in difficoltà, dalle sfide di fusione semplici ai puzzle complessi, assicurando che i giocatori si sentano costantemente rinnovati, che siano principianti o esperti."
+    },
+    "feature4": {
+      "title": "Modalità di gioco diverse",
+      "description": "Offre 7 modalità diverse con temi inclusi Italian Brainrot, Cane, Gatto e Capibara, ognuna con obiettivi unici che assicurano gameplay non ripetitivo."
+    },
+    "feature5": {
+      "title": "Compatibilità multipiattaforma",
+      "description": "Supporta gameplay online ideale per amici che preferiscono non scaricare app. Funziona su Android, iOS e Windows per un'esperienza coerente su tutti i dispositivi."
+    }
+  },
+  "controller": {
+    "title": "Controlli",
+    "description": "Controlli semplici e intuitivi rendono Merge Fellas accessibile a tutti i livelli di abilità. Usa il mouse per trascinare oggetti e posizionarli attentamente. Il tutorial per principianti guida i giocatori per iniziare rapidamente."
+  },
+  "faq": {
+    "goal": {
+      "question": "Qual è l'obiettivo di Merge Fellas?",
+      "answer": "L'obiettivo è fondere strategicamente oggetti simili per creare personaggi avanzati e sbloccare oltre 50 creature uniche ispirate all'Italian Brainrot. Pianifica le tue mosse per scatenare reazioni a catena e ottenere punteggi alti mentre gestisci lo spazio limitato della tavola."
+    },
+    "characters": {
+      "question": "Quanti personaggi posso sbloccare?",
+      "answer": "Merge Fellas presenta oltre 50 personaggi ispirati alla cultura Italian Brainrot, inclusi la Ballerina di Balletto Cappuccino, il Gatto Pizza Volante, e molte altre creature assurde e umoristiche. Ogni personaggio ha tratti unici e percorsi di evoluzione."
+    },
+    "modes": {
+      "question": "Quali modalità di gioco sono disponibili?",
+      "answer": "Il gioco offre 7 modalità diverse con temi inclusi Italian Brainrot, Cane, Gatto e Capibara. Ogni modalità presenta oggetti distintivi e stili visivi, assicurando esperienze di gameplay diverse per tutte le preferenze."
+    },
+    "strategy": {
+      "question": "Quali sono le migliori strategie per il successo?",
+      "answer": "Concentrati sulle fusioni a catena per massimi ritorni, dai priorità alle combinazioni di personaggi rari, gestisci lo spazio della tavola efficientemente, e partecipa agli eventi a tempo limitato. Usa i grafici di evoluzione dei personaggi per pianificare percorsi di fusione ottimali."
+    },
+    "platforms": {
+      "question": "Quali piattaforme supportano Merge Fellas?",
+      "answer": "Merge Fellas funziona su Android, iOS, Windows e browser web senza richiedere download. La compatibilità multipiattaforma assicura che tutti i giocatori possano godere di un'esperienza coerente su tutti i dispositivi."
+    }
+  }
+}

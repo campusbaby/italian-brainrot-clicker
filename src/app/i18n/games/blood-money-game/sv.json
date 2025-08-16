@@ -1,0 +1,34 @@
+{
+  "howToPlay": {
+    "title": "Hur man spelar",
+    "description": "BLOODMONEY är ett mörkt psykologiskt klickspel där du behöver $25,000 för en livräddande operation. Träffa Harvey Harvington vid ett vägkantstånd som erbjuder $1 per klick. Du kan öka intäkterna genom att köpa verktyg som skadar honom - men varje klick orsakar smärta. Det moraliska valet är ditt: förbli mild och tjäna långsamt, eller tillfoga skada för snabbare pengar. Dina beslut kommer att avgöra ett av tre möjliga slut.\n\nStrategiska vägar:\n• God väg: Använd endast harmlösa verktyg (fjäder) - svårast men mest etiska slutet\n• Normal väg: Blandning av smärtsamma och milda verktyg - Harvey överlever men bär konsekvenser\n• Mörk väg: Använd grymma vapen för snabba pengar - leder till det mörkaste slutet\n• Verktygsprogressionen: Fjäder → Nål → Sax → Eld → Pistol\n• Pistolen avslutar spelet omedelbart men med allvarliga konsekvenser för båda karaktärerna"
+  },
+  "tips": {
+    "title": "Speltips",
+    "description": "Bemästra dessa nyckelstrategier och moraliska överväganden:",
+    "tip1": "Börja med milda verktyg som fjädern ($2 per klick) för att minimera skada medan du bygger pengar",
+    "tip2": "Överväg de långsiktiga konsekvenserna - varje verktyg eskalerar allvaret av skada på Harvey",
+    "tip3": "Övervaka dina framsteg mot $25,000 och bestäm dina moraliska gränser tidigt",
+    "tip4": "Kom ihåg att snabbare pengar kommer på bekostnad av Harveys välbefinnande och ditt samvete",
+    "tip5": "Dina val formar slutet - bra, normalt eller dåligt baserat på dina moraliska beslut"
+  },
+
+  "faq": {
+    "goal": {
+      "question": "Vad är målet med spelet?",
+      "answer": "Ditt mål är att tjäna $25,000 för en livräddande operation genom att klicka på Harvey Harvington. Du börjar tjäna $1 per klick, men kan köpa verktyg för att öka intäkterna på bekostnad av att orsaka honom smärta. Huvudutmaningen är att bestämma hur långt du är villig att gå moraliskt för att nå ditt ekonomiska mål."
+    },
+    "tracks": {
+      "question": "Vilka är de olika sluten?",
+      "answer": "Det finns tre slut baserade på dina moraliska val: Gott slut (använder endast milda metoder, Harvey förblir oskadad), Normalt slut (blandning av verktyg, Harvey överlever men är märkt och stämmer dig), och Dåligt slut (att använda de grymaste vapnen leder till det mörkaste resultatet där ingen karaktär överlever)."
+    },
+    "mobile": {
+      "question": "Vilka verktyg kan jag köpa och hur fungerar de?",
+      "answer": "Du kan köpa olika verktyg med eskalerande skadnivåer: Fjäder (harmlös, $2 per klick), Nål (smärtsam), Sax (vass och grym), Eld (bränner för massiva pengar), och Pistol (omedelbart spelslut med mörkaste resultat). Varje verktyg ökar dina intäkter men orsakar mer lidande för Harvey."
+    },
+    "multiplayer": {
+      "question": "Är detta spel lämpligt för alla spelare?",
+      "answer": "BLOODMONEY är ett psykologiskt skräckklickspel som utforskar mörka moraliska teman om desperation, girighet och kostnaden för överlevnad. Även om det visar söt pastellkonst, behandlar det allvarliga etiska dilemman och våld. Spelare bör vara förberedda på emotionellt obehag och moralisk självreflektion eftersom spelet utmanar ditt samvete."
+    }
+  }
+}

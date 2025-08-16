@@ -1,0 +1,34 @@
+{
+  "howToPlay": {
+    "title": "Wie man spielt",
+    "description": "BLOODMONEY ist ein dunkles psychologisches Klickspiel, bei dem Sie 25.000 $ für eine lebensrettende Operation benötigen. Treffen Sie Harvey Harvington an einem Straßenstand, der 1 $ pro Klick anbietet. Sie können Ihre Einnahmen steigern, indem Sie Werkzeuge kaufen, die ihm schaden - aber jeder Klick verursacht Schmerzen. Die moralische Entscheidung liegt bei Ihnen: bleiben Sie sanft und verdienen langsam, oder fügen Sie Schaden für schnelleres Geld zu. Ihre Entscheidungen bestimmen eines von drei möglichen Enden.\n\nStrategische Wege:\n• Guter Weg: Verwenden Sie nur harmlose Werkzeuge (Feder) - am schwierigsten, aber ethischstes Ende\n• Normaler Weg: Mischung aus schmerzhaften und sanften Werkzeugen - Harvey überlebt, aber trägt Konsequenzen\n• Dunkler Weg: Verwenden Sie grausame Waffen für schnelles Geld - führt zum dunkelsten Ende\n• Werkzeugfortschritt: Feder → Nadel → Schere → Feuer → Pistole\n• Die Pistole beendet das Spiel sofort, aber mit schweren Konsequenzen für beide Charaktere"
+  },
+  "tips": {
+    "title": "Spieltipps",
+    "description": "Meistern Sie diese Schlüsselstrategien und moralischen Überlegungen:",
+    "tip1": "Beginnen Sie mit sanften Werkzeugen wie der Feder (2 $ pro Klick), um Schäden zu minimieren, während Sie Geld aufbauen",
+    "tip2": "Berücksichtigen Sie die langfristigen Konsequenzen - jedes Werkzeug eskaliert die Schwere des Schadens für Harvey",
+    "tip3": "Überwachen Sie Ihren Fortschritt zu 25.000 $ und entscheiden Sie früh über Ihre moralischen Grenzen",
+    "tip4": "Denken Sie daran, dass schnelleres Geld auf Kosten von Harveys Wohlbefinden und Ihrem Gewissen kommt",
+    "tip5": "Ihre Entscheidungen formen das Ende - gut, normal oder schlecht basierend auf Ihren moralischen Entscheidungen"
+  },
+
+  "faq": {
+    "goal": {
+      "question": "Was ist das Ziel des Spiels?",
+      "answer": "Ihr Ziel ist es, 25.000 $ für eine lebensrettende Operation zu verdienen, indem Sie auf Harvey Harvington klicken. Sie beginnen mit 1 $ pro Klick, können aber Werkzeuge kaufen, um die Einnahmen auf Kosten von Schmerzen für ihn zu steigern. Die Hauptherausforderung besteht darin zu entscheiden, wie weit Sie moralisch gehen möchten, um Ihr finanzielles Ziel zu erreichen."
+    },
+    "tracks": {
+      "question": "Was sind die verschiedenen Enden?",
+      "answer": "Es gibt drei Enden basierend auf Ihren moralischen Entscheidungen: Gutes Ende (nur sanfte Methoden verwenden, Harvey bleibt unverletzt), Normales Ende (Mischung aus Werkzeugen, Harvey überlebt, ist aber vernarbt und verklagt Sie), und Schlechtes Ende (die grausamsten Waffen verwenden führt zum dunkelsten Ergebnis, bei dem kein Charakter überlebt)."
+    },
+    "mobile": {
+      "question": "Welche Werkzeuge kann ich kaufen und wie funktionieren sie?",
+      "answer": "Sie können verschiedene Werkzeuge mit eskalierenden Schadensstufen kaufen: Feder (harmlos, 2 $ pro Klick), Nadel (schmerzhaft), Schere (scharf und grausam), Feuer (brennt für massives Geld), und Pistole (sofortiges Spielende mit dunkelstem Ergebnis). Jedes Werkzeug erhöht Ihre Einnahmen, verursacht aber mehr Leiden für Harvey."
+    },
+    "multiplayer": {
+      "question": "Ist dieses Spiel für alle Spieler geeignet?",
+      "answer": "BLOODMONEY ist ein psychologisches Horror-Klickspiel, das dunkle moralische Themen über Verzweiflung, Gier und die Kosten des Überlebens erforscht. Obwohl es niedliche Pastellkunst zeigt, behandelt es ernste ethische Dilemmata und Gewalt. Spieler sollten auf emotionales Unbehagen und moralische Selbstreflexion vorbereitet sein, da das Spiel Ihr Gewissen herausfordert."
+    }
+  }
+}

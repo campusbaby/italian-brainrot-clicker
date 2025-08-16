@@ -1,0 +1,65 @@
+{
+  "howToPlay": {
+    "title": "How to Play",
+    "description": "Merge Fellas is an extraordinary puzzle adventure that combines addictive merging mechanics with hilarious Italian Brainrot chaos. Simply click and drag similar items to create more advanced characters. The core gameplay revolves around strategic planning and spatial management to avoid cluttered layouts."
+  },
+  "tips": {
+    "title": "Game Tips",
+    "description": "Master these key strategies for Merge Fellas success:",
+    "tip1": "Prioritize Chain Merges: A single merge can trigger multiple chain reactions, maximizing returns",
+    "tip2": "Focus on Rare Characters: Some advanced characters require specific merge combinations",
+    "tip3": "Reserve Board Space: With limited board space, managing space properly prevents getting stuck",
+    "tip4": "Utilize Character Evolution Charts: Plan the optimal merging route in advance",
+    "tip5": "Participate in Limited-Time Events: Regular themed events provide additional rewards and unique characters"
+  },
+  "features": {
+    "title": "Game Features",
+    "description": "Discover what makes Merge Fellas unique:",
+    "feature1": {
+      "title": "Unique Merging Mechanism",
+      "description": "Unlike traditional match-three games, Merge Fellas emphasizes long-term planning and spatial management, making players think about optimal strategy in each merging step."
+    },
+    "feature2": {
+      "title": "Italian Brainrot Characters",
+      "description": "Features over 50 characters inspired by Italian Brainrot culture, such as the Cappuccino Ballet Dancer and Flying Pizza Cat. Experience surreal merging fun with absurd and humorous characters."
+    },
+    "feature3": {
+      "title": "Progressive Difficulty Design",
+      "description": "Levels gradually increase in difficulty, from simple merging challenges to complex puzzles, ensuring players consistently feel refreshed whether beginner or seasoned."
+    },
+    "feature4": {
+      "title": "Diverse Game Modes",
+      "description": "Offers 7 different modes including Italian Brainrot, Dog, Cat, and Capybara themes, each with unique objectives ensuring no repetitive gameplay."
+    },
+    "feature5": {
+      "title": "Cross-Platform Compatibility",
+      "description": "Supports online gameplay ideal for friends who prefer not to download apps. Runs on Android, iOS, and Windows for consistent experience across all devices."
+    }
+  },
+  "controller": {
+    "title": "Controls",
+    "description": "Simple and intuitive controls make Merge Fellas accessible to all skill levels. Use your mouse to drag items and position them carefully. The beginner tutorial guides players to quickly get started."
+  },
+  "faq": {
+    "goal": {
+      "question": "What is the goal of Merge Fellas?",
+      "answer": "The goal is to strategically merge similar items to create advanced characters and unlock over 50 unique Italian Brainrot-inspired creatures. Plan your moves to trigger chain reactions and achieve high scores while managing limited board space."
+    },
+    "characters": {
+      "question": "How many characters can I unlock?",
+      "answer": "Merge Fellas features over 50 characters inspired by Italian Brainrot culture, including the Cappuccino Ballet Dancer, Flying Pizza Cat, and many other absurd and humorous creatures. Each character has unique traits and evolution paths."
+    },
+    "modes": {
+      "question": "What game modes are available?",
+      "answer": "The game offers 7 different modes with themes including Italian Brainrot, Dog, Cat, and Capybara. Each mode features distinctive items and visual styles, ensuring diverse gameplay experiences for all preferences."
+    },
+    "strategy": {
+      "question": "What are the best strategies for success?",
+      "answer": "Focus on chain merges for maximum returns, prioritize rare character combinations, manage board space efficiently, and participate in limited-time events. Use character evolution charts to plan optimal merging routes."
+    },
+    "platforms": {
+      "question": "What platforms support Merge Fellas?",
+      "answer": "Merge Fellas runs on Android, iOS, Windows, and web browsers without requiring downloads. The cross-platform compatibility ensures all players can enjoy a consistent experience across devices."
+    }
+  }
+}

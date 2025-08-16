@@ -1,0 +1,34 @@
+{
+  "howToPlay": {
+    "title": "Cách chơi",
+    "description": "BLOODMONEY là một trò chơi nhấp chuột tâm lý đen tối nơi bạn cần $25,000 cho một ca phẫu thuật cứu sống. Gặp Harvey Harvington tại một quầy hàng ven đường, người đưa ra $1 mỗi lần nhấp. Bạn có thể tăng thu nhập bằng cách mua công cụ làm hại anh ta - nhưng mỗi lần nhấp đều gây đau đớn. Lựa chọn đạo đức là của bạn: giữ nhẹ nhàng và kiếm tiền chậm, hoặc gây tổn hại để có tiền nhanh hơn. Quyết định của bạn sẽ xác định một trong ba kết thúc có thể.\n\nCác con đường chiến lược:\n• Con đường tốt: Chỉ sử dụng công cụ vô hại (lông vũ) - khó nhất nhưng kết thúc đạo đức nhất\n• Con đường bình thường: Kết hợp công cụ đau đớn và nhẹ nhàng - Harvey sống sót nhưng chịu hậu quả\n• Con đường đen tối: Sử dụng vũ khí tàn nhẫn để có tiền nhanh - dẫn đến kết thúc đen tối nhất\n• Tiến trình công cụ: Lông vũ → Kim → Kéo → Lửa → Súng\n• Súng kết thúc trò chơi ngay lập tức nhưng với hậu quả nghiêm trọng cho cả hai nhân vật"
+  },
+  "tips": {
+    "title": "Mẹo chơi game",
+    "description": "Làm chủ những chiến lược quan trọng và cân nhắc đạo đức này:",
+    "tip1": "Bắt đầu với công cụ nhẹ nhàng như lông vũ ($2 mỗi lần nhấp) để giảm thiểu tổn hại trong khi xây dựng tiền",
+    "tip2": "Xem xét hậu quả dài hạn - mỗi công cụ làm tăng mức độ nghiêm trọng của tổn hại đối với Harvey",
+    "tip3": "Theo dõi tiến trình của bạn hướng tới $25,000 và quyết định ranh giới đạo đức sớm",
+    "tip4": "Nhớ rằng tiền nhanh hơn đến với cái giá của sức khỏe Harvey và lương tâm của bạn",
+    "tip5": "Lựa chọn của bạn định hình kết thúc - tốt, bình thường hoặc xấu dựa trên quyết định đạo đức của bạn"
+  },
+
+  "faq": {
+    "goal": {
+      "question": "Mục tiêu của trò chơi là gì?",
+      "answer": "Mục tiêu của bạn là kiếm $25,000 cho một ca phẫu thuật cứu sống bằng cách nhấp vào Harvey Harvington. Bạn bắt đầu kiếm $1 mỗi lần nhấp, nhưng có thể mua công cụ để tăng thu nhập với cái giá gây đau đớn cho anh ta. Thách thức cốt lõi là quyết định bạn sẵn sàng đi xa đến đâu về mặt đạo đức để đạt được mục tiêu tài chính."
+    },
+    "tracks": {
+      "question": "Các kết thúc khác nhau là gì?",
+      "answer": "Có ba kết thúc dựa trên lựa chọn đạo đức của bạn: Kết thúc tốt (chỉ sử dụng phương pháp nhẹ nhàng, Harvey không bị tổn hại), Kết thúc bình thường (kết hợp công cụ, Harvey sống sót nhưng bị tổn thương và kiện bạn), và Kết thúc xấu (sử dụng vũ khí tàn nhẫn nhất dẫn đến kết quả đen tối nhất nơi không nhân vật nào sống sót)."
+    },
+    "mobile": {
+      "question": "Tôi có thể mua công cụ nào và chúng hoạt động như thế nào?",
+      "answer": "Bạn có thể mua các công cụ khác nhau với mức độ tổn hại tăng dần: Lông vũ (vô hại, $2 mỗi lần nhấp), Kim (đau đớn), Kéo (sắc và tàn nhẫn), Lửa (đốt để có tiền khổng lồ), và Súng (kết thúc trò chơi ngay lập tức với kết quả đen tối nhất). Mỗi công cụ tăng thu nhập của bạn nhưng gây ra nhiều đau khổ hơn cho Harvey."
+    },
+    "multiplayer": {
+      "question": "Trò chơi này có phù hợp với tất cả người chơi không?",
+      "answer": "BLOODMONEY là một trò chơi nhấp chuột kinh dị tâm lý khám phá các chủ đề đạo đức đen tối về tuyệt vọng, tham lam và cái giá của sự sống còn. Mặc dù có nghệ thuật pastel dễ thương, nó xử lý các tình huống đạo đức nghiêm trọng và bạo lực. Người chơi nên chuẩn bị cho sự khó chịu về cảm xúc và sự nội tâm đạo đức vì trò chơi thách thức lương tâm của bạn."
+    }
+  }
+}

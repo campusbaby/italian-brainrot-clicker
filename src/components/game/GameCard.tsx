@@ -28,11 +28,17 @@ export default function GameCard({ game, dict }: GameCardProps) {
   // 为Italian Brainrot Clicker生成首页链接，其他游戏生成详情页链接
   const getGameLink = () => {
     if (game.id === 'italian-brainrot-clicker') {
-      return currentLocale ? `/${currentLocale}` : '/';
+      // 如果是默认语言或没有语言，返回根路径
+      return (currentLocale && currentLocale !== defaultLocale) ? `/${currentLocale}` : '/';
     } else {
       // 如果没有检测到当前语言环境，使用默认语言
       const locale = currentLocale || defaultLocale;
-      return `/${locale}/game/${game.id}`;
+      // 如果是默认语言，不添加语言前缀
+      if (locale === defaultLocale) {
+        return `/game/${game.id}`;
+      } else {
+        return `/${locale}/game/${game.id}`;
+      }
     }
   };
 

@@ -1,0 +1,34 @@
+{
+  "howToPlay": {
+    "title": "Kā spēlēt",
+    "description": "BLOODMONEY ir tumša psiholoģiska klikšķu spēle, kurā jums nepieciešami $25,000 dzīvību glābjošai operācijai. Satieciet Harvey Harvington pie ceļmalas stenda, kas piedāvā $1 par klikšķi. Jūs varat palielināt ienākumus, pērkot rīkus, kas viņam kaitē - bet katrs klikšķis rada sāpes. Morālā izvēle ir jūsu: palieciet maigi un nopelniet lēni, vai nodariet kaitējumu ātrākam naudas ieguvumam. Jūsu lēmumi noteiks vienu no trim iespējamiem beigām.\n\nStratēģiskie ceļi:\n• Labs ceļš: Izmantojiet tikai nekaitīgus rīkus (spalvu) - grūtākais, bet visētiskākais beigas\n• Normāls ceļš: Sāpīgu un maigo rīku maisījums - Harvey izdzīvo, bet cieš sekas\n• Tumšs ceļš: Izmantojiet nežēlīgus ieročus ātrām naudām - ved pie tumšākajām beigām\n• Rīku progresija: Spalva → Adata → Šķēres → Uguns → Pistole\n• Pistole nekavējoties beidz spēli, bet ar smagām sekām abiem tēliem"
+  },
+  "tips": {
+    "title": "Spēles padomi",
+    "description": "Apgūstiet šīs galvenās stratēģijas un morālos apsvērumus:",
+    "tip1": "Sāciet ar maigiem rīkiem kā spalvu ($2 par klikšķi), lai minimizētu kaitējumu, vienlaikus veidojot līdzekļus",
+    "tip2": "Apsveriet ilgtermiņa sekas - katrs rīks palielina Harvey kaitējuma smagumu",
+    "tip3": "Sekojiet savam progresam uz $25,000 un agri izlemiet savas morālās robežas",
+    "tip4": "Atcerieties, ka ātrāka nauda nāk par Harvey labklājības un jūsu sirdsapziņas cenu",
+    "tip5": "Jūsu izvēles veido beigas - labas, normālas vai sliktas, balstoties uz jūsu morālajiem lēmumiem"
+  },
+
+  "faq": {
+    "goal": {
+      "question": "Kāds ir spēles mērķis?",
+      "answer": "Jūsu mērķis ir nopelnīt $25,000 dzīvību glābjošai operācijai, klikšķinot uz Harvey Harvington. Jūs sākat nopelnīt $1 par klikšķi, bet varat pirkt rīkus, lai palielinātu ienākumus par cenu viņam radīt sāpes. Galvenā izaicinājuma ir izlemt, cik tālu jūs esat gatavi iet morāli, lai sasniegtu savu finansiālo mērķi."
+    },
+    "tracks": {
+      "question": "Kādas ir dažādās beigas?",
+      "answer": "Ir trīs beigas, kas balstītas uz jūsu morālajām izvēlēm: Labās beigas (izmantojot tikai maigās metodes, Harvey paliek neskaists), Normālās beigas (rīku maisījums, Harvey izdzīvo, bet ir ievainots un jūs apsūdz), un Sliktās beigas (izmantojot nežēlīgākos ieročus, ved pie tumšākā rezultāta, kur neviens tēls neizdzīvo)."
+    },
+    "mobile": {
+      "question": "Kādus rīkus es varu pirkt un kā tie darbojas?",
+      "answer": "Jūs varat pirkt dažādus rīkus ar pieaugošiem kaitējuma līmeņiem: Spalva (nekaitīga, $2 par klikšķi), Adata (sāpīga), Šķēres (asas un nežēlīgas), Uguns (deg par masīvu naudu), un Pistole (tūlītējas spēles beigas ar tumšāko rezultātu). Katrs rīks palielina jūsu ienākumus, bet rada vairāk ciešanu Harvey."
+    },
+    "multiplayer": {
+      "question": "Vai šī spēle ir piemērota visiem spēlētājiem?",
+      "answer": "BLOODMONEY ir psiholoģiska šausmu klikšķu spēle, kas pēta tumšas morālas tēmas par izmisumu, alkatību un izdzīvošanas izmaksām. Lai gan tā rāda mīļu pasteļu mākslu, tā risina nopietnas ētiskas dilemmas un vardarbību. Spēlētājiem jābūt gataviem emocionālam diskomfortam un morālai pašrefleksijai, jo spēle izaicina jūsu sirdsapziņu."
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "howToPlay": {
+    "title": "Cách chơi",
+    "description": "Merge Fellas là một cuộc phiêu lưu giải đố phi thường kết hợp cơ chế hợp nhất gây nghiện với sự hỗn loạn vui nhộn từ Italian Brainrot. Đơn giản chỉ cần nhấp và kéo các vật phẩm tương tự để tạo ra những nhân vật tiên tiến hơn. Lối chơi cốt lõi xoay quanh việc lập kế hoạch chiến lược và quản lý không gian để tránh bố cục lộn xộn."
+  },
+  "tips": {
+    "title": "Mẹo chơi game",
+    "description": "Làm chủ những chiến lược quan trọng này để thành công trong Merge Fellas:",
+    "tip1": "Ưu tiên hợp nhất chuỗi: Một lần hợp nhất có thể kích hoạt nhiều phản ứng dây chuyền và tối đa hóa lợi nhuận",
+    "tip2": "Tập trung vào nhân vật hiếm: Một số nhân vật tiên tiến yêu cầu các kết hợp hợp nhất cụ thể",
+    "tip3": "Dành không gian bảng: Với không gian bảng hạn chế, quản lý không gian đúng cách ngăn chặn bị kẹt",
+    "tip4": "Sử dụng biểu đồ tiến hóa nhân vật: Lập kế hoạch tuyến đường hợp nhất tối ưu trước",
+    "tip5": "Tham gia các sự kiện có thời hạn: Các sự kiện chủ đề thường xuyên cung cấp phần thưởng bổ sung và nhân vật độc đáo"
+  },
+  "features": {
+    "title": "Tính năng trò chơi",
+    "description": "Khám phá điều gì làm cho Merge Fellas độc đáo:",
+    "feature1": {
+      "title": "Cơ chế hợp nhất độc đáo",
+      "description": "Không giống như các trò chơi ghép ba truyền thống, Merge Fellas nhấn mạnh vào việc lập kế hoạch dài hạn và quản lý không gian, khiến người chơi phải suy nghĩ về chiến lược tối ưu trong mỗi bước hợp nhất."
+    },
+    "feature2": {
+      "title": "Nhân vật Italian Brainrot",
+      "description": "Có hơn 50 nhân vật lấy cảm hứng từ văn hóa Italian Brainrot, như Vũ công Ballet Cappuccino và Mèo Pizza Bay. Trải nghiệm niềm vui hợp nhất siêu thực với những nhân vật vô lý và hài hước."
+    },
+    "feature3": {
+      "title": "Thiết kế độ khó tiến bộ",
+      "description": "Các cấp độ tăng dần về độ khó, từ những thử thách hợp nhất đơn giản đến những câu đố phức tạp, đảm bảo người chơi luôn cảm thấy sảng khoái, dù là người mới bắt đầu hay có kinh nghiệm."
+    },
+    "feature4": {
+      "title": "Chế độ chơi đa dạng",
+      "description": "Cung cấp 7 chế độ khác nhau với các chủ đề bao gồm Italian Brainrot, Chó, Mèo và Capybara, mỗi chế độ có mục tiêu độc đáo đảm bảo lối chơi không lặp lại."
+    },
+    "feature5": {
+      "title": "Tương thích đa nền tảng",
+      "description": "Hỗ trợ chơi trực tuyến lý tưởng cho những người bạn thích không tải ứng dụng. Chạy trên Android, iOS và Windows để có trải nghiệm nhất quán trên tất cả thiết bị."
+    }
+  },
+  "controller": {
+    "title": "Điều khiển",
+    "description": "Điều khiển đơn giản và trực quan làm cho Merge Fellas có thể tiếp cận được với tất cả các cấp độ kỹ năng. Sử dụng chuột để kéo các vật phẩm và định vị chúng cẩn thận. Hướng dẫn cho người mới bắt đầu sẽ hướng dẫn người chơi bắt đầu nhanh chóng."
+  },
+  "faq": {
+    "goal": {
+      "question": "Mục tiêu của Merge Fellas là gì?",
+      "answer": "Mục tiêu là hợp nhất chiến lược các vật phẩm tương tự để tạo ra nhân vật tiên tiến và mở khóa hơn 50 sinh vật độc đáo lấy cảm hứng từ Italian Brainrot. Lập kế hoạch cho các nước đi của bạn để kích hoạt phản ứng dây chuyền và đạt điểm cao trong khi quản lý không gian bảng hạn chế."
+    },
+    "characters": {
+      "question": "Tôi có thể mở khóa bao nhiêu nhân vật?",
+      "answer": "Merge Fellas có hơn 50 nhân vật lấy cảm hứng từ văn hóa Italian Brainrot, bao gồm Vũ công Ballet Cappuccino, Mèo Pizza Bay và nhiều sinh vật vô lý và hài hước khác. Mỗi nhân vật có những đặc điểm độc đáo và con đường tiến hóa."
+    },
+    "modes": {
+      "question": "Có những chế độ chơi nào?",
+      "answer": "Trò chơi cung cấp 7 chế độ khác nhau với các chủ đề bao gồm Italian Brainrot, Chó, Mèo và Capybara. Mỗi chế độ có các vật phẩm đặc biệt và phong cách hình ảnh, đảm bảo trải nghiệm chơi đa dạng cho tất cả sở thích."
+    },
+    "strategy": {
+      "question": "Những chiến lược tốt nhất để thành công là gì?",
+      "answer": "Tập trung vào hợp nhất chuỗi để có lợi nhuận tối đa, ưu tiên các kết hợp nhân vật hiếm, quản lý không gian bảng hiệu quả, và tham gia các sự kiện có thời hạn. Sử dụng biểu đồ tiến hóa nhân vật để lập kế hoạch tuyến đường hợp nhất tối ưu."
+    },
+    "platforms": {
+      "question": "Những nền tảng nào hỗ trợ Merge Fellas?",
+      "answer": "Merge Fellas chạy trên Android, iOS, Windows và trình duyệt web mà không cần tải xuống. Tính tương thích đa nền tảng đảm bảo tất cả người chơi có thể tận hưởng trải nghiệm nhất quán trên tất cả thiết bị."
+    }
+  }
+}

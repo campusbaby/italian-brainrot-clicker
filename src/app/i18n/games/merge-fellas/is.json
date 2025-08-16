@@ -1,0 +1,65 @@
+{
+  "howToPlay": {
+    "title": "Hvernig á að spila",
+    "description": "Merge Fellas er óvenjulegt þrautaleikjaævintýri sem sameinar ávanabindandi samrunakerfi við skemmtilega óreiðu frá Italian Brainrot. Smelltu og dragðu einfaldlega svipaða hluti til að búa til þróaðri persónur. Kjarni leiksins snýst um stefnumótandi skipulagningu og rýmisstjórnun til að forðast óreiðukenndar uppsetningar."
+  },
+  "tips": {
+    "title": "Leikjaráð",
+    "description": "Lærðu þessar lykilaðferðir fyrir Merge Fellas árangur:",
+    "tip1": "Forgangsraðaðu keðjusamrunum: Ein samruna getur kallað fram margar keðjuviðbrögð og hámarkað ávöxtun",
+    "tip2": "Einbeittu þér að sjaldgæfum persónum: Sumar þróaðar persónur krefjast sérstakra samrunasamsetninga",
+    "tip3": "Varðveittu borðpláss: Með takmarkað borðpláss kemur rétt rýmisstjórnun í veg fyrir að festast",
+    "tip4": "Notaðu persónuþróunarrit: Skipulagðu bestu samrunaleið fyrirfram",
+    "tip5": "Taktu þátt í tímatakmörkuðum viðburðum: Reglulegir þemaviðburðir veita aukaverðlaun og einstaka persónur"
+  },
+  "features": {
+    "title": "Leikjaeiginleikar",
+    "description": "Uppgötvaðu hvað gerir Merge Fellas einstakt:",
+    "feature1": {
+      "title": "Einstakt samrunakerfi",
+      "description": "Ólíkt hefðbundnum match-three leikjum leggur Merge Fellas áherslu á langtímaskipulagningu og rýmisstjórnun, sem fær leikmenn til að hugsa um bestu stefnu í hverju samrunaskrefi."
+    },
+    "feature2": {
+      "title": "Italian Brainrot persónur",
+      "description": "Inniheldur yfir 50 persónur innblásnar af Italian Brainrot menningu, eins og Cappuccino Balletdansarinn og Fljúgandi Pizza Kötturinn. Upplifðu óraunverulega samrunaskemmtun með fáránlegum og húmorískum persónum."
+    },
+    "feature3": {
+      "title": "Stigvaxandi erfiðleikahönnun",
+      "description": "Stig aukast smám saman í erfiðleika, frá einföldum samrunaáskorunum til flókinna þrauta, sem tryggir að leikmenn finna stöðugt fyrir endurnæjingu, hvort sem þeir eru byrjendur eða reyndir."
+    },
+    "feature4": {
+      "title": "Fjölbreyttir leikjahamir",
+      "description": "Býður upp á 7 mismunandi hami með þemum þar á meðal Italian Brainrot, Hund, Kött og Capybara, hver með einstök markmið sem tryggja óendurtekinn leik."
+    },
+    "feature5": {
+      "title": "Þvervettvangsamhæfni",
+      "description": "Styður netleikmöguleika sem eru tilvalin fyrir vini sem kjósa að hlaða ekki niður forritum. Virkar á Android, iOS og Windows fyrir samræmda upplifun á öllum tækjum."
+    }
+  },
+  "controller": {
+    "title": "Stýring",
+    "description": "Einföld og leiðandi stýring gerir Merge Fellas aðgengilegt fyrir alla kunnáttustig. Notaðu músina til að draga hluti og staðsetja þá vandlega. Byrjendahandbókin leiðbeinir leikmönnum til að byrja hratt."
+  },
+  "faq": {
+    "goal": {
+      "question": "Hvert er markmið Merge Fellas?",
+      "answer": "Markmiðið er að sameina svipaða hluti á stefnumótandi hátt til að búa til þróaðar persónur og opna fyrir yfir 50 einstök Italian Brainrot innblásin verur. Skipulagðu leikina þína til að kalla fram keðjuviðbrögð og ná háum stigum á meðan þú stjórnar takmörkuðu borðplássi."
+    },
+    "characters": {
+      "question": "Hversu margar persónur get ég opnað?",
+      "answer": "Merge Fellas inniheldur yfir 50 persónur innblásnar af Italian Brainrot menningu, þar á meðal Cappuccino Balletdansarinn, Fljúgandi Pizza Kötturinn og margar aðrar fáránlegar og húmorískar verur. Hver persóna hefur einstaka eiginleika og þróunarleiðir."
+    },
+    "modes": {
+      "question": "Hvaða leikjahamir eru í boði?",
+      "answer": "Leikurinn býður upp á 7 mismunandi hami með þemum þar á meðal Italian Brainrot, Hund, Kött og Capybara. Hver hamur inniheldur sérstaka hluti og sjónræna stíla, sem tryggir fjölbreyttar leikjaupplifanir fyrir allar óskir."
+    },
+    "strategy": {
+      "question": "Hverjar eru bestu aðferðirnar fyrir árangur?",
+      "answer": "Einbeittu þér að keðjusamrunum fyrir hámarksávöxtun, forgangsraðaðu sjaldgæfum persónusamsetningum, stjórnaðu borðplássi á skilvirkan hátt og taktu þátt í tímatakmörkuðum viðburðum. Notaðu persónuþróunarrit til að skipuleggja bestu samrunaleiðir."
+    },
+    "platforms": {
+      "question": "Hvaða vettvangar styðja Merge Fellas?",
+      "answer": "Merge Fellas virkar á Android, iOS, Windows og vefvöfrum án þess að krefjast niðurhala. Þvervettvangsamhæfni tryggir að allir leikmenn geti notið samræmdrar upplifunar á öllum tækjum."
+    }
+  }
+}

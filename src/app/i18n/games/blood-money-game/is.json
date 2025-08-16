@@ -1,0 +1,34 @@
+{
+  "howToPlay": {
+    "title": "Hvernig á að spila",
+    "description": "BLOODMONEY er dökkt sálfræðilegt smellileikur þar sem þú þarft $25,000 fyrir lífbjargandi aðgerð. Kynntu þér Harvey Harvington við vegkantsbás sem býður $1 á smell. Þú getur aukið tekjur með því að kaupa verkfæri sem skaða hann - en hvert smell veldur sársauka. Siðferðilega valið er þitt: vertu blíður og þénaðu hægt, eða valdur skaða fyrir hraðari peninga. Ákvarðanir þínar munu ákvarða einn af þremur mögulegum endum.\n\nStefnumótandi leiðir:\n• Góð leið: Notaðu aðeins skaðlausa verkfæri (fjöður) - erfiðast en siðferðilegasti endinn\n• Venjuleg leið: Blanda af sársaukafullum og blíðum verkfærum - Harvey lifir af en ber afleiðingar\n• Dökk leið: Notaðu grimm vopn fyrir hratt fé - leiðir til dökkvasta endsins\n• Verkfæraframfarir: Fjöður → Nál → Skæri → Eldur → Byssa\n• Byssan endar leikinn strax en með alvarlegum afleiðingum fyrir báða karaktera"
+  },
+  "tips": {
+    "title": "Leikjaráð",
+    "description": "Lærðu þessar lykilaðferðir og siðferðilegar íhuganir:",
+    "tip1": "Byrjaðu með blíð verkfæri eins og fjöðrina ($2 á smell) til að lágmarka skaða á meðan þú byggir upp peninga",
+    "tip2": "Íhugaðu langtímaafleiðingarnar - hvert verkfæri eykur alvarleika skaða á Harvey",
+    "tip3": "Fylgstu með framförum þínum í átt að $25,000 og ákveddu siðferðileg mörk þín snemma",
+    "tip4": "Mundu að hraðari peningar koma á kostnað velferðar Harvey og samvisku þinnar",
+    "tip5": "Val þín móta endann - góður, venjulegur eða slæmur byggt á siðferðilegum ákvörðunum þínum"
+  },
+
+  "faq": {
+    "goal": {
+      "question": "Hvert er markmið leiksins?",
+      "answer": "Markmið þitt er að þéna $25,000 fyrir lífbjargandi aðgerð með því að smella á Harvey Harvington. Þú byrjar að þéna $1 á smell, en getur keypt verkfæri til að auka tekjur á kostnað þess að valda honum sársauka. Aðaláskorunin er að ákveða hversu langt þú ert tilbúinn að fara siðferðilega til að ná fjárhagslegu markmiði þínu."
+    },
+    "tracks": {
+      "question": "Hverjir eru mismunandi endar?",
+      "answer": "Það eru þrír endar byggðir á siðferðilegum vali þínu: Góður endi (notar aðeins blíðar aðferðir, Harvey helst óskaðaður), Venjulegur endi (blanda af verkfærum, Harvey lifir af en er merktur og kærir þig), og Slæmur endi (að nota grimmust vopnin leiðir til dökkvasta útkomunnar þar sem enginn karakter lifir af)."
+    },
+    "mobile": {
+      "question": "Hvaða verkfæri get ég keypt og hvernig virka þau?",
+      "answer": "Þú getur keypt ýmis verkfæri með stigvaxandi skaðastigum: Fjöður (skaðlaus, $2 á smell), Nál (sársaukafull), Skæri (hvöss og grimm), Eldur (brennur fyrir gríðarlega peninga), og Byssa (tafarlaus leikslok með dökkvasta útkomunni). Hvert verkfæri eykur tekjur þínar en veldur meiri þjáningu fyrir Harvey."
+    },
+    "multiplayer": {
+      "question": "Er þessi leikur hentugur fyrir alla leikmenn?",
+      "answer": "BLOODMONEY er sálfræðilegur hryllingsmellileikur sem kannar dökk siðferðileg þemu um örvæntingu, græðgi og kostnað við að lifa af. Þó að hann sýni fallega pastelllist, fjallar hann um alvarlegar siðferðilegar vandamál og ofbeldi. Leikmenn ættu að vera tilbúnir fyrir tilfinningalegt óþægindi og siðferðilega sjálfskoðun þar sem leikurinn ögrar samvisku þinni."
+    }
+  }
+}

@@ -1,460 +1,291 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/sitemap-style.xsl"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://brainrotclicker.co</loc>
-    <lastmod>2025-06-03T07:06:11.463Z</lastmod>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://brainrotclicker.co"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://brainrotclicker.co"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://brainrotclicker.co/sv"/>
-    <xhtml:link rel="alternate" hreflang="no" href="https://brainrotclicker.co/no"/>
-    <xhtml:link rel="alternate" hreflang="da" href="https://brainrotclicker.co/da"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://brainrotclicker.co/fr"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://brainrotclicker.co/nl"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://brainrotclicker.co/es"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://brainrotclicker.co/de"/>
-    <xhtml:link rel="alternate" hreflang="is" href="https://brainrotclicker.co/is"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://brainrotclicker.co/vi"/>
-    <xhtml:link rel="alternate" hreflang="lv" href="https://brainrotclicker.co/lv"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://brainrotclicker.co/ar"/>
   </url>
   <url>
     <loc>https://brainrotclicker.co/sv</loc>
-    <lastmod>2025-06-03T07:06:11.463Z</lastmod>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://brainrotclicker.co"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://brainrotclicker.co"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://brainrotclicker.co/sv"/>
-    <xhtml:link rel="alternate" hreflang="no" href="https://brainrotclicker.co/no"/>
-    <xhtml:link rel="alternate" hreflang="da" href="https://brainrotclicker.co/da"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://brainrotclicker.co/fr"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://brainrotclicker.co/nl"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://brainrotclicker.co/es"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://brainrotclicker.co/de"/>
-    <xhtml:link rel="alternate" hreflang="is" href="https://brainrotclicker.co/is"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://brainrotclicker.co/vi"/>
-    <xhtml:link rel="alternate" hreflang="lv" href="https://brainrotclicker.co/lv"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://brainrotclicker.co/ar"/>
   </url>
   <url>
     <loc>https://brainrotclicker.co/no</loc>
-    <lastmod>2025-06-03T07:06:11.463Z</lastmod>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://brainrotclicker.co"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://brainrotclicker.co"/>
-    <xhtml:link rel="alternate" hreflang="no" href="https://brainrotclicker.co/no"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://brainrotclicker.co/sv"/>
-    <xhtml:link rel="alternate" hreflang="da" href="https://brainrotclicker.co/da"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://brainrotclicker.co/fr"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://brainrotclicker.co/nl"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://brainrotclicker.co/es"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://brainrotclicker.co/de"/>
-    <xhtml:link rel="alternate" hreflang="is" href="https://brainrotclicker.co/is"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://brainrotclicker.co/vi"/>
-    <xhtml:link rel="alternate" hreflang="lv" href="https://brainrotclicker.co/lv"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://brainrotclicker.co/ar"/>
   </url>
   <url>
     <loc>https://brainrotclicker.co/da</loc>
-    <lastmod>2025-06-03T07:06:11.463Z</lastmod>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://brainrotclicker.co"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://brainrotclicker.co"/>
-    <xhtml:link rel="alternate" hreflang="da" href="https://brainrotclicker.co/da"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://brainrotclicker.co/sv"/>
-    <xhtml:link rel="alternate" hreflang="no" href="https://brainrotclicker.co/no"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://brainrotclicker.co/fr"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://brainrotclicker.co/nl"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://brainrotclicker.co/es"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://brainrotclicker.co/de"/>
-    <xhtml:link rel="alternate" hreflang="is" href="https://brainrotclicker.co/is"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://brainrotclicker.co/vi"/>
-    <xhtml:link rel="alternate" hreflang="lv" href="https://brainrotclicker.co/lv"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://brainrotclicker.co/ar"/>
   </url>
   <url>
     <loc>https://brainrotclicker.co/fr</loc>
-    <lastmod>2025-06-03T07:06:11.463Z</lastmod>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://brainrotclicker.co"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://brainrotclicker.co"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://brainrotclicker.co/fr"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://brainrotclicker.co/sv"/>
-    <xhtml:link rel="alternate" hreflang="no" href="https://brainrotclicker.co/no"/>
-    <xhtml:link rel="alternate" hreflang="da" href="https://brainrotclicker.co/da"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://brainrotclicker.co/nl"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://brainrotclicker.co/es"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://brainrotclicker.co/de"/>
-    <xhtml:link rel="alternate" hreflang="is" href="https://brainrotclicker.co/is"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://brainrotclicker.co/vi"/>
-    <xhtml:link rel="alternate" hreflang="lv" href="https://brainrotclicker.co/lv"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://brainrotclicker.co/ar"/>
   </url>
   <url>
     <loc>https://brainrotclicker.co/nl</loc>
-    <lastmod>2025-06-03T07:06:11.463Z</lastmod>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://brainrotclicker.co"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://brainrotclicker.co"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://brainrotclicker.co/nl"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://brainrotclicker.co/sv"/>
-    <xhtml:link rel="alternate" hreflang="no" href="https://brainrotclicker.co/no"/>
-    <xhtml:link rel="alternate" hreflang="da" href="https://brainrotclicker.co/da"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://brainrotclicker.co/fr"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://brainrotclicker.co/es"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://brainrotclicker.co/de"/>
-    <xhtml:link rel="alternate" hreflang="is" href="https://brainrotclicker.co/is"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://brainrotclicker.co/vi"/>
-    <xhtml:link rel="alternate" hreflang="lv" href="https://brainrotclicker.co/lv"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://brainrotclicker.co/ar"/>
   </url>
   <url>
     <loc>https://brainrotclicker.co/es</loc>
-    <lastmod>2025-06-03T07:06:11.463Z</lastmod>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://brainrotclicker.co"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://brainrotclicker.co"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://brainrotclicker.co/es"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://brainrotclicker.co/sv"/>
-    <xhtml:link rel="alternate" hreflang="no" href="https://brainrotclicker.co/no"/>
-    <xhtml:link rel="alternate" hreflang="da" href="https://brainrotclicker.co/da"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://brainrotclicker.co/fr"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://brainrotclicker.co/nl"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://brainrotclicker.co/de"/>
-    <xhtml:link rel="alternate" hreflang="is" href="https://brainrotclicker.co/is"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://brainrotclicker.co/vi"/>
-    <xhtml:link rel="alternate" hreflang="lv" href="https://brainrotclicker.co/lv"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://brainrotclicker.co/ar"/>
   </url>
   <url>
     <loc>https://brainrotclicker.co/de</loc>
-    <lastmod>2025-06-03T07:06:11.463Z</lastmod>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://brainrotclicker.co"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://brainrotclicker.co"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://brainrotclicker.co/de"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://brainrotclicker.co/sv"/>
-    <xhtml:link rel="alternate" hreflang="no" href="https://brainrotclicker.co/no"/>
-    <xhtml:link rel="alternate" hreflang="da" href="https://brainrotclicker.co/da"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://brainrotclicker.co/fr"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://brainrotclicker.co/nl"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://brainrotclicker.co/es"/>
-    <xhtml:link rel="alternate" hreflang="is" href="https://brainrotclicker.co/is"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://brainrotclicker.co/vi"/>
-    <xhtml:link rel="alternate" hreflang="lv" href="https://brainrotclicker.co/lv"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://brainrotclicker.co/ar"/>
   </url>
   <url>
     <loc>https://brainrotclicker.co/is</loc>
-    <lastmod>2025-06-03T07:06:11.463Z</lastmod>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://brainrotclicker.co"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://brainrotclicker.co"/>
-    <xhtml:link rel="alternate" hreflang="is" href="https://brainrotclicker.co/is"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://brainrotclicker.co/sv"/>
-    <xhtml:link rel="alternate" hreflang="no" href="https://brainrotclicker.co/no"/>
-    <xhtml:link rel="alternate" hreflang="da" href="https://brainrotclicker.co/da"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://brainrotclicker.co/fr"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://brainrotclicker.co/nl"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://brainrotclicker.co/es"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://brainrotclicker.co/de"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://brainrotclicker.co/vi"/>
-    <xhtml:link rel="alternate" hreflang="lv" href="https://brainrotclicker.co/lv"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://brainrotclicker.co/ar"/>
   </url>
   <url>
     <loc>https://brainrotclicker.co/vi</loc>
-    <lastmod>2025-06-03T07:06:11.463Z</lastmod>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://brainrotclicker.co"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://brainrotclicker.co"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://brainrotclicker.co/vi"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://brainrotclicker.co/sv"/>
-    <xhtml:link rel="alternate" hreflang="no" href="https://brainrotclicker.co/no"/>
-    <xhtml:link rel="alternate" hreflang="da" href="https://brainrotclicker.co/da"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://brainrotclicker.co/fr"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://brainrotclicker.co/nl"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://brainrotclicker.co/es"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://brainrotclicker.co/de"/>
-    <xhtml:link rel="alternate" hreflang="is" href="https://brainrotclicker.co/is"/>
-    <xhtml:link rel="alternate" hreflang="lv" href="https://brainrotclicker.co/lv"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://brainrotclicker.co/ar"/>
   </url>
   <url>
     <loc>https://brainrotclicker.co/lv</loc>
-    <lastmod>2025-06-03T07:06:11.463Z</lastmod>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://brainrotclicker.co"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://brainrotclicker.co"/>
-    <xhtml:link rel="alternate" hreflang="lv" href="https://brainrotclicker.co/lv"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://brainrotclicker.co/sv"/>
-    <xhtml:link rel="alternate" hreflang="no" href="https://brainrotclicker.co/no"/>
-    <xhtml:link rel="alternate" hreflang="da" href="https://brainrotclicker.co/da"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://brainrotclicker.co/fr"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://brainrotclicker.co/nl"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://brainrotclicker.co/es"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://brainrotclicker.co/de"/>
-    <xhtml:link rel="alternate" hreflang="is" href="https://brainrotclicker.co/is"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://brainrotclicker.co/vi"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://brainrotclicker.co/ar"/>
   </url>
   <url>
     <loc>https://brainrotclicker.co/ar</loc>
-    <lastmod>2025-06-03T07:06:11.463Z</lastmod>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://brainrotclicker.co"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://brainrotclicker.co"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://brainrotclicker.co/ar"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://brainrotclicker.co/sv"/>
-    <xhtml:link rel="alternate" hreflang="no" href="https://brainrotclicker.co/no"/>
-    <xhtml:link rel="alternate" hreflang="da" href="https://brainrotclicker.co/da"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://brainrotclicker.co/fr"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://brainrotclicker.co/nl"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://brainrotclicker.co/es"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://brainrotclicker.co/de"/>
-    <xhtml:link rel="alternate" hreflang="is" href="https://brainrotclicker.co/is"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://brainrotclicker.co/vi"/>
-    <xhtml:link rel="alternate" hreflang="lv" href="https://brainrotclicker.co/lv"/>
   </url>
   <url>
-    <loc>https://brainrotclicker.co/en/game/rolling-balls-space-race</loc>
-    <lastmod>2025-06-03T07:06:11.463Z</lastmod>
+    <loc>https://brainrotclicker.co/game/blood-money-game</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://brainrotclicker.co/en/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://brainrotclicker.co/en/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://brainrotclicker.co/sv/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="no" href="https://brainrotclicker.co/no/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="da" href="https://brainrotclicker.co/da/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://brainrotclicker.co/fr/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://brainrotclicker.co/nl/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://brainrotclicker.co/es/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://brainrotclicker.co/de/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="is" href="https://brainrotclicker.co/is/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://brainrotclicker.co/vi/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="lv" href="https://brainrotclicker.co/lv/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://brainrotclicker.co/ar/game/rolling-balls-space-race"/>
   </url>
   <url>
-    <loc>https://brainrotclicker.co/sv/game/rolling-balls-space-race</loc>
-    <lastmod>2025-06-03T07:06:11.463Z</lastmod>
+    <loc>https://brainrotclicker.co/sv/game/blood-money-game</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://brainrotclicker.co/en/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://brainrotclicker.co/en/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://brainrotclicker.co/sv/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="no" href="https://brainrotclicker.co/no/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="da" href="https://brainrotclicker.co/da/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://brainrotclicker.co/fr/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://brainrotclicker.co/nl/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://brainrotclicker.co/es/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://brainrotclicker.co/de/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="is" href="https://brainrotclicker.co/is/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://brainrotclicker.co/vi/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="lv" href="https://brainrotclicker.co/lv/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://brainrotclicker.co/ar/game/rolling-balls-space-race"/>
   </url>
   <url>
-    <loc>https://brainrotclicker.co/no/game/rolling-balls-space-race</loc>
-    <lastmod>2025-06-03T07:06:11.463Z</lastmod>
+    <loc>https://brainrotclicker.co/no/game/blood-money-game</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://brainrotclicker.co/en/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://brainrotclicker.co/en/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="no" href="https://brainrotclicker.co/no/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://brainrotclicker.co/sv/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="da" href="https://brainrotclicker.co/da/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://brainrotclicker.co/fr/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://brainrotclicker.co/nl/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://brainrotclicker.co/es/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://brainrotclicker.co/de/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="is" href="https://brainrotclicker.co/is/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://brainrotclicker.co/vi/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="lv" href="https://brainrotclicker.co/lv/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://brainrotclicker.co/ar/game/rolling-balls-space-race"/>
   </url>
   <url>
-    <loc>https://brainrotclicker.co/da/game/rolling-balls-space-race</loc>
-    <lastmod>2025-06-03T07:06:11.463Z</lastmod>
+    <loc>https://brainrotclicker.co/da/game/blood-money-game</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://brainrotclicker.co/en/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://brainrotclicker.co/en/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="da" href="https://brainrotclicker.co/da/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://brainrotclicker.co/sv/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="no" href="https://brainrotclicker.co/no/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://brainrotclicker.co/fr/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://brainrotclicker.co/nl/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://brainrotclicker.co/es/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://brainrotclicker.co/de/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="is" href="https://brainrotclicker.co/is/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://brainrotclicker.co/vi/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="lv" href="https://brainrotclicker.co/lv/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://brainrotclicker.co/ar/game/rolling-balls-space-race"/>
   </url>
   <url>
-    <loc>https://brainrotclicker.co/fr/game/rolling-balls-space-race</loc>
-    <lastmod>2025-06-03T07:06:11.463Z</lastmod>
+    <loc>https://brainrotclicker.co/fr/game/blood-money-game</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://brainrotclicker.co/en/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://brainrotclicker.co/en/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://brainrotclicker.co/fr/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://brainrotclicker.co/sv/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="no" href="https://brainrotclicker.co/no/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="da" href="https://brainrotclicker.co/da/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://brainrotclicker.co/nl/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://brainrotclicker.co/es/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://brainrotclicker.co/de/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="is" href="https://brainrotclicker.co/is/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://brainrotclicker.co/vi/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="lv" href="https://brainrotclicker.co/lv/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://brainrotclicker.co/ar/game/rolling-balls-space-race"/>
   </url>
   <url>
-    <loc>https://brainrotclicker.co/nl/game/rolling-balls-space-race</loc>
-    <lastmod>2025-06-03T07:06:11.463Z</lastmod>
+    <loc>https://brainrotclicker.co/nl/game/blood-money-game</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://brainrotclicker.co/en/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://brainrotclicker.co/en/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://brainrotclicker.co/nl/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://brainrotclicker.co/sv/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="no" href="https://brainrotclicker.co/no/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="da" href="https://brainrotclicker.co/da/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://brainrotclicker.co/fr/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://brainrotclicker.co/es/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://brainrotclicker.co/de/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="is" href="https://brainrotclicker.co/is/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://brainrotclicker.co/vi/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="lv" href="https://brainrotclicker.co/lv/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://brainrotclicker.co/ar/game/rolling-balls-space-race"/>
   </url>
   <url>
-    <loc>https://brainrotclicker.co/es/game/rolling-balls-space-race</loc>
-    <lastmod>2025-06-03T07:06:11.463Z</lastmod>
+    <loc>https://brainrotclicker.co/es/game/blood-money-game</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://brainrotclicker.co/en/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://brainrotclicker.co/en/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://brainrotclicker.co/es/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://brainrotclicker.co/sv/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="no" href="https://brainrotclicker.co/no/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="da" href="https://brainrotclicker.co/da/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://brainrotclicker.co/fr/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://brainrotclicker.co/nl/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://brainrotclicker.co/de/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="is" href="https://brainrotclicker.co/is/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://brainrotclicker.co/vi/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="lv" href="https://brainrotclicker.co/lv/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://brainrotclicker.co/ar/game/rolling-balls-space-race"/>
   </url>
   <url>
-    <loc>https://brainrotclicker.co/de/game/rolling-balls-space-race</loc>
-    <lastmod>2025-06-03T07:06:11.463Z</lastmod>
+    <loc>https://brainrotclicker.co/de/game/blood-money-game</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://brainrotclicker.co/en/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://brainrotclicker.co/en/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://brainrotclicker.co/de/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://brainrotclicker.co/sv/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="no" href="https://brainrotclicker.co/no/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="da" href="https://brainrotclicker.co/da/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://brainrotclicker.co/fr/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://brainrotclicker.co/nl/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://brainrotclicker.co/es/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="is" href="https://brainrotclicker.co/is/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://brainrotclicker.co/vi/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="lv" href="https://brainrotclicker.co/lv/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://brainrotclicker.co/ar/game/rolling-balls-space-race"/>
   </url>
   <url>
-    <loc>https://brainrotclicker.co/is/game/rolling-balls-space-race</loc>
-    <lastmod>2025-06-03T07:06:11.463Z</lastmod>
+    <loc>https://brainrotclicker.co/is/game/blood-money-game</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://brainrotclicker.co/en/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://brainrotclicker.co/en/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="is" href="https://brainrotclicker.co/is/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://brainrotclicker.co/sv/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="no" href="https://brainrotclicker.co/no/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="da" href="https://brainrotclicker.co/da/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://brainrotclicker.co/fr/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://brainrotclicker.co/nl/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://brainrotclicker.co/es/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://brainrotclicker.co/de/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://brainrotclicker.co/vi/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="lv" href="https://brainrotclicker.co/lv/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://brainrotclicker.co/ar/game/rolling-balls-space-race"/>
   </url>
   <url>
-    <loc>https://brainrotclicker.co/vi/game/rolling-balls-space-race</loc>
-    <lastmod>2025-06-03T07:06:11.463Z</lastmod>
+    <loc>https://brainrotclicker.co/vi/game/blood-money-game</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://brainrotclicker.co/en/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://brainrotclicker.co/en/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://brainrotclicker.co/vi/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://brainrotclicker.co/sv/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="no" href="https://brainrotclicker.co/no/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="da" href="https://brainrotclicker.co/da/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://brainrotclicker.co/fr/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://brainrotclicker.co/nl/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://brainrotclicker.co/es/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://brainrotclicker.co/de/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="is" href="https://brainrotclicker.co/is/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="lv" href="https://brainrotclicker.co/lv/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://brainrotclicker.co/ar/game/rolling-balls-space-race"/>
   </url>
   <url>
-    <loc>https://brainrotclicker.co/lv/game/rolling-balls-space-race</loc>
-    <lastmod>2025-06-03T07:06:11.463Z</lastmod>
+    <loc>https://brainrotclicker.co/lv/game/blood-money-game</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://brainrotclicker.co/en/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://brainrotclicker.co/en/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="lv" href="https://brainrotclicker.co/lv/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://brainrotclicker.co/sv/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="no" href="https://brainrotclicker.co/no/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="da" href="https://brainrotclicker.co/da/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://brainrotclicker.co/fr/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://brainrotclicker.co/nl/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://brainrotclicker.co/es/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://brainrotclicker.co/de/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="is" href="https://brainrotclicker.co/is/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://brainrotclicker.co/vi/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://brainrotclicker.co/ar/game/rolling-balls-space-race"/>
   </url>
   <url>
-    <loc>https://brainrotclicker.co/ar/game/rolling-balls-space-race</loc>
-    <lastmod>2025-06-03T07:06:11.463Z</lastmod>
+    <loc>https://brainrotclicker.co/ar/game/blood-money-game</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://brainrotclicker.co/en/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://brainrotclicker.co/en/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://brainrotclicker.co/ar/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://brainrotclicker.co/sv/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="no" href="https://brainrotclicker.co/no/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="da" href="https://brainrotclicker.co/da/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://brainrotclicker.co/fr/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://brainrotclicker.co/nl/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://brainrotclicker.co/es/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://brainrotclicker.co/de/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="is" href="https://brainrotclicker.co/is/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://brainrotclicker.co/vi/game/rolling-balls-space-race"/>
-    <xhtml:link rel="alternate" hreflang="lv" href="https://brainrotclicker.co/lv/game/rolling-balls-space-race"/>
+  </url>
+  <url>
+    <loc>https://brainrotclicker.co/game/merge-fellas</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brainrotclicker.co/sv/game/merge-fellas</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brainrotclicker.co/no/game/merge-fellas</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brainrotclicker.co/da/game/merge-fellas</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brainrotclicker.co/fr/game/merge-fellas</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brainrotclicker.co/nl/game/merge-fellas</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brainrotclicker.co/es/game/merge-fellas</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brainrotclicker.co/de/game/merge-fellas</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brainrotclicker.co/is/game/merge-fellas</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brainrotclicker.co/vi/game/merge-fellas</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brainrotclicker.co/lv/game/merge-fellas</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brainrotclicker.co/ar/game/merge-fellas</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brainrotclicker.co/game/italian-brainrot-obby-parkour</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brainrotclicker.co/sv/game/italian-brainrot-obby-parkour</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brainrotclicker.co/no/game/italian-brainrot-obby-parkour</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brainrotclicker.co/da/game/italian-brainrot-obby-parkour</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brainrotclicker.co/fr/game/italian-brainrot-obby-parkour</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brainrotclicker.co/nl/game/italian-brainrot-obby-parkour</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brainrotclicker.co/es/game/italian-brainrot-obby-parkour</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brainrotclicker.co/de/game/italian-brainrot-obby-parkour</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brainrotclicker.co/is/game/italian-brainrot-obby-parkour</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brainrotclicker.co/vi/game/italian-brainrot-obby-parkour</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brainrotclicker.co/lv/game/italian-brainrot-obby-parkour</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brainrotclicker.co/ar/game/italian-brainrot-obby-parkour</loc>
+    <lastmod>2025-08-16T03:31:57.596Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>

@@ -1,0 +1,34 @@
+{
+  "howToPlay": {
+    "title": "Hoe te spelen",
+    "description": "BLOODMONEY is een donker psychologisch klikspel waarbij je $25,000 nodig hebt voor een levensreddende operatie. Ontmoet Harvey Harvington bij een kraampje langs de weg die $1 per klik aanbiedt. Je kunt je inkomsten verhogen door gereedschappen te kopen die hem pijn doen - maar elke klik veroorzaakt pijn. De morele keuze is aan jou: blijf vriendelijk en verdien langzaam, of veroorzaak schade voor sneller geld. Jouw beslissingen bepalen een van de drie mogelijke eindes.\n\nStrategische paden:\n• Goed pad: Gebruik alleen onschadelijke gereedschappen (veer) - moeilijkst maar meest ethische einde\n• Normaal pad: Mix van pijnlijke en vriendelijke gereedschappen - Harvey overleeft maar draagt gevolgen\n• Donker pad: Gebruik wrede wapens voor snel geld - leidt tot het donkerste einde\n• Gereedschapsprogressie: Veer → Naald → Schaar → Vuur → Pistool\n• Het pistool beëindigt het spel onmiddellijk maar met ernstige gevolgen voor beide personages"
+  },
+  "tips": {
+    "title": "Speltips",
+    "description": "Beheers deze belangrijke strategieën en morele overwegingen:",
+    "tip1": "Begin met vriendelijke gereedschappen zoals de veer ($2 per klik) om schade te minimaliseren terwijl je geld opbouwt",
+    "tip2": "Overweeg de langetermijngevolgen - elk gereedschap escaleert de ernst van schade aan Harvey",
+    "tip3": "Monitor je voortgang naar $25,000 en beslis vroeg over je morele grenzen",
+    "tip4": "Onthoud dat sneller geld komt ten koste van Harvey's welzijn en je geweten",
+    "tip5": "Jouw keuzes vormen het einde - goed, normaal of slecht gebaseerd op je morele beslissingen"
+  },
+
+  "faq": {
+    "goal": {
+      "question": "Wat is het doel van het spel?",
+      "answer": "Jouw doel is om $25,000 te verdienen voor een levensreddende operatie door op Harvey Harvington te klikken. Je begint met $1 per klik verdienen, maar kunt gereedschappen kopen om inkomsten te verhogen ten koste van hem pijn te doen. De hoofduitdaging is beslissen hoe ver je moreel wilt gaan om je financiële doel te bereiken."
+    },
+    "tracks": {
+      "question": "Wat zijn de verschillende eindes?",
+      "answer": "Er zijn drie eindes gebaseerd op je morele keuzes: Goed Einde (alleen vriendelijke methoden gebruiken, Harvey blijft ongedeerd), Normaal Einde (mix van gereedschappen, Harvey overleeft maar is getekend en daagt je voor de rechter), en Slecht Einde (de wreedste wapens gebruiken leidt tot de donkerste uitkomst waarbij geen personage overleeft)."
+    },
+    "mobile": {
+      "question": "Welke gereedschappen kan ik kopen en hoe werken ze?",
+      "answer": "Je kunt verschillende gereedschappen kopen met escalerende schadeniveaus: Veer (onschadelijk, $2 per klik), Naald (pijnlijk), Schaar (scherp en wreed), Vuur (brandt voor massaal geld), en Pistool (onmiddellijk speleinde met donkerste uitkomst). Elk gereedschap verhoogt je inkomsten maar veroorzaakt meer lijden voor Harvey."
+    },
+    "multiplayer": {
+      "question": "Is dit spel geschikt voor alle spelers?",
+      "answer": "BLOODMONEY is een psychologisch horror klikspel dat donkere morele thema's verkent over wanhoop, hebzucht en de kosten van overleven. Hoewel het schattige pastelkunst toont, behandelt het serieuze ethische dilemma's en geweld. Spelers moeten voorbereid zijn op emotioneel ongemak en morele introspectie omdat het spel je geweten uitdaagt."
+    }
+  }
+}

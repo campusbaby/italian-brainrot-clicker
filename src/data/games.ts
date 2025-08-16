@@ -23,21 +23,20 @@ export const games: Game[] = [
     supportsReset: true
   },
   {
-    id: 'rolling-balls-space-race',
-    title: 'Rolling Balls Space Race',
-    description: 'High-speed sci-fi racing game where you control a blazing ball through glowing tracks in space! Time your jumps perfectly and dodge obstacles in this cosmic thrill ride.',
-    thumbnailUrl: '/images/games/rolling-balls-space-race.jpg',
-    iframeUrl: 'https://www.crazygames.com/embed/rolling-balls-space-race',
+    id: 'blood-money-game',
+    title: 'Blood Money Game',
+    description: 'Dark psychological clicker game where you need $25,000 for surgery. Click Harvey for money, but earning more requires causing him pain. How far will you go? Three endings await based on your moral choices.',
+    thumbnailUrl: '/images/games/blood-money.png',
+    iframeUrl: 'https://html-classic.itch.zone/html/14646601/index.html',
     aspectRatio: '16:9',
-    supportsReset: true,
-    allowAttributes: 'gamepad *;'
+    supportsReset: true
   },
   {
-    id: 'flick-goal',
-    title: 'Flick Goal',
-    description: 'Fun soccer shooting game where you control the direction and power of your shots with precise flicks. Challenge various obstacles and goalkeepers to become the ultimate striker!',
-    thumbnailUrl: '/images/games/flick-goal.jpg',
-    iframeUrl: 'https://playgroundfree.github.io/flick-goal/',
+    id: 'merge-fellas',
+    title: 'Merge Fellas',
+    description: 'Unleash AI-generated memes! Merge Fellas Italian Brainrot: Combine bizarre creatures, absurd humor, and viral chaos. Play now, it\'s free!',
+    thumbnailUrl: '/images/games/merge-fellas.png',
+    iframeUrl: 'https://mergefellas.io/embed/merge-fellas/',
     aspectRatio: '16:9',
     supportsReset: true
   },

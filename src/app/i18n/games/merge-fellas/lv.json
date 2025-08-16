@@ -1,0 +1,65 @@
+{
+  "howToPlay": {
+    "title": "Kā spēlēt",
+    "description": "Merge Fellas ir ārkārtējs mīklu piedzīvojums, kas apvieno atkarību izraisošas apvienošanas mehānikas ar jautro haosu no Italian Brainrot. Vienkārši noklikšķiniet un velciet līdzīgus priekšmetus, lai izveidotu progresīvākus tēlus. Galvenā spēle koncentrējas uz stratēģisko plānošanu un telpas pārvaldību, lai izvairītos no nekārtīgiem izkārtojumiem."
+  },
+  "tips": {
+    "title": "Spēles padomi",
+    "description": "Apgūstiet šīs galvenās stratēģijas Merge Fellas panākumiem:",
+    "tip1": "Prioritizējiet ķēdes apvienošanas: Viena apvienošana var izraisīt vairākas ķēdes reakcijas un maksimizēt atdevi",
+    "tip2": "Koncentrējieties uz retiem tēliem: Daži progresīvi tēli prasa specifiskas apvienošanas kombinācijas",
+    "tip3": "Rezervējiet dēļa vietu: Ar ierobežotu dēļa vietu, pareiza telpas pārvaldība novērš iestrēgšanu",
+    "tip4": "Izmantojiet tēlu evolūcijas diagrammas: Plānojiet optimālo apvienošanas maršrutu iepriekš",
+    "tip5": "Piedalieties laika ierobežotos notikumos: Regulāri tematiski notikumi sniedz papildu balvas un unikālus tēlus"
+  },
+  "features": {
+    "title": "Spēles funkcijas",
+    "description": "Atklājiet, kas padara Merge Fellas unikālu:",
+    "feature1": {
+      "title": "Unikāla apvienošanas mehānika",
+      "description": "Atšķirībā no tradicionālajām match-three spēlēm, Merge Fellas uzsver ilgtermiņa plānošanu un telpas pārvaldību, liekot spēlētājiem domāt par optimālo stratēģiju katrā apvienošanas solī."
+    },
+    "feature2": {
+      "title": "Italian Brainrot tēli",
+      "description": "Ietver vairāk nekā 50 tēlus, kas iedvesmoti no Italian Brainrot kultūras, piemēram, Cappuccino Baleta Dejotāju un Lidojošo Pizza Kaķi. Piedzīvojiet surreālu apvienošanas prieku ar absurdiem un humoristiskiem tēliem."
+    },
+    "feature3": {
+      "title": "Progresīvs grūtības dizains",
+      "description": "Līmeņi pakāpeniski palielinās grūtībā, no vienkāršiem apvienošanas izaicinājumiem līdz sarežģītām mīklām, nodrošinot, ka spēlētāji konsekventi jūtas atsvaidzināti, neatkarīgi no tā, vai viņi ir iesācēji vai pieredzējuši."
+    },
+    "feature4": {
+      "title": "Dažādi spēles režīmi",
+      "description": "Piedāvā 7 dažādus režīmus ar tēmām, ieskaitot Italian Brainrot, Suni, Kaķi un Kapibaru, katrs ar unikāliem mērķiem, kas nodrošina neatkārtojošos spēli."
+    },
+    "feature5": {
+      "title": "Starpplatformu saderība",
+      "description": "Atbalsta tiešsaistes spēli, kas ir ideāla draugiem, kuri dod priekšroku nelejupielādēt lietotnes. Darbojas uz Android, iOS un Windows, lai nodrošinātu konsekventu pieredzi visās ierīcēs."
+    }
+  },
+  "controller": {
+    "title": "Vadība",
+    "description": "Vienkārša un intuitīva vadība padara Merge Fellas pieejamu visiem prasmju līmeņiem. Izmantojiet peli, lai vilktu priekšmetus un rūpīgi tos novietotu. Iesācēju ceļvedis vada spēlētājus ātrai sākšanai."
+  },
+  "faq": {
+    "goal": {
+      "question": "Kāds ir Merge Fellas mērķis?",
+      "answer": "Mērķis ir stratēģiski apvienot līdzīgus priekšmetus, lai izveidotu progresīvus tēlus un atbloķētu vairāk nekā 50 unikālus Italian Brainrot iedvesmotus radījumus. Plānojiet savus gājienus, lai izraisītu ķēdes reakcijas un sasniegtu augstus rezultātus, vienlaikus pārvaldot ierobežoto dēļa vietu."
+    },
+    "characters": {
+      "question": "Cik daudz tēlu es varu atbloķēt?",
+      "answer": "Merge Fellas ietver vairāk nekā 50 tēlus, kas iedvesmoti no Italian Brainrot kultūras, ieskaitot Cappuccino Baleta Dejotāju, Lidojošo Pizza Kaķi un daudz citus absurdus un humoristiskus radījumus. Katram tēlam ir unikālas īpašības un evolūcijas ceļi."
+    },
+    "modes": {
+      "question": "Kādi spēles režīmi ir pieejami?",
+      "answer": "Spēle piedāvā 7 dažādus režīmus ar tēmām, ieskaitot Italian Brainrot, Suni, Kaķi un Kapibaru. Katrs režīms satur atšķirīgus priekšmetus un vizuālos stilus, nodrošinot dažādas spēles pieredzes visām vēlmēm."
+    },
+    "strategy": {
+      "question": "Kādas ir labākās stratēģijas panākumiem?",
+      "answer": "Koncentrējieties uz ķēdes apvienošanām maksimālai atdevei, prioritizējiet retu tēlu kombinācijas, efektīvi pārvaldiet dēļa vietu un piedalieties laika ierobežotos notikumos. Izmantojiet tēlu evolūcijas diagrammas, lai plānotu optimālos apvienošanas maršrutus."
+    },
+    "platforms": {
+      "question": "Kādas platformas atbalsta Merge Fellas?",
+      "answer": "Merge Fellas darbojas uz Android, iOS, Windows un tīmekļa pārlūkprogrammām, neprasot lejupielādes. Starpplatformu saderība nodrošina, ka visi spēlētāji var baudīt konsekventu pieredzi visās ierīcēs."
+    }
+  }
+}

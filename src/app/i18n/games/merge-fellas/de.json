@@ -1,0 +1,65 @@
+{
+  "howToPlay": {
+    "title": "Wie man spielt",
+    "description": "Merge Fellas ist ein außergewöhnliches Puzzle-Abenteuer, das süchtig machende Verschmelzungsmechaniken mit dem urkomischen Chaos des Italian Brainrot kombiniert. Klicken und ziehen Sie einfach ähnliche Gegenstände, um fortgeschrittenere Charaktere zu erstellen. Das Kernspiel dreht sich um strategische Planung und Raumverwaltung, um unübersichtliche Layouts zu vermeiden."
+  },
+  "tips": {
+    "title": "Spieltipps",
+    "description": "Meistern Sie diese Schlüsselstrategien für Merge Fellas Erfolg:",
+    "tip1": "Priorisieren Sie Kettenverschmelzungen: Eine einzige Verschmelzung kann mehrere Kettenreaktionen auslösen und die Erträge maximieren",
+    "tip2": "Konzentrieren Sie sich auf seltene Charaktere: Einige fortgeschrittene Charaktere erfordern spezifische Verschmelzungskombinationen",
+    "tip3": "Reservieren Sie Brettplatz: Bei begrenztem Brettplatz verhindert ordnungsgemäße Raumverwaltung das Festfahren",
+    "tip4": "Nutzen Sie Charakterentwicklungsdiagramme: Planen Sie die optimale Verschmelzungsroute im Voraus",
+    "tip5": "Nehmen Sie an zeitlich begrenzten Events teil: Regelmäßige thematische Events bieten zusätzliche Belohnungen und einzigartige Charaktere"
+  },
+  "features": {
+    "title": "Spielfunktionen",
+    "description": "Entdecken Sie, was Merge Fellas einzigartig macht:",
+    "feature1": {
+      "title": "Einzigartiger Verschmelzungsmechanismus",
+      "description": "Im Gegensatz zu traditionellen Match-Three-Spielen betont Merge Fellas langfristige Planung und Raumverwaltung, wodurch Spieler über die optimale Strategie bei jedem Verschmelzungsschritt nachdenken müssen."
+    },
+    "feature2": {
+      "title": "Italian Brainrot Charaktere",
+      "description": "Bietet über 50 Charaktere, die von der Italian Brainrot Kultur inspiriert sind, wie die Cappuccino Balletttänzerin und die Fliegende Pizza Katze. Erleben Sie surrealen Verschmelzungsspaß mit absurden und humorvollen Charakteren."
+    },
+    "feature3": {
+      "title": "Progressives Schwierigkeitsdesign",
+      "description": "Level steigen allmählich im Schwierigkeitsgrad, von einfachen Verschmelzungsherausforderungen zu komplexen Rätseln, wodurch sichergestellt wird, dass sich Spieler konstant erfrischt fühlen, ob Anfänger oder erfahren."
+    },
+    "feature4": {
+      "title": "Vielfältige Spielmodi",
+      "description": "Bietet 7 verschiedene Modi mit Themen wie Italian Brainrot, Hund, Katze und Capybara, jeder mit einzigartigen Zielen, die nicht-repetitives Gameplay gewährleisten."
+    },
+    "feature5": {
+      "title": "Plattformübergreifende Kompatibilität",
+      "description": "Unterstützt Online-Gameplay, ideal für Freunde, die es vorziehen, keine Apps herunterzuladen. Läuft auf Android, iOS und Windows für konsistente Erfahrung auf allen Geräten."
+    }
+  },
+  "controller": {
+    "title": "Steuerung",
+    "description": "Einfache und intuitive Steuerung macht Merge Fellas für alle Fähigkeitsstufen zugänglich. Verwenden Sie Ihre Maus, um Gegenstände zu ziehen und sie sorgfältig zu positionieren. Das Anfänger-Tutorial führt Spieler zum schnellen Einstieg."
+  },
+  "faq": {
+    "goal": {
+      "question": "Was ist das Ziel von Merge Fellas?",
+      "answer": "Das Ziel ist es, strategisch ähnliche Gegenstände zu verschmelzen, um fortgeschrittene Charaktere zu erstellen und über 50 einzigartige Italian Brainrot-inspirierte Kreaturen freizuschalten. Planen Sie Ihre Züge, um Kettenreaktionen auszulösen und hohe Punkte zu erzielen, während Sie begrenzten Brettplatz verwalten."
+    },
+    "characters": {
+      "question": "Wie viele Charaktere kann ich freischalten?",
+      "answer": "Merge Fellas bietet über 50 Charaktere, die von der Italian Brainrot Kultur inspiriert sind, einschließlich der Cappuccino Balletttänzerin, der Fliegenden Pizza Katze und vielen anderen absurden und humorvollen Kreaturen. Jeder Charakter hat einzigartige Eigenschaften und Entwicklungswege."
+    },
+    "modes": {
+      "question": "Welche Spielmodi sind verfügbar?",
+      "answer": "Das Spiel bietet 7 verschiedene Modi mit Themen wie Italian Brainrot, Hund, Katze und Capybara. Jeder Modus bietet charakteristische Gegenstände und visuelle Stile, die vielfältige Gameplay-Erfahrungen für alle Vorlieben gewährleisten."
+    },
+    "strategy": {
+      "question": "Was sind die besten Strategien für den Erfolg?",
+      "answer": "Konzentrieren Sie sich auf Kettenverschmelzungen für maximale Erträge, priorisieren Sie seltene Charakterkombinationen, verwalten Sie Brettplatz effizient und nehmen Sie an zeitlich begrenzten Events teil. Verwenden Sie Charakterentwicklungsdiagramme, um optimale Verschmelzungsrouten zu planen."
+    },
+    "platforms": {
+      "question": "Welche Plattformen unterstützen Merge Fellas?",
+      "answer": "Merge Fellas läuft auf Android, iOS, Windows und Webbrowsern ohne Downloads zu erfordern. Die plattformübergreifende Kompatibilität stellt sicher, dass alle Spieler eine konsistente Erfahrung auf allen Geräten genießen können."
+    }
+  }
+}

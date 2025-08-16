@@ -1,0 +1,65 @@
+{
+  "howToPlay": {
+    "title": "Hoe te spelen",
+    "description": "Merge Fellas is een buitengewoon puzzelavontuur dat verslavende samenvoegingsmechanismen combineert met de hilarische chaos van Italian Brainrot. Klik en sleep eenvoudig vergelijkbare items om meer geavanceerde personages te maken. De kernspel draait om strategische planning en ruimtebeheer om rommelige lay-outs te vermijden."
+  },
+  "tips": {
+    "title": "Speltips",
+    "description": "Beheers deze belangrijke strategieën voor Merge Fellas succes:",
+    "tip1": "Geef prioriteit aan kettingsamenvoegingen: Een enkele samenvoeging kan meerdere kettingreacties veroorzaken, waardoor het rendement wordt gemaximaliseerd",
+    "tip2": "Focus op zeldzame personages: Sommige geavanceerde personages vereisen specifieke samenvoegingscombinaties",
+    "tip3": "Reserveer bordruimte: Met beperkte bordruimte voorkomt goed ruimtebeheer vastlopen",
+    "tip4": "Gebruik personage-evolutiegrafieken: Plan de optimale samenvoegingsroute van tevoren",
+    "tip5": "Neem deel aan tijdelijke evenementen: Regelmatige thematische evenementen bieden extra beloningen en unieke personages"
+  },
+  "features": {
+    "title": "Spelfuncties",
+    "description": "Ontdek wat Merge Fellas uniek maakt:",
+    "feature1": {
+      "title": "Uniek samenvoegingsmechanisme",
+      "description": "In tegenstelling tot traditionele match-three spellen benadrukt Merge Fellas langetermijnplanning en ruimtebeheer, waardoor spelers nadenken over de optimale strategie bij elke samenvoegingsstap."
+    },
+    "feature2": {
+      "title": "Italian Brainrot personages",
+      "description": "Bevat meer dan 50 personages geïnspireerd door de Italian Brainrot cultuur, zoals de Cappuccino Balletdanseres en de Vliegende Pizza Kat. Ervaar surrealistisch samenvoegingsplezier met absurde en humoristische personages."
+    },
+    "feature3": {
+      "title": "Progressief moeilijkheidsontwerp",
+      "description": "Niveaus nemen geleidelijk toe in moeilijkheid, van eenvoudige samenvoegingsuitdagingen tot complexe puzzels, waardoor spelers zich constant verfrist voelen, of ze nu beginners of ervaren zijn."
+    },
+    "feature4": {
+      "title": "Diverse spelmodi",
+      "description": "Biedt 7 verschillende modi met thema's waaronder Italian Brainrot, Hond, Kat en Capybara, elk met unieke doelstellingen die niet-repetitieve gameplay garanderen."
+    },
+    "feature5": {
+      "title": "Cross-platform compatibiliteit",
+      "description": "Ondersteunt online gameplay ideaal voor vrienden die liever geen apps downloaden. Werkt op Android, iOS en Windows voor consistente ervaring op alle apparaten."
+    }
+  },
+  "controller": {
+    "title": "Besturing",
+    "description": "Eenvoudige en intuïtieve besturing maakt Merge Fellas toegankelijk voor alle vaardigheidsniveaus. Gebruik je muis om items te slepen en ze zorgvuldig te positioneren. De beginnersgids leidt spelers om snel te beginnen."
+  },
+  "faq": {
+    "goal": {
+      "question": "Wat is het doel van Merge Fellas?",
+      "answer": "Het doel is om strategisch vergelijkbare items samen te voegen om geavanceerde personages te maken en meer dan 50 unieke Italian Brainrot-geïnspireerde wezens te ontgrendelen. Plan je zetten om kettingreacties te veroorzaken en hoge scores te behalen terwijl je beperkte bordruimte beheert."
+    },
+    "characters": {
+      "question": "Hoeveel personages kan ik ontgrendelen?",
+      "answer": "Merge Fellas bevat meer dan 50 personages geïnspireerd door de Italian Brainrot cultuur, waaronder de Cappuccino Balletdanseres, de Vliegende Pizza Kat, en vele andere absurde en humoristische wezens. Elk personage heeft unieke eigenschappen en evolutiepaden."
+    },
+    "modes": {
+      "question": "Welke spelmodi zijn beschikbaar?",
+      "answer": "Het spel biedt 7 verschillende modi met thema's waaronder Italian Brainrot, Hond, Kat en Capybara. Elke modus bevat onderscheidende items en visuele stijlen, waardoor diverse gameplay-ervaringen voor alle voorkeuren worden gegarandeerd."
+    },
+    "strategy": {
+      "question": "Wat zijn de beste strategieën voor succes?",
+      "answer": "Focus op kettingsamenvoegingen voor maximaal rendement, geef prioriteit aan zeldzame personagecombinaties, beheer bordruimte efficiënt, en neem deel aan tijdelijke evenementen. Gebruik personage-evolutiegrafieken om optimale samenvoegingsroutes te plannen."
+    },
+    "platforms": {
+      "question": "Welke platforms ondersteunen Merge Fellas?",
+      "answer": "Merge Fellas werkt op Android, iOS, Windows en webbrowsers zonder downloads te vereisen. De cross-platform compatibiliteit zorgt ervoor dat alle spelers kunnen genieten van een consistente ervaring op alle apparaten."
+    }
+  }
+}

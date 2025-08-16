@@ -1,0 +1,34 @@
+{
+  "howToPlay": {
+    "title": "Comment jouer",
+    "description": "BLOODMONEY est un jeu de clics psychologique sombre où vous avez besoin de 25 000 $ pour une opération vitale. Rencontrez Harvey Harvington à un stand au bord de la route qui offre 1 $ par clic. Vous pouvez augmenter vos gains en achetant des outils qui lui font du mal - mais chaque clic cause de la douleur. Le choix moral vous appartient : restez doux et gagnez lentement, ou infligez du mal pour de l'argent plus rapide. Vos décisions détermineront l'une des trois fins possibles.\n\nChemins stratégiques :\n• Chemin du bien : Utilisez uniquement des outils inoffensifs (plume) - le plus difficile mais la fin la plus éthique\n• Chemin normal : Mélange d'outils douloureux et doux - Harvey survit mais subit les conséquences\n• Chemin sombre : Utilisez des armes cruelles pour de l'argent rapide - mène à la fin la plus sombre\n• Progression des outils : Plume → Aiguille → Ciseaux → Feu → Pistolet\n• Le pistolet termine le jeu instantanément mais avec de graves conséquences pour les deux personnages"
+  },
+  "tips": {
+    "title": "Conseils de jeu",
+    "description": "Maîtrisez ces stratégies clés et considérations morales :",
+    "tip1": "Commencez avec des outils doux comme la plume (2 $ par clic) pour minimiser les dommages tout en construisant des fonds",
+    "tip2": "Considérez les conséquences à long terme - chaque outil escalade la gravité des dommages à Harvey",
+    "tip3": "Surveillez vos progrès vers 25 000 $ et décidez de vos limites morales tôt",
+    "tip4": "Rappelez-vous que l'argent plus rapide vient au coût du bien-être d'Harvey et de votre conscience",
+    "tip5": "Vos choix façonnent la fin - bonne, normale ou mauvaise basée sur vos décisions morales"
+  },
+
+  "faq": {
+    "goal": {
+      "question": "Quel est l'objectif du jeu ?",
+      "answer": "Votre objectif est de gagner 25 000 $ pour une opération vitale en cliquant sur Harvey Harvington. Vous commencez à gagner 1 $ par clic, mais pouvez acheter des outils pour augmenter les gains au coût de lui causer de la douleur. Le défi principal est de décider jusqu'où vous êtes prêt à aller moralement pour atteindre votre objectif financier."
+    },
+    "tracks": {
+      "question": "Quelles sont les différentes fins ?",
+      "answer": "Il y a trois fins basées sur vos choix moraux : Bonne fin (utilisant uniquement des méthodes douces, Harvey reste indemne), Fin normale (mélange d'outils, Harvey survit mais est marqué et vous poursuit en justice), et Mauvaise fin (utiliser les armes les plus cruelles mène au résultat le plus sombre où aucun personnage ne survit)."
+    },
+    "mobile": {
+      "question": "Quels outils puis-je acheter et comment fonctionnent-ils ?",
+      "answer": "Vous pouvez acheter divers outils avec des niveaux de dommages croissants : Plume (inoffensive, 2 $ par clic), Aiguille (douloureuse), Ciseaux (tranchants et cruels), Feu (brûle pour de l'argent massif), et Pistolet (fin instantanée du jeu avec le résultat le plus sombre). Chaque outil augmente vos gains mais cause plus de souffrance à Harvey."
+    },
+    "multiplayer": {
+      "question": "Ce jeu convient-il à tous les joueurs ?",
+      "answer": "BLOODMONEY est un jeu de clics d'horreur psychologique qui explore des thèmes moraux sombres sur le désespoir, la cupidité et le coût de la survie. Bien qu'il présente un art pastel mignon, il traite de dilemmes éthiques sérieux et de violence. Les joueurs doivent être prêts pour l'inconfort émotionnel et l'introspection morale car le jeu défie votre conscience."
+    }
+  }
+}
